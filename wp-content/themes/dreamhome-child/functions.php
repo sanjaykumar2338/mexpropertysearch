@@ -495,7 +495,7 @@ function insert_province_state_custom($post_id, $location) {
 
     // If Zippopotam.us API did not return a state, fall back to Google Geocoding API using city
     if (!$state_name && $city) {
-        $google_api_key = "AIzaSyAjvANG3aBwPeDKfxQbGwVZU6Swf0iIhR8"; // Replace with your Google API Key
+        $google_api_key = ""; // Replace with your Google API Key
         $google_api_url = "https://maps.googleapis.com/maps/api/geocode/json?address=" . urlencode($city . ", " . $country) . "&key=" . $google_api_key;
         $google_response = wp_remote_get($google_api_url);
 
