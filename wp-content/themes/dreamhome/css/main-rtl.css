@@ -1,0 +1,238 @@
+
+/* Right To Left
+-------------------------------------------------------------- */
+.footer-navigation .themesflat-socials li:not(:last-child) {
+    margin-left: 8px;
+    margin-right: unset;
+}
+.footer-navigation .menu li:not(:last-child) {
+    margin-left: 40px;
+    margin-right: unset;
+}
+.phone-header-box .icon {
+    margin-left: 16px;
+    margin-right: unset;
+}
+.ft-mailchimp-form input[type="checkbox"] {
+    margin-left: 6px;
+    margin-right: unset;
+}
+.info-footer .wrap-info .box-add .thumb {
+    margin-left: 33px;
+    margin-right: unset;
+}
+#header .tf-btn {
+    margin-right: 25px;
+    margin-left: unset;
+}
+.widget_login_menu_widget, .login-header {
+    margin-right: 35px;
+    margin-left: unset;
+}
+#mainnav > ul > li.menu-item-has-children > a::after {
+    margin-right: 8px;
+    margin-left: unset;
+}
+#header .inner-canvas-nav .tf-btn {
+    margin: 0;
+}
+#mainnav_canvas ul li a {
+    text-align: right;
+    padding: 10px 30px 10px 0px;
+}
+#header .inner-canvas-nav .logo {
+    justify-content: right;
+}
+#header .inner-canvas-nav .group-header-logo .show-search {
+    left: 20px;
+    right: unset;
+}
+.contact-home {
+    text-align: right;
+}
+.contact-home .icon-dreamhome-chat {
+    right: unset;
+    left: 32px;
+}
+.contact-home input, .contact-home .nice-select {
+    padding-left: unset;
+    padding-right: 46px;
+    text-align: right;
+}
+.contact-home .group-icon i {
+    left: unset;
+    right: 20px;
+}
+.contact-home .nice-select {
+    padding-right: 46px;
+    padding-left: 20px;
+}
+.nice-select .current {
+    padding-right: 0px;
+    padding-left: 20px;
+    text-align: right;
+    z-index: 11;
+}
+.nice-select .current:after {
+    right: unset;
+    left: 0;
+}
+.contact-home textarea,
+.tfre-table-listing .favorite-listing .tfre-property-summary,
+.tfre-my-property-sc .tfre-property-listing .tfre-property-summary {
+    text-align: right;
+}
+.select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b,
+ .select2-container--default .select2-selection--single .select2-selection__arrow b {
+    margin-left: 10px;
+}
+.contact-seller input,
+.contact-seller textarea,
+#footer .footer-widgets .widgets-areas > .widget-title {
+    text-align: right;
+}
+.widget.widget_categories ul li > a:after,
+ .widget.widget_archive ul li > a:after,
+  .widget.widget_pages ul li > a:after,
+   .widget.widget_block .wp-block-categories li a::after {
+    right: unset;
+    left: 2px;
+}
+article .entry-meta ul li,
+ article .post-meta .item-meta {
+    margin-right: unset;
+    margin-left: 30px;
+}
+.navigation.paging-navigation a.next i::before {
+    content: "\e907";
+}
+.navigation.paging-navigation a.prev i::before {
+    content: "\e906";
+}
+.blog-single .content-post-single .item-meta i,
+.tfre-compare-table .compare-features .property-location i {
+    margin-right: unset;
+    margin-left: 4px;
+}
+.tfre-dashboard .tfre-dashboard-overview .tfre-card .card-body .tfre-icon-overview,
+.tfre-my-review-listing .tfre-edit-review img {
+    margin-right: unset;
+    margin-left: 10px;
+}
+.tfre-dashboard .group-input-icon .datepicker-icon {
+    right: unset;
+    left: 10px;
+}
+.tfre-dashboard .table-responsive thead tr th:first-child,
+.tfre-dashboard .table-responsive thead tr th:last-child,
+.tfre-my-property-sc thead tr th:first-child,
+.tfre-table-listing thead tr th:last-child, .tfre-my-property-sc thead tr th:last-child,
+.tfre-table-listing thead tr th:first-child, .tfre-my-property-sc thead tr th:first-child {
+    border-radius: 0;
+}
+.tfre-dashboard .table-responsive .tfre-listing-product .thumbproduct img, .tfre-dashboard .table-responsive .tfre-listing-product img,
+.tfre-table-listing .favorite-listing .thumb img, .tfre-my-property-sc .tfre-property-listing .thumb img, .tfre-my-property-sc .tfre-property-listing img,
+.tfre_profile-form .tfre_choose_avatar .avatar, .tfre_profile-form .tfre_choose_agent_poster .agent_poster,
+.blog-single .content-post-single .item-meta {
+    margin-right: unset;
+    margin-left: 20px;
+}
+.tfre-dashboard .table-responsive .tfre-table-content .column-controller .inner-controller a, .tfre-my-property-sc .controller a,
+.tfre-amenities .property-fields label,
+.group-checkbox label {
+    margin-left: unset;
+    margin-right: 6px;
+}
+.tfre-dashboard .tfre-dashboard-reviews ul li .group-author .avatar, .tfre-my-review-listing ul li .group-author .avatar,
+.sidebar-dashboard .db-author .author .avatar,
+.sidebar-dashboard .db-list-menu ul li a i,
+.single-property-element.property-info-detail #tfre-features .property-feature-wrap i {
+    margin-right: unset;
+    margin-left: 12px;
+}
+.tfre-compare-table .property-item-content {
+    text-align: right;
+}
+.page-title .breadcrumbs .trail-items,
+.blog-single .content-post-single .item-meta a {
+    display: flex;
+    align-items: center;
+}
+.wrap-checkbox .checkbox-item,
+.nice-select .option,
+.widget_login_menu_widget .dropdown-menu ul li,
+#mainnav ul.sub-menu li,
+.tfre-dashboard .table-responsive .tfre-listing-product .tfre-property-summary,
+.tfre-dashboard .table-responsive .tfre-table-content tr td,
+.tfre-table-listing tr td, .tfre-my-property-sc tr td,
+.tfre-upload-media .tfre-field-title h3, .tfre-property-information .tfre-field-title h3, .tfre-property-price-sc .tfre-field-title h3, .tfre-add-information .tfre-field-title h3, .tfre-file-attachment .tfre-field-title h3, .tfre-amenities .tfre-field-title h3, .tfre-virtual-360 .tfre-field-title h3, .tfre-video-sc .tfre-field-title h3, .tfre-floor-sc .tfre-field-title h3, .tfre-property-agent-sc .tfre-field-title h3 {
+    text-align: right;
+}
+#mainnav ul.sub-menu > li > a::after {
+    display: none;
+}
+#mainnav ul.sub-menu li.menu-item-has-children > a::before {
+    right: unset;
+    left: 20px;
+}
+#mainnav ul.sub-menu li ul.sub-menu {
+    left: unset;
+    right: 100%;
+}
+.tfre-dashboard .table-responsive .tfre-table-content .column-controller, .tfre-dashboard .table-responsive .th-controller {
+    padding-left: unset;
+    padding-right: 33px;
+}
+.single-property-element.property-info-detail #tfre-features .property-feature-wrap {
+    text-align: right;
+    display: flex;
+}
+.single-property-element.property-info-header .content-property-info,
+.single-property-element.property-info-header .property-year,
+.single-property-element.property-info-header .property-location {
+    display: inline-flex !important;
+    column-gap: 8px;
+    align-items: baseline;
+}
+.blog-single .content-post-single .item-meta,
+.blog-single .content-post-single .meta,
+.tfre-compare-table .compare-features .property-location {
+    display: flex;
+    align-items: center;
+}
+.sidebar-dashboard {
+    left: unset;
+    right: 0;
+}
+.themesflat-boxed.has-dashboard {
+    padding-left: unset;
+    padding-right: 300px;
+}
+.widget.widget_nav_menu ul li a::before,
+ footer .widget.widget_nav_menu ul li a::before {
+    display: none;
+}
+.widget.widget_nav_menu ul li a::after,
+ footer .widget.widget_nav_menu ul li a::after {
+    content: "\e907";
+    font-family: "dreamhome";
+    color: var(--theme-primary-color);
+    font-size: 14px;
+    vertical-align: middle;
+    margin-left: 7px;
+}
+#mainnav ul.sub-menu {
+    left: unset;
+    right: 0;
+}
+@media only screen and (max-width: 991px) {
+    .themesflat-boxed.has-dashboard {
+        padding-right: 0px;
+    }
+    .sidebar-dashboard {
+        -webkit-transform: translateX(100%);
+        -ms-transform: translateX(100%);
+        -o-transform: translateX(100%);
+        transform: translateX(100%);
+    }
+}

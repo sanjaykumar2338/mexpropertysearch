@@ -1,0 +1,3679 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Themesflat Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-26 08:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: themesflat-core"
+
+#: widgets/widget-project.php:423
+msgid " Background"
+msgstr ""
+
+#: widgets/widget-project.php:447
+msgid " Background Hover"
+msgstr ""
+
+#: widgets/widget-price-table.php:804 widgets/widget-price-table.php:879
+#: widgets/widget-price-table.php:957 widgets/widget-price-table.php:1026
+#: widgets/widget-price-table.php:1107
+msgid " Color"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:126
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:137
+#: themesflat-addons-for-elementor.php:151
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: widgets/widget-price-table.php:51
+msgid "$45.00"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:810
+msgid "0 stars"
+msgstr ""
+
+#: widgets/widget-list.php:39 widgets/widget-price-table.php:81
+msgid "01"
+msgstr ""
+
+#: widgets/widget-portfolio.php:113 widgets/widget-portfolio.php:129
+#: widgets/widget-portfolio.php:141 widgets/widget-posts.php:128
+#: widgets/widget-posts.php:143 widgets/widget-posts.php:157
+#: widgets/widget-posts.php:371 widgets/widget-posts.php:391
+#: widgets/widget-posts.php:408 widgets/widget-project.php:146
+#: widgets/widget-services.php:129 widgets/widget-testimonial-carousel.php:696
+#: widgets/widget-testimonial-carousel.php:713
+#: widgets/widget-testimonial-carousel.php:730
+#: widgets/widget-testimonial-carousel.php:747
+#: widgets/widget-woo-category.php:39
+#: widgets/widget-woo-products-banner.php:427
+#: widgets/widget-woo-products.php:110 widgets/widget-woo-products.php:204
+#: widgets/widget-woo-products.php:238 widgets/widget-woo-products.php:255
+msgid "1"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:811
+msgid "1 star"
+msgstr ""
+
+#: tf-icons.php:19
+msgid "135 Icons Solar Energy"
+msgstr ""
+
+#: widgets/widget-portfolio.php:114 widgets/widget-posts.php:129
+#: widgets/widget-posts.php:144 widgets/widget-posts.php:158
+#: widgets/widget-posts.php:372 widgets/widget-posts.php:392
+#: widgets/widget-posts.php:409 widgets/widget-project.php:147
+#: widgets/widget-services.php:130 widgets/widget-testimonial-carousel.php:697
+#: widgets/widget-testimonial-carousel.php:714
+#: widgets/widget-testimonial-carousel.php:731
+#: widgets/widget-testimonial-carousel.php:748
+#: widgets/widget-woo-category.php:40
+#: widgets/widget-woo-products-banner.php:428
+#: widgets/widget-woo-products.php:111 widgets/widget-woo-products.php:205
+#: widgets/widget-woo-products.php:220 widgets/widget-woo-products.php:239
+#: widgets/widget-woo-products.php:256
+msgid "2"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:812
+msgid "2 stars"
+msgstr ""
+
+#: widgets/widget-portfolio.php:115 widgets/widget-posts.php:130
+#: widgets/widget-posts.php:145 widgets/widget-posts.php:373
+#: widgets/widget-posts.php:393 widgets/widget-project.php:148
+#: widgets/widget-services.php:131 widgets/widget-testimonial-carousel.php:698
+#: widgets/widget-testimonial-carousel.php:715
+#: widgets/widget-testimonial-carousel.php:732
+#: widgets/widget-testimonial-carousel.php:749
+#: widgets/widget-woo-category.php:41
+#: widgets/widget-woo-products-banner.php:429
+#: widgets/widget-woo-products.php:112 widgets/widget-woo-products.php:221
+#: widgets/widget-woo-products.php:240
+msgid "3"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:813
+msgid "3 stars"
+msgstr ""
+
+#: widgets/widget-portfolio.php:116 widgets/widget-posts.php:131
+#: widgets/widget-posts.php:374 widgets/widget-project.php:149
+#: widgets/widget-services.php:132 widgets/widget-testimonial-carousel.php:699
+#: widgets/widget-testimonial-carousel.php:716
+#: widgets/widget-testimonial-carousel.php:733
+#: widgets/widget-testimonial-carousel.php:750
+#: widgets/widget-woo-category.php:42 widgets/widget-woo-products.php:113
+#: widgets/widget-woo-products.php:222
+msgid "4"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:814
+msgid "4 stars"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:682
+msgid "404 Page"
+msgstr ""
+
+#: widgets/widget-portfolio.php:117 widgets/widget-posts.php:375
+#: widgets/widget-project.php:150 widgets/widget-testimonial-carousel.php:700
+#: widgets/widget-testimonial-carousel.php:717
+#: widgets/widget-testimonial-carousel.php:734
+#: widgets/widget-testimonial-carousel.php:751
+#: widgets/widget-woo-category.php:43 widgets/widget-woo-products.php:114
+#: widgets/widget-woo-products.php:223
+msgid "5"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:815
+msgid "5 stars"
+msgstr ""
+
+#: widgets/widget-posts.php:376 widgets/widget-testimonial-carousel.php:701
+#: widgets/widget-testimonial-carousel.php:718
+#: widgets/widget-testimonial-carousel.php:735
+#: widgets/widget-testimonial-carousel.php:752
+msgid "6"
+msgstr ""
+
+#: widgets/widget-heading-section.php:70 widgets/widget-heading-section.php:125
+msgid "About Company"
+msgstr ""
+
+#: widgets/widget-navmenu.php:307 widgets/widget-navmenu.php:566
+#: widgets/widget-navmenu.php:1607 widgets/widget-slide-swiper.php:1681
+#: widgets/widget-tabs.php:601 widgets/widget-testimonial-carousel.php:1370
+msgid "Active"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:449
+msgid "Add Display Rule Group"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:468
+#: themesflat-addons-for-elementor.php:952
+msgid "Add Exclusion Rule Group"
+msgstr ""
+
+#: post-format/options.php:121
+msgid "Add file"
+msgstr ""
+
+#: post-format/options.php:241
+msgid "Add files"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:371
+msgid "Add New"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:372
+msgid "Add New Template"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:791
+msgid "Add Rule"
+msgstr ""
+
+#: widgets/widget-iconbox.php:962 widgets/widget-imagebox.php:1285
+msgid "After"
+msgstr ""
+
+#: widgets/widget-countdown.php:246 widgets/widget-counter.php:150
+#: widgets/widget-heading-section.php:88 widgets/widget-iconbox.php:529
+#: widgets/widget-iconbox.php:740 widgets/widget-iconbox.php:1132
+#: widgets/widget-imagebox.php:159 widgets/widget-imagebox.php:984
+#: widgets/widget-navmenu.php:1262 widgets/widget-posts.php:166
+#: widgets/widget-price-table.php:1180 widgets/widget-price-table.php:1459
+#: widgets/widget-slide-swiper.php:1797 widgets/widget-tabs.php:295
+#: widgets/widget-team.php:243 widgets/widget-title-section.php:85
+#: widgets/widget-video.php:111 widgets/widget-woo-category.php:212
+msgid "Alignment"
+msgstr ""
+
+#: widgets/widget-heading-section.php:132
+msgid "Alignment Blurred Text"
+msgstr ""
+
+#: widgets/widget-navmenu.php:89
+msgid "Alignment Menu"
+msgstr ""
+
+#: widgets/widget-tabs.php:140 widgets/widget-tabs.php:164
+#: widgets/widget-tabs.php:168 widgets/widget-tabs.php:172
+msgid ""
+"Aliquam faucibus, odio nec commodo aliquam, neque felis placerat dui, a "
+"porta ante lectus dapibus est. Aliquam a bibendum mi, sed condimentum"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:843
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:848
+#: themesflat-addons-for-elementor.php:856
+#, php-format
+msgid "All %s Archive"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:700
+msgid "All Archives"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:699
+msgid "All Singulars"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:376
+msgid "All Template"
+msgstr ""
+
+#: widgets/widget-step.php:81 widgets/widget-step.php:173
+#: widgets/widget-step.php:178 widgets/widget-step.php:183
+msgid ""
+"Amet consectetur adipiscineli sed do eiusmod tempor incididunt ut labore et "
+"dolore magna"
+msgstr ""
+
+#: widgets/widget-navmenu.php:433 widgets/widget-video.php:242
+msgid "Animation"
+msgstr ""
+
+#: widgets/widget-counter.php:103
+msgid "Animation Duration"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:258
+msgid "Apply Link On"
+msgstr ""
+
+#: widgets/widget-posts.php:420 widgets/widget-slide-swiper.php:1170
+#: widgets/widget-testimonial-carousel.php:764
+#: widgets/widget-testimonial-carousel.php:771
+#: widgets/widget-testimonial-type-group-carousel.php:892
+#: widgets/widget-testimonial-type-group-carousel.php:899
+msgid "Arrow"
+msgstr ""
+
+#: widgets/widget-navmenu.php:121 widgets/widget-slide-swiper.php:1157
+msgid "Arrows"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1156
+msgid "Arrows and Bullets"
+msgstr ""
+
+#: widgets/widget-woo-products.php:267
+msgid "Arrows Carousel"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1192
+msgid "Arrows Position"
+msgstr ""
+
+#: widgets/widget-woo-category.php:151
+msgid "ASC"
+msgstr ""
+
+#: widgets/widget-woo-products.php:98
+msgid "Ascending"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:687
+msgid "Author Archive"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:74 widgets/widget-slide-swiper.php:482
+msgid "Auto"
+msgstr ""
+
+#: widgets/widget-posts.php:352 widgets/widget-testimonial-carousel.php:668
+#: widgets/widget-testimonial-type-group-carousel.php:858
+#: widgets/widget-woo-products.php:170
+msgid "Auto Play"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:825
+msgid "Autoplay Speed"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:789
+msgid "Autoplay Transfer"
+msgstr ""
+
+#: widgets/widget-testimonial-carousel.php:394
+msgid "Avatar"
+msgstr ""
+
+#: widgets/widget-iconbox.php:355 widgets/widget-iconbox.php:436
+#: widgets/widget-iconbox.php:1225 widgets/widget-iconbox.php:1242
+#: widgets/widget-iconbox.php:1348 widgets/widget-imagebox.php:260
+#: widgets/widget-navmenu.php:256 widgets/widget-navmenu.php:293
+#: widgets/widget-navmenu.php:332 widgets/widget-navmenu.php:519
+#: widgets/widget-navmenu.php:552 widgets/widget-navmenu.php:586
+#: widgets/widget-navmenu.php:1281 widgets/widget-navmenu.php:1372
+#: widgets/widget-price-table.php:395 widgets/widget-price-table.php:461
+#: widgets/widget-price-table.php:492 widgets/widget-price-table.php:1206
+#: widgets/widget-price-table.php:1687 widgets/widget-price-table.php:1701
+#: widgets/widget-price-table.php:1778 widgets/widget-price-table.php:1806
+#: widgets/widget-slide-swiper.php:49 widgets/widget-slide-swiper.php:451
+#: widgets/widget-slide-swiper.php:1921 widgets/widget-team.php:553
+#: widgets/widget-team.php:613
+msgid "Background"
+msgstr ""
+
+#: widgets/widget-price-table.php:368 widgets/widget-price-table.php:434
+msgid "Background Blend Mode"
+msgstr ""
+
+#: widgets/widget-countdown.php:270 widgets/widget-heading-section.php:219
+#: widgets/widget-iconbox.php:878 widgets/widget-imagebox.php:414
+#: widgets/widget-imagebox.php:546 widgets/widget-imagebox.php:597
+#: widgets/widget-imagebox.php:684 widgets/widget-imagebox.php:1080
+#: widgets/widget-navmenu.php:945 widgets/widget-navmenu.php:978
+#: widgets/widget-navmenu.php:1110 widgets/widget-navmenu.php:1145
+#: widgets/widget-posts.php:676 widgets/widget-posts.php:744
+#: widgets/widget-posts.php:932 widgets/widget-posts.php:986
+#: widgets/widget-posts.php:1119 widgets/widget-price-table.php:631
+#: widgets/widget-price-table.php:671 widgets/widget-progress-bar.php:176
+#: widgets/widget-slide-swiper.php:455 widgets/widget-slide-swiper.php:1403
+#: widgets/widget-slide-swiper.php:1452 widgets/widget-slide-swiper.php:2369
+#: widgets/widget-slide-swiper.php:2407 widgets/widget-step.php:141
+#: widgets/widget-step.php:223 widgets/widget-step.php:288
+#: widgets/widget-step.php:605 widgets/widget-tabs.php:355
+#: widgets/widget-tabs.php:473 widgets/widget-tabs.php:549
+#: widgets/widget-tabs.php:617 widgets/widget-testimonial-carousel.php:181
+#: widgets/widget-testimonial-carousel.php:379
+#: widgets/widget-testimonial-carousel.php:1019
+#: widgets/widget-testimonial-carousel.php:1094
+#: widgets/widget-testimonial-carousel.php:1318
+#: widgets/widget-testimonial-carousel.php:1452
+#: widgets/widget-testimonial-type-group-carousel.php:232
+#: widgets/widget-testimonial-type-group-carousel.php:296
+#: widgets/widget-testimonial-type-group-carousel.php:1057
+#: widgets/widget-testimonial-type-group-carousel.php:1132
+#: widgets/widget-video.php:362 widgets/widget-video.php:449
+#: widgets/widget-woo-category.php:238
+#: widgets/widget-woo-products-banner.php:99
+#: widgets/widget-woo-products-banner.php:303
+#: widgets/widget-woo-products-banner.php:325
+#: widgets/widget-woo-products.php:332 widgets/widget-woo-products.php:384
+msgid "Background Color"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1022 widgets/widget-imagebox.php:558
+#: widgets/widget-imagebox.php:1135 widgets/widget-price-table.php:699
+#: widgets/widget-step.php:620
+msgid "Background Color Hover"
+msgstr ""
+
+#: widgets/widget-price-table.php:506 widgets/widget-team.php:583
+#: widgets/widget-team.php:643
+msgid "Background Hover"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:54 widgets/widget-slide-swiper.php:466
+#: widgets/widget-woo-products-banner.php:111
+msgid "Background Image"
+msgstr ""
+
+#: widgets/widget-price-table.php:354 widgets/widget-price-table.php:420
+#: widgets/widget-slide-swiper.php:134
+msgid "Background Overlay"
+msgstr ""
+
+#: widgets/widget-tabs.php:705
+msgid "Background Type"
+msgstr ""
+
+#: widgets/widget-list.php:168 widgets/widget-team.php:311
+msgid "Backround"
+msgstr ""
+
+#: widgets/widget-price-table.php:91 widgets/widget-price-table.php:565
+msgid "Badge"
+msgstr ""
+
+#: widgets/widget-piechart.php:213
+msgid "Bar Background Color"
+msgstr ""
+
+#: widgets/widget-piechart.php:204
+msgid "Bar Color"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:696
+msgid "Basic"
+msgstr ""
+
+#: widgets/widget-price-table.php:72
+msgid "Basic Package "
+msgstr ""
+
+#: widgets/widget-iconbox.php:961 widgets/widget-imagebox.php:1284
+msgid "Before"
+msgstr ""
+
+#: widgets/widget-heading-section.php:68 widgets/widget-heading-section.php:168
+#: widgets/widget-testimonial-type-group-carousel.php:53
+#: widgets/widget-testimonial-type-group-carousel.php:245
+msgid "Before Heading"
+msgstr ""
+
+#: widgets/widget-list.php:37 widgets/widget-list.php:112
+msgid "Before Title"
+msgstr ""
+
+#: widgets/widget-woo-products.php:65
+msgid "Best Selling Products"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1623
+msgid "Bleed"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:172
+msgid "Blend Mode"
+msgstr ""
+
+#: widgets/widget-countdown.php:354
+msgid "Block"
+msgstr ""
+
+#: tf-post-format.php:113
+msgid "Blog"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:684
+msgid "Blog / Posts Page"
+msgstr ""
+
+#: widgets/widget-heading-section.php:117
+#: widgets/widget-heading-section.php:123
+#: widgets/widget-heading-section.php:330 widgets/widget-title-section.php:65
+#: widgets/widget-title-section.php:214 widgets/widget-video.php:91
+#: widgets/widget-video.php:480
+msgid "Blurred Text"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1100 widgets/widget-imagebox.php:1193
+msgid "Bob"
+msgstr ""
+
+#: widgets/widget-counter.php:178 widgets/widget-counter.php:309
+#: widgets/widget-iconbox.php:891 widgets/widget-iconbox.php:1035
+#: widgets/widget-iconbox.php:1195 widgets/widget-iconbox.php:1439
+#: widgets/widget-iconbox.php:1451 widgets/widget-imagebox.php:239
+#: widgets/widget-imagebox.php:1093 widgets/widget-imagebox.php:1210
+#: widgets/widget-navmenu.php:226 widgets/widget-navmenu.php:709
+#: widgets/widget-posts.php:691 widgets/widget-posts.php:759
+#: widgets/widget-posts.php:947 widgets/widget-posts.php:1001
+#: widgets/widget-posts.php:1099 widgets/widget-posts.php:1177
+#: widgets/widget-price-table.php:333 widgets/widget-slide-swiper.php:1415
+#: widgets/widget-slide-swiper.php:1464 widgets/widget-slide-swiper.php:1653
+#: widgets/widget-slide-swiper.php:1701 widgets/widget-tabs.php:484
+#: widgets/widget-tabs.php:560 widgets/widget-tabs.php:628
+#: widgets/widget-tabs.php:744 widgets/widget-testimonial-carousel.php:1035
+#: widgets/widget-testimonial-carousel.php:1111
+#: widgets/widget-testimonial-carousel.php:1334
+#: widgets/widget-testimonial-carousel.php:1468
+#: widgets/widget-testimonial-type-group-carousel.php:1073
+#: widgets/widget-testimonial-type-group-carousel.php:1149
+#: widgets/widget-woo-products.php:348 widgets/widget-woo-products.php:401
+msgid "Border"
+msgstr ""
+
+#: widgets/widget-iconbox.php:367 widgets/widget-iconbox.php:448
+#: widgets/widget-navmenu.php:738 widgets/widget-navmenu.php:805
+#: widgets/widget-navmenu.php:872 widgets/widget-navmenu.php:1493
+#: widgets/widget-price-table.php:1737 widgets/widget-price-table.php:1751
+#: widgets/widget-price-table.php:1792 widgets/widget-price-table.php:1820
+#: widgets/widget-slide-swiper.php:2380 widgets/widget-slide-swiper.php:2418
+#: widgets/widget-step.php:302 widgets/widget-video.php:179
+#: widgets/widget-video.php:416 widgets/widget-video.php:461
+msgid "Border Color"
+msgstr ""
+
+#: widgets/widget-navmenu.php:776
+msgid "Border First Child"
+msgstr ""
+
+#: widgets/widget-navmenu.php:843
+msgid "Border Last Child"
+msgstr ""
+
+#: widgets/widget-navmenu.php:1463
+msgid "Border Menu"
+msgstr ""
+
+#: widgets/widget-countdown.php:292 widgets/widget-counter.php:186
+#: widgets/widget-counter.php:317 widgets/widget-iconbox.php:306
+#: widgets/widget-iconbox.php:899 widgets/widget-iconbox.php:1043
+#: widgets/widget-iconbox.php:1203 widgets/widget-iconbox.php:1462
+#: widgets/widget-imagebox.php:247 widgets/widget-imagebox.php:534
+#: widgets/widget-imagebox.php:1101 widgets/widget-imagebox.php:1218
+#: widgets/widget-list.php:180 widgets/widget-navmenu.php:1027
+#: widgets/widget-navmenu.php:1197 widgets/widget-posts.php:701
+#: widgets/widget-posts.php:957 widgets/widget-posts.php:1011
+#: widgets/widget-posts.php:1107 widgets/widget-posts.php:1185
+#: widgets/widget-price-table.php:1655 widgets/widget-progress-bar.php:188
+#: widgets/widget-project.php:117 widgets/widget-slide-swiper.php:1422
+#: widgets/widget-slide-swiper.php:1664 widgets/widget-slide-swiper.php:1712
+#: widgets/widget-slide-swiper.php:1930 widgets/widget-slide-swiper.php:2332
+#: widgets/widget-step.php:245 widgets/widget-tabs.php:490
+#: widgets/widget-tabs.php:566 widgets/widget-tabs.php:634
+#: widgets/widget-tabs.php:751 widgets/widget-team.php:282
+#: widgets/widget-team.php:332 widgets/widget-testimonial-carousel.php:230
+#: widgets/widget-testimonial-carousel.php:1046
+#: widgets/widget-testimonial-carousel.php:1122
+#: widgets/widget-testimonial-carousel.php:1345
+#: widgets/widget-testimonial-carousel.php:1479
+#: widgets/widget-testimonial-type-group-carousel.php:1084
+#: widgets/widget-testimonial-type-group-carousel.php:1160
+#: widgets/widget-video.php:191 widgets/widget-woo-category.php:250
+#: widgets/widget-woo-category.php:307 widgets/widget-woo-products.php:279
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/widget-posts.php:769 widgets/widget-slide-swiper.php:1471
+msgid "Border Radius Previous"
+msgstr ""
+
+#: widgets/widget-piechart.php:184
+msgid "Border Size"
+msgstr ""
+
+#: widgets/widget-navmenu.php:718 widgets/widget-navmenu.php:785
+#: widgets/widget-navmenu.php:852 widgets/widget-navmenu.php:1472
+msgid "Border Style"
+msgstr ""
+
+#: widgets/widget-iconbox.php:382 widgets/widget-iconbox.php:463
+#: widgets/widget-video.php:160 widgets/widget-video.php:397
+msgid "Border Type"
+msgstr ""
+
+#: widgets/widget-iconbox.php:278 widgets/widget-navmenu.php:753
+#: widgets/widget-navmenu.php:820 widgets/widget-navmenu.php:887
+#: widgets/widget-navmenu.php:1011 widgets/widget-navmenu.php:1180
+#: widgets/widget-navmenu.php:1509 widgets/widget-price-table.php:1715
+#: widgets/widget-slide-swiper.php:2311
+msgid "Border Width"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:343 widgets/widget-slide-swiper.php:610
+#: widgets/widget-slide-swiper.php:1031 widgets/widget-slide-swiper.php:1979
+msgid "Bottom"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1541
+msgid "Bottom Center"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1542
+msgid "Bottom Left"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1543
+msgid "Bottom Right"
+msgstr ""
+
+#: widgets/widget-iconbox.php:502
+msgid "Bottom To Top"
+msgstr ""
+
+#: widgets/widget-tabs.php:800
+msgid "Bounce"
+msgstr ""
+
+#: widgets/widget-tabs.php:786
+msgid "Bounce In"
+msgstr ""
+
+#: widgets/widget-tabs.php:787
+msgid "Bounce In Down"
+msgstr ""
+
+#: widgets/widget-tabs.php:788
+msgid "Bounce In Left"
+msgstr ""
+
+#: widgets/widget-tabs.php:789
+msgid "Bounce In Right"
+msgstr ""
+
+#: widgets/widget-tabs.php:790
+msgid "Bounce In Up"
+msgstr ""
+
+#: widgets/widget-iconbox.php:405 widgets/widget-iconbox.php:486
+#: widgets/widget-iconbox.php:1186 widgets/widget-iconbox.php:1529
+#: widgets/widget-imagebox.php:270 widgets/widget-imagebox.php:526
+#: widgets/widget-navmenu.php:487 widgets/widget-navmenu.php:1294
+#: widgets/widget-posts.php:1078 widgets/widget-posts.php:1168
+#: widgets/widget-price-table.php:297 widgets/widget-price-table.php:309
+#: widgets/widget-tabs.php:509 widgets/widget-tabs.php:577
+#: widgets/widget-tabs.php:646 widgets/widget-tabs.php:763
+#: widgets/widget-team.php:324 widgets/widget-video.php:315
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/widget-countdown.php:180
+msgid "Boxes"
+msgstr ""
+
+#: widgets/widget-posts.php:786 widgets/widget-slide-swiper.php:1158
+#: widgets/widget-slide-swiper.php:1489 widgets/widget-slide-swiper.php:1503
+#: widgets/widget-testimonial-carousel.php:1146
+#: widgets/widget-testimonial-carousel.php:1153
+msgid "Bullets"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1516
+msgid "Bullets Position"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1533
+msgid "Bullets Size"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1499
+msgid "Bullets Type"
+msgstr ""
+
+#: widgets/widget-iconbox.php:732 widgets/widget-imagebox.php:116
+#: widgets/widget-imagebox.php:976 widgets/widget-posts.php:260
+#: widgets/widget-posts.php:1545 widgets/widget-price-table.php:257
+#: widgets/widget-price-table.php:1452 widgets/widget-project.php:402
+#: widgets/widget-slide-swiper.php:2254 widgets/widget-step.php:503
+#: widgets/widget-woo-products-banner.php:284
+msgid "Button"
+msgstr ""
+
+#: widgets/widget-navmenu.php:1077
+msgid "Button Close"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1297
+msgid "Button Color"
+msgstr ""
+
+#: widgets/widget-woo-products-banner.php:79
+msgid "Button Link"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:262
+msgid "Button Only"
+msgstr ""
+
+#: widgets/widget-iconbox.php:135 widgets/widget-imagebox.php:135
+#: widgets/widget-posts.php:281 widgets/widget-slide-swiper.php:240
+#: widgets/widget-step.php:88 widgets/widget-woo-products-banner.php:70
+msgid "Button Text"
+msgstr ""
+
+#: widgets/widget-woo-category.php:75
+msgid "By Parent"
+msgstr ""
+
+#: widgets/widget-posts.php:318 widgets/widget-posts.php:325
+#: widgets/widget-project.php:276 widgets/widget-woo-products.php:139
+#: widgets/widget-woo-products.php:146
+msgid "Carousel"
+msgstr ""
+
+#: widgets/widget-portfolio.php:68 widgets/widget-posts.php:76
+#: widgets/widget-project.php:76 widgets/widget-services.php:72
+#: widgets/widget-woo-category.php:92 widgets/widget-woo-products.php:39
+msgid "Categories"
+msgstr ""
+
+#: widgets/widget-woo-category.php:51
+msgid "Categories Count"
+msgstr ""
+
+#: widgets/widget-portfolio.php:300 widgets/widget-project.php:360
+#: widgets/widget-woo-products-banner.php:43
+#: widgets/widget-woo-products-banner.php:119
+msgid "Category"
+msgstr ""
+
+#: widgets/widget-countdown.php:254 widgets/widget-counter.php:158
+#: widgets/widget-heading-section.php:97 widgets/widget-heading-section.php:141
+#: widgets/widget-iconbox.php:537 widgets/widget-iconbox.php:748
+#: widgets/widget-iconbox.php:1140 widgets/widget-imagebox.php:167
+#: widgets/widget-imagebox.php:992 widgets/widget-navmenu.php:97
+#: widgets/widget-navmenu.php:1270 widgets/widget-posts.php:174
+#: widgets/widget-price-table.php:1161 widgets/widget-price-table.php:1188
+#: widgets/widget-price-table.php:1467 widgets/widget-slide-swiper.php:301
+#: widgets/widget-slide-swiper.php:377 widgets/widget-slide-swiper.php:576
+#: widgets/widget-slide-swiper.php:637 widgets/widget-slide-swiper.php:1004
+#: widgets/widget-slide-swiper.php:1805 widgets/widget-slide-swiper.php:1951
+#: widgets/widget-slide-swiper.php:1998 widgets/widget-tabs.php:305
+#: widgets/widget-team.php:251 widgets/widget-title-section.php:94
+#: widgets/widget-video.php:119 widgets/widget-woo-category.php:220
+msgid "Center"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1535
+msgid "Center Center"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1536
+msgid "Center Left"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1537
+msgid "Center Right"
+msgstr ""
+
+#: widgets/widget-piechart.php:158
+msgid "Chart"
+msgstr ""
+
+#: widgets/widget-testimonial-carousel.php:56
+#: widgets/widget-testimonial-type-group-carousel.php:97
+msgid "Choose Avatar"
+msgstr ""
+
+#: widgets/widget-imagebox.php:36 widgets/widget-step.php:52
+#: widgets/widget-tabs.php:95 widgets/widget-team.php:49
+msgid "Choose Image"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:136
+msgid "Choose Image (Only Style 1)"
+msgstr ""
+
+#: widgets/widget-navmenu.php:139
+msgid "Choose Mobile Menu Logo"
+msgstr ""
+
+#: widgets/widget-tabs.php:149
+msgid "Choose Template"
+msgstr ""
+
+#: widgets/widget-iconbox.php:181
+msgid "Circle"
+msgstr ""
+
+#: widgets/widget-iconbox.php:183
+msgid "Circle Outline"
+msgstr ""
+
+#: widgets/widget-navmenu.php:120
+msgid "Classic"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:242 widgets/widget-slide-swiper.php:685
+#: widgets/widget-slide-swiper.php:692 widgets/widget-slide-swiper.php:699
+msgid "Click Here"
+msgstr ""
+
+#: widgets/widget-countdown.php:373 widgets/widget-countdown.php:432
+#: widgets/widget-heading-section.php:207
+#: widgets/widget-heading-section.php:299 widgets/widget-iconbox.php:605
+#: widgets/widget-iconbox.php:716 widgets/widget-iconbox.php:863
+#: widgets/widget-imagebox.php:582 widgets/widget-imagebox.php:669
+#: widgets/widget-imagebox.php:877 widgets/widget-imagebox.php:948
+#: widgets/widget-imagebox.php:1066 widgets/widget-list.php:156
+#: widgets/widget-navmenu.php:244 widgets/widget-navmenu.php:277
+#: widgets/widget-navmenu.php:314 widgets/widget-navmenu.php:507
+#: widgets/widget-navmenu.php:540 widgets/widget-navmenu.php:573
+#: widgets/widget-navmenu.php:933 widgets/widget-navmenu.php:966
+#: widgets/widget-navmenu.php:1097 widgets/widget-navmenu.php:1132
+#: widgets/widget-navmenu.php:1572 widgets/widget-navmenu.php:1593
+#: widgets/widget-navmenu.php:1614 widgets/widget-piechart.php:327
+#: widgets/widget-piechart.php:412 widgets/widget-portfolio.php:214
+#: widgets/widget-portfolio.php:276 widgets/widget-portfolio.php:318
+#: widgets/widget-posts.php:662 widgets/widget-posts.php:730
+#: widgets/widget-price-table.php:380 widgets/widget-price-table.php:446
+#: widgets/widget-price-table.php:617 widgets/widget-price-table.php:657
+#: widgets/widget-price-table.php:1676 widgets/widget-price-table.php:1767
+#: widgets/widget-progress-bar.php:164 widgets/widget-progress-bar.php:272
+#: widgets/widget-progress-bar.php:330 widgets/widget-project.php:245
+#: widgets/widget-project.php:336 widgets/widget-project.php:378
+#: widgets/widget-project.php:411 widgets/widget-slide-swiper.php:152
+#: widgets/widget-slide-swiper.php:1392 widgets/widget-slide-swiper.php:1441
+#: widgets/widget-slide-swiper.php:1639 widgets/widget-slide-swiper.php:1687
+#: widgets/widget-step.php:127 widgets/widget-step.php:276
+#: widgets/widget-step.php:401 widgets/widget-step.php:456
+#: widgets/widget-step.php:514 widgets/widget-step.php:578
+#: widgets/widget-tabs.php:463 widgets/widget-tabs.php:521
+#: widgets/widget-tabs.php:539 widgets/widget-tabs.php:589
+#: widgets/widget-tabs.php:606 widgets/widget-tabs.php:658
+#: widgets/widget-tabs.php:841 widgets/widget-team.php:538
+#: widgets/widget-team.php:598 widgets/widget-testimonial-carousel.php:364
+#: widgets/widget-testimonial-carousel.php:460
+#: widgets/widget-testimonial-carousel.php:537
+#: widgets/widget-testimonial-carousel.php:614
+#: widgets/widget-testimonial-carousel.php:1004
+#: widgets/widget-testimonial-carousel.php:1078
+#: widgets/widget-testimonial-type-group-carousel.php:285
+#: widgets/widget-testimonial-type-group-carousel.php:354
+#: widgets/widget-testimonial-type-group-carousel.php:412
+#: widgets/widget-testimonial-type-group-carousel.php:455
+#: widgets/widget-testimonial-type-group-carousel.php:517
+#: widgets/widget-testimonial-type-group-carousel.php:572
+#: widgets/widget-testimonial-type-group-carousel.php:633
+#: widgets/widget-testimonial-type-group-carousel.php:647
+#: widgets/widget-testimonial-type-group-carousel.php:711
+#: widgets/widget-testimonial-type-group-carousel.php:766
+#: widgets/widget-testimonial-type-group-carousel.php:792
+#: widgets/widget-testimonial-type-group-carousel.php:1042
+#: widgets/widget-testimonial-type-group-carousel.php:1116
+#: widgets/widget-title-section.php:170 widgets/widget-title-section.php:324
+#: widgets/widget-video.php:350 widgets/widget-video.php:437
+#: widgets/widget-woo-category.php:414 widgets/widget-woo-category.php:435
+#: widgets/widget-woo-category.php:503 widgets/widget-woo-category.php:559
+#: widgets/widget-woo-products-banner.php:127
+#: widgets/widget-woo-products-banner.php:182
+#: widgets/widget-woo-products-banner.php:237
+#: widgets/widget-woo-products-banner.php:292
+#: widgets/widget-woo-products-banner.php:314
+#: widgets/widget-woo-products.php:317 widgets/widget-woo-products.php:368
+msgid "Color"
+msgstr ""
+
+#: widgets/widget-price-table.php:378 widgets/widget-price-table.php:444
+msgid "Color Dodge"
+msgstr ""
+
+#: widgets/widget-iconbox.php:654 widgets/widget-iconbox.php:1007
+#: widgets/widget-imagebox.php:889 widgets/widget-imagebox.php:1121
+#: widgets/widget-portfolio.php:288 widgets/widget-portfolio.php:330
+#: widgets/widget-price-table.php:685 widgets/widget-price-table.php:815
+#: widgets/widget-price-table.php:893 widgets/widget-price-table.php:971
+#: widgets/widget-price-table.php:1040 widgets/widget-price-table.php:1121
+#: widgets/widget-project.php:348 widgets/widget-project.php:390
+#: widgets/widget-project.php:435 widgets/widget-team.php:568
+#: widgets/widget-team.php:628 widgets/widget-woo-category.php:447
+msgid "Color Hover"
+msgstr ""
+
+#: widgets/widget-portfolio.php:230 widgets/widget-project.php:260
+msgid "Color Hover & Active"
+msgstr ""
+
+#: widgets/widget-step.php:115
+msgid "Color Number"
+msgstr ""
+
+#: widgets/widget-tabs.php:693
+msgid "Color Text"
+msgstr ""
+
+#: widgets/widget-list.php:291 widgets/widget-team.php:420
+#: widgets/widget-team.php:497
+msgid "Color Text Fisrt & Last"
+msgstr ""
+
+#: widgets/widget-portfolio.php:109 widgets/widget-posts.php:124
+#: widgets/widget-project.php:142 widgets/widget-services.php:125
+#: widgets/widget-woo-category.php:35
+#: widgets/widget-woo-products-banner.php:423
+#: widgets/widget-woo-products.php:106
+msgid "Columns"
+msgstr ""
+
+#: widgets/widget-posts.php:367 widgets/widget-testimonial-carousel.php:692
+#: widgets/widget-woo-products.php:216
+msgid "Columns Desktop"
+msgstr ""
+
+#: widgets/widget-woo-category.php:172
+#: widgets/widget-woo-products-banner.php:483
+msgid "Columns Gap"
+msgstr ""
+
+#: widgets/widget-portfolio.php:137 widgets/widget-posts.php:153
+#: widgets/widget-posts.php:404 widgets/widget-testimonial-carousel.php:726
+#: widgets/widget-woo-products.php:251
+msgid "Columns Mobile"
+msgstr ""
+
+#: widgets/widget-portfolio.php:125 widgets/widget-posts.php:139
+#: widgets/widget-posts.php:387 widgets/widget-testimonial-carousel.php:709
+#: widgets/widget-woo-products.php:234
+msgid "Columns Tablet"
+msgstr ""
+
+#: widgets/widget-woo-products.php:84
+msgid "Comment count"
+msgstr ""
+
+#: widgets/widget-iconbox.php:84
+msgid "Consecte adipiscing elitsed eiusmod tempor indun"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:129
+msgid ""
+"Consectetur adipiscing elit sed do eius mod tempor incididunt ut labore et "
+"dolore magna aliqua. Quis ipsum suspendisse ul trices gravida. Risus commodo "
+"viverra maecenas accumsan lacus facilisis."
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:73 widgets/widget-slide-swiper.php:481
+msgid "Contain"
+msgstr ""
+
+#: widgets/widget-countdown.php:188
+msgid "Container Width"
+msgstr ""
+
+#: widgets/widget-countdown.php:343 widgets/widget-iconbox.php:521
+#: widgets/widget-imagebox.php:60 widgets/widget-imagebox.php:453
+#: widgets/widget-posts.php:212 widgets/widget-posts.php:1296
+#: widgets/widget-price-table.php:122 widgets/widget-price-table.php:1139
+#: widgets/widget-slide-swiper.php:205 widgets/widget-slide-swiper.php:500
+#: widgets/widget-step.php:594 widgets/widget-tabs.php:121
+#: widgets/widget-team.php:302 widgets/widget-woo-products-banner.php:39
+msgid "Content"
+msgstr ""
+
+#: widgets/widget-imagebox.php:466
+msgid "Content Absolute (Full)"
+msgstr ""
+
+#: widgets/widget-imagebox.php:467
+msgid "Content Absolute (Only Title)"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:889
+msgid "Content Animation"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:402 widgets/widget-slide-swiper.php:654
+msgid "Content Color"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:739
+msgid "Content Container"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1942
+msgid "Content Horizontal Position"
+msgstr ""
+
+#: widgets/widget-tabs.php:138
+msgid "Content text"
+msgstr ""
+
+#: widgets/widget-tabs.php:128
+msgid "Content type"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1966
+msgid "Content Vertical Position"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:516 widgets/widget-slide-swiper.php:1848
+#: widgets/widget-woo-products-banner.php:437
+msgid "Content Width"
+msgstr ""
+
+#: widgets/widget-woo-category.php:139 widgets/widget-woo-category.php:494
+msgid "Count"
+msgstr ""
+
+#: widgets/widget-countdown.php:32
+msgid "Countdown"
+msgstr ""
+
+#: widgets/widget-counter.php:32
+msgid "Counter"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:72 widgets/widget-slide-swiper.php:480
+msgid "Cover"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:854
+msgid "Coverflow"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:853
+msgid "Cube"
+msgstr ""
+
+#: widgets/widget-woo-category.php:76
+msgid "Current Subcategories"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1544 widgets/widget-slide-swiper.php:284
+#: widgets/widget-step.php:120
+msgid "Custom"
+msgstr ""
+
+#: widgets/widget-countdown.php:105
+msgid "Custom Label"
+msgstr ""
+
+#: widgets/widget-navmenu.php:155
+msgid "Custom URL"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:55
+msgid "Customer Say"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:924
+msgid "Customize Image And Image Position"
+msgstr ""
+
+#: widgets/widget-price-table.php:376 widgets/widget-price-table.php:442
+msgid "Darken"
+msgstr ""
+
+#: widgets/widget-iconbox.php:389 widgets/widget-iconbox.php:470
+#: widgets/widget-navmenu.php:727 widgets/widget-navmenu.php:794
+#: widgets/widget-navmenu.php:861 widgets/widget-navmenu.php:1481
+#: widgets/widget-video.php:167 widgets/widget-video.php:404
+msgid "Dashed"
+msgstr ""
+
+#: widgets/widget-woo-products.php:81
+msgid "Date"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:686
+msgid "Date Archive"
+msgstr ""
+
+#: widgets/widget-countdown.php:42
+#, php-format
+msgid "Date set according to your timezone: %s."
+msgstr ""
+
+#: widgets/widget-countdown.php:49 widgets/widget-countdown.php:116
+#: widgets/widget-countdown.php:118 widgets/widget-countdown.php:119
+#: widgets/widget-countdown.php:489
+msgid "Days"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1534 widgets/widget-counter.php:43
+#: widgets/widget-iconbox.php:180 widgets/widget-iconbox.php:498
+#: widgets/widget-iconbox.php:1059 widgets/widget-imagebox.php:433
+#: widgets/widget-imagebox.php:465 widgets/widget-imagebox.php:1151
+#: widgets/widget-navmenu.php:80 widgets/widget-portfolio.php:153
+#: widgets/widget-slide-swiper.php:867 widgets/widget-team.php:39
+#: widgets/widget-video.php:246
+msgid "Default"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1171
+msgid "Default Theme"
+msgstr ""
+
+#: widgets/widget-woo-category.php:152
+msgid "DESC"
+msgstr ""
+
+#: widgets/widget-woo-products.php:97
+msgid "Descending"
+msgstr ""
+
+#: widgets/widget-iconbox.php:669 widgets/widget-imagebox.php:102
+#: widgets/widget-imagebox.php:921 widgets/widget-piechart.php:79
+#: widgets/widget-piechart.php:401 widgets/widget-slide-swiper.php:230
+#: widgets/widget-slide-swiper.php:504 widgets/widget-slide-swiper.php:2180
+#: widgets/widget-testimonial-carousel.php:85
+#: widgets/widget-testimonial-carousel.php:568
+#: widgets/widget-testimonial-type-group-carousel.php:126
+#: widgets/widget-testimonial-type-group-carousel.php:662
+#: widgets/widget-woo-category.php:138 widgets/widget-woo-category.php:550
+msgid "Description"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1285
+msgid "Description Color"
+msgstr ""
+
+#: widgets/widget-piechart.php:424
+msgid "Description Typography"
+msgstr ""
+
+#: widgets/widget-step.php:177
+msgid "Design Analysis"
+msgstr ""
+
+#: widgets/widget-team.php:80
+msgid "Design Expert"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1319
+msgid "Design When Hover"
+msgstr ""
+
+#: widgets/widget-countdown.php:364
+msgid "Digits"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:438
+msgid "Display On"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:445
+msgid "Display Rules"
+msgstr ""
+
+#: widgets/widget-list.php:88
+msgid "Distance Between"
+msgstr ""
+
+#: widgets/widget-list.php:223
+msgid "Distance Between Right"
+msgstr ""
+
+#: widgets/widget-heading-section.php:60 widgets/widget-title-section.php:47
+msgid "div"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:458
+msgid "Do Not Display On"
+msgstr ""
+
+#: widgets/widget-iconbox.php:388 widgets/widget-iconbox.php:469
+#: widgets/widget-navmenu.php:726 widgets/widget-navmenu.php:793
+#: widgets/widget-navmenu.php:860 widgets/widget-navmenu.php:1480
+#: widgets/widget-video.php:166 widgets/widget-video.php:403
+msgid "Dotted"
+msgstr ""
+
+#: widgets/widget-iconbox.php:387 widgets/widget-iconbox.php:468
+#: widgets/widget-navmenu.php:725 widgets/widget-navmenu.php:792
+#: widgets/widget-navmenu.php:859 widgets/widget-navmenu.php:1479
+#: widgets/widget-video.php:165 widgets/widget-video.php:402
+msgid "Double"
+msgstr ""
+
+#: widgets/widget-navmenu.php:424
+msgid "Double Line"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:894
+msgid "Down"
+msgstr ""
+
+#: widgets/widget-navmenu.php:440
+msgid "Drop In"
+msgstr ""
+
+#: widgets/widget-navmenu.php:441
+msgid "Drop Out"
+msgstr ""
+
+#: widgets/widget-navmenu.php:469
+msgid "Dropdown"
+msgstr ""
+
+#: widgets/widget-navmenu.php:603
+msgid "Dropdown Width"
+msgstr ""
+
+#: widgets/widget-countdown.php:39
+msgid "Due Date"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:374
+msgid "Edit Template Item"
+msgstr ""
+
+#: widgets/widget-tabs.php:132
+msgid "Editor"
+msgstr ""
+
+#: widgets/widget-imagebox.php:475
+msgid "Effect"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1426
+msgid "Effect Hover Box"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1327 widgets/widget-imagebox.php:429
+msgid "Effect Overlay"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1055 widgets/widget-imagebox.php:1147
+msgid "Effect Type"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:128
+#: themesflat-addons-for-elementor.php:139
+msgid "Elementor"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1060 widgets/widget-imagebox.php:1152
+msgid "Elementor Button Effect"
+msgstr ""
+
+#: widgets/widget-navmenu.php:42
+msgid "Enable one page?"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1335
+msgid "Enable Overlay"
+msgstr ""
+
+#: widgets/widget-counter.php:74
+msgid "Ending Number"
+msgstr ""
+
+#: tf-post-format.php:81
+msgid "Enter iframe"
+msgstr ""
+
+#: tf-post-format.php:69
+msgid "Enter iframe ( Embeded video from youtube, vimeo ...)"
+msgstr ""
+
+#: tf-post-format.php:93
+msgid "Enter Text"
+msgstr ""
+
+#: widgets/widget-video.php:53 widgets/widget-video.php:67
+msgid "Enter your URL"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:698
+msgid "Entire Website"
+msgstr ""
+
+#: widgets/widget-tabs.php:770
+msgid "Entrance Animation"
+msgstr ""
+
+#: widgets/widget-testimonial-carousel.php:69
+msgid "Eugene Freeman"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1490
+msgid "ex: to Top (-10) or to Bottom (10)"
+msgstr ""
+
+#: widgets/widget-posts.php:1512
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/widget-posts.php:245 widgets/widget-services.php:113
+msgid "Excerpt Length"
+msgstr ""
+
+#: widgets/widget-portfolio.php:79 widgets/widget-posts.php:87
+#: widgets/widget-project.php:87 widgets/widget-services.php:83
+msgid "Exclude"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:465
+msgid "Exclude On"
+msgstr ""
+
+#: widgets/widget-progress-bar.php:41
+msgid "Experience Staff"
+msgstr ""
+
+#: widgets/widget-navmenu.php:438 widgets/widget-slide-swiper.php:852
+msgid "Fade"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1364 widgets/widget-imagebox.php:434
+#: widgets/widget-imagebox.php:479 widgets/widget-tabs.php:776
+msgid "Fade In"
+msgstr ""
+
+#: widgets/widget-imagebox.php:436 widgets/widget-imagebox.php:481
+#: widgets/widget-tabs.php:777
+msgid "Fade In Down"
+msgstr ""
+
+#: widgets/widget-imagebox.php:437 widgets/widget-imagebox.php:482
+#: widgets/widget-tabs.php:778
+msgid "Fade In Left"
+msgstr ""
+
+#: widgets/widget-imagebox.php:438 widgets/widget-imagebox.php:483
+#: widgets/widget-tabs.php:779
+msgid "Fade In Right"
+msgstr ""
+
+#: widgets/widget-imagebox.php:435 widgets/widget-imagebox.php:480
+#: widgets/widget-tabs.php:780
+msgid "Fade In Up"
+msgstr ""
+
+#: widgets/widget-woo-products.php:64
+msgid "Featured Products"
+msgstr ""
+
+#: widgets/widget-portfolio.php:162 widgets/widget-portfolio.php:171
+#: widgets/widget-project.php:198 widgets/widget-project.php:207
+msgid "Filter"
+msgstr ""
+
+#: widgets/widget-woo-products.php:59
+msgid "Filter By"
+msgstr ""
+
+#: widgets/widget-portfolio.php:186 widgets/widget-project.php:219
+msgid "Filter Order"
+msgstr ""
+
+#: widgets/widget-portfolio.php:188 widgets/widget-project.php:221
+msgid "Filter Slug Categories Order Split By \",\""
+msgstr ""
+
+#: widgets/widget-imagebox.php:81
+msgid "FINANCIAL PROJECTIONS AND ANALYSIS"
+msgstr ""
+
+#: widgets/widget-tabs.php:801
+msgid "Flash"
+msgstr ""
+
+#: widgets/widget-piechart.php:67
+msgid "Flexible Solutions"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:855
+msgid "Flip"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1369
+msgid "Flip Box"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1380
+msgid "Flip Box Height"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1407
+msgid "Flip Box Style"
+msgstr ""
+
+#: widgets/widget-title-section.php:77
+msgid ""
+"Fonsetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut "
+"labore et dolore magna aliquyam"
+msgstr ""
+
+#: widgets/widget-posts.php:473 widgets/widget-slide-swiper.php:1255
+#: widgets/widget-testimonial-carousel.php:286
+#: widgets/widget-testimonial-carousel.php:338
+#: widgets/widget-testimonial-carousel.php:821
+#: widgets/widget-testimonial-type-group-carousel.php:432
+#: widgets/widget-testimonial-type-group-carousel.php:949
+msgid "Font Size"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:421
+msgid "Footer"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1504
+msgid "Fraction"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1074 widgets/widget-iconbox.php:1368
+#: widgets/widget-imagebox.php:1166
+msgid "From Bottom"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1077 widgets/widget-imagebox.php:1169
+msgid "From Center"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1075 widgets/widget-iconbox.php:1365
+#: widgets/widget-imagebox.php:1167
+msgid "From Left"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1076 widgets/widget-iconbox.php:1367
+#: widgets/widget-imagebox.php:1168
+msgid "From Right"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1073 widgets/widget-iconbox.php:1366
+#: widgets/widget-imagebox.php:1165
+msgid "From Top"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:685
+msgid "Front Page"
+msgstr ""
+
+#: widgets/widget-tabs.php:253
+msgid "Gap"
+msgstr ""
+
+#: widgets/widget-counter.php:142 widgets/widget-imagebox.php:151
+#: widgets/widget-posts.php:1032 widgets/widget-price-table.php:288
+#: widgets/widget-price-table.php:485 widgets/widget-price-table.php:1146
+#: widgets/widget-step.php:205 widgets/widget-team.php:231
+#: widgets/widget-testimonial-carousel.php:158
+#: widgets/widget-testimonial-type-group-carousel.php:225
+#: widgets/widget-video.php:104
+msgid "General"
+msgstr ""
+
+#: widgets/widget-step.php:182
+msgid "Got Final Results"
+msgstr ""
+
+#: widgets/widget-imagebox.php:769
+msgid "Gradient Color"
+msgstr ""
+
+#: widgets/widget-portfolio.php:149
+msgid "Grid Styles"
+msgstr ""
+
+#: widgets/widget-iconbox.php:390 widgets/widget-iconbox.php:471
+#: widgets/widget-video.php:168 widgets/widget-video.php:405
+msgid "Groove"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1093 widgets/widget-imagebox.php:1186
+msgid "Grow"
+msgstr ""
+
+#: widgets/widget-heading-section.php:52 widgets/widget-iconbox.php:621
+#: widgets/widget-imagebox.php:846 widgets/widget-title-section.php:39
+msgid "H1"
+msgstr ""
+
+#: widgets/widget-heading-section.php:53 widgets/widget-iconbox.php:622
+#: widgets/widget-imagebox.php:847 widgets/widget-title-section.php:40
+msgid "H2"
+msgstr ""
+
+#: widgets/widget-heading-section.php:54 widgets/widget-iconbox.php:623
+#: widgets/widget-imagebox.php:848 widgets/widget-title-section.php:41
+msgid "H3"
+msgstr ""
+
+#: widgets/widget-heading-section.php:55 widgets/widget-iconbox.php:624
+#: widgets/widget-imagebox.php:849 widgets/widget-title-section.php:42
+msgid "H4"
+msgstr ""
+
+#: widgets/widget-heading-section.php:56 widgets/widget-iconbox.php:625
+#: widgets/widget-imagebox.php:850 widgets/widget-title-section.php:43
+msgid "H5"
+msgstr ""
+
+#: widgets/widget-heading-section.php:57 widgets/widget-iconbox.php:626
+#: widgets/widget-imagebox.php:851 widgets/widget-title-section.php:44
+msgid "H6"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1101 widgets/widget-imagebox.php:1194
+msgid "Hang"
+msgstr ""
+
+#: widgets/widget-counter.php:132
+msgid "Happy Customers"
+msgstr ""
+
+#: widgets/widget-tabs.php:805
+msgid "Head Shake"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:420 widgets/widget-price-table.php:29
+#: widgets/widget-price-table.php:478
+msgid "Header"
+msgstr ""
+
+#: widgets/widget-heading-section.php:78 widgets/widget-heading-section.php:253
+#: widgets/widget-step.php:70 widgets/widget-step.php:393
+#: widgets/widget-testimonial-type-group-carousel.php:63
+#: widgets/widget-testimonial-type-group-carousel.php:308
+#: widgets/widget-title-section.php:55 widgets/widget-title-section.php:122
+#: widgets/widget-woo-products-banner.php:52
+#: widgets/widget-woo-products-banner.php:174
+msgid "Heading"
+msgstr ""
+
+#: widgets/widget-heading-section.php:28
+msgid "Heading Section"
+msgstr ""
+
+#: widgets/widget-posts.php:527 widgets/widget-posts.php:829
+#: widgets/widget-progress-bar.php:92 widgets/widget-slide-swiper.php:711
+#: widgets/widget-slide-swiper.php:1297
+#: widgets/widget-testimonial-carousel.php:873
+#: widgets/widget-testimonial-carousel.php:1292
+#: widgets/widget-testimonial-carousel.php:1403
+#: widgets/widget-testimonial-type-group-carousel.php:1001
+msgid "Height"
+msgstr ""
+
+#: widgets/widget-navmenu.php:1693
+msgid "Height Icon Submenu (px)"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1769
+msgid "Height Thumbs Gallery"
+msgstr ""
+
+#: widgets/widget-countdown.php:52 widgets/widget-countdown.php:63
+#: widgets/widget-countdown.php:74 widgets/widget-countdown.php:85
+#: widgets/widget-countdown.php:96 widgets/widget-iconbox.php:127
+#: widgets/widget-iconbox.php:827 widgets/widget-iconbox.php:1338
+#: widgets/widget-imagebox.php:126 widgets/widget-imagebox.php:405
+#: widgets/widget-portfolio.php:174 widgets/widget-posts.php:224
+#: widgets/widget-posts.php:236 widgets/widget-posts.php:272
+#: widgets/widget-posts.php:305 widgets/widget-posts.php:423
+#: widgets/widget-posts.php:789 widgets/widget-posts.php:1209
+#: widgets/widget-project.php:210 widgets/widget-slide-swiper.php:754
+#: widgets/widget-tabs.php:40 widgets/widget-tabs.php:833
+#: widgets/widget-testimonial-carousel.php:774
+#: widgets/widget-testimonial-carousel.php:1156
+#: widgets/widget-testimonial-type-group-carousel.php:902
+msgid "Hide"
+msgstr ""
+
+#: widgets/widget-woo-category.php:121
+msgid "Hide Empty"
+msgstr ""
+
+#: widgets/widget-navmenu.php:154
+msgid "Home"
+msgstr ""
+
+#: widgets/widget-posts.php:856 widgets/widget-slide-swiper.php:1586
+#: widgets/widget-testimonial-carousel.php:1166
+msgid "Horizonta Offset"
+msgstr ""
+
+#: widgets/widget-navmenu.php:67 widgets/widget-slide-swiper.php:780
+#: widgets/widget-tabs.php:189
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/widget-navmenu.php:350 widgets/widget-navmenu.php:663
+msgid "Horizontal Padding"
+msgstr ""
+
+#: widgets/widget-navmenu.php:1630
+msgid "Horizontal Padding Link (px)"
+msgstr ""
+
+#: widgets/widget-posts.php:585 widgets/widget-slide-swiper.php:293
+#: widgets/widget-slide-swiper.php:568
+msgid "Horizontal Position"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1339
+#: widgets/widget-testimonial-carousel.php:929
+msgid "Horizontal Position Next"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1316
+#: widgets/widget-testimonial-carousel.php:899
+msgid "Horizontal Position Previous"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1411
+msgid "Horizontal Rotation"
+msgstr ""
+
+#: widgets/widget-countdown.php:60 widgets/widget-countdown.php:131
+#: widgets/widget-countdown.php:133 widgets/widget-countdown.php:134
+#: widgets/widget-countdown.php:490
+msgid "Hours"
+msgstr ""
+
+#: widgets/widget-iconbox.php:416 widgets/widget-iconbox.php:1001
+#: widgets/widget-iconbox.php:1235 widgets/widget-imagebox.php:337
+#: widgets/widget-imagebox.php:1115 widgets/widget-navmenu.php:270
+#: widgets/widget-navmenu.php:533 widgets/widget-navmenu.php:959
+#: widgets/widget-navmenu.php:1125 widgets/widget-navmenu.php:1586
+#: widgets/widget-posts.php:724 widgets/widget-posts.php:980
+#: widgets/widget-price-table.php:415 widgets/widget-slide-swiper.php:1435
+#: widgets/widget-slide-swiper.php:2391 widgets/widget-tabs.php:534
+#: widgets/widget-testimonial-carousel.php:1071
+#: widgets/widget-testimonial-type-group-carousel.php:1109
+#: widgets/widget-video.php:430 widgets/widget-woo-products.php:361
+msgid "Hover"
+msgstr ""
+
+#: widgets/widget-iconbox.php:494 widgets/widget-iconbox.php:1089
+#: widgets/widget-imagebox.php:1182 widgets/widget-tabs.php:450
+msgid "Hover Animation"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1360
+msgid "Hover Style"
+msgstr ""
+
+#: widgets/widget-heading-section.php:48 widgets/widget-title-section.php:35
+msgid "HTML Tag"
+msgstr ""
+
+#: widgets/widget-iconbox.php:148 widgets/widget-imagebox.php:90
+#: widgets/widget-slide-swiper.php:251 widgets/widget-team.php:183
+#: widgets/widget-woo-products-banner.php:81
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/widget-counter.php:53 widgets/widget-counter.php:233
+#: widgets/widget-iconbox.php:44 widgets/widget-iconbox.php:56
+#: widgets/widget-iconbox.php:166 widgets/widget-iconbox.php:911
+#: widgets/widget-imagebox.php:67 widgets/widget-imagebox.php:759
+#: widgets/widget-imagebox.php:1234 widgets/widget-price-table.php:103
+#: widgets/widget-price-table.php:646 widgets/widget-tabs.php:58
+#: widgets/widget-tabs.php:68 widgets/widget-tabs.php:81
+#: widgets/widget-tabs.php:515 widgets/widget-tabs.php:583
+#: widgets/widget-tabs.php:652 widgets/widget-team.php:100
+#: widgets/widget-testimonial-carousel.php:95
+#: widgets/widget-testimonial-carousel.php:250
+#: widgets/widget-testimonial-type-group-carousel.php:83
+#: widgets/widget-testimonial-type-group-carousel.php:424
+#: widgets/widget-video.php:79
+msgid "Icon"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1251
+msgid "Icon & Text Color"
+msgstr ""
+
+#: widgets/widget-counter.php:297
+msgid "Icon Background"
+msgstr ""
+
+#: widgets/widget-iconbox.php:29
+msgid "Icon Box"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1124
+msgid "Icon Box Container"
+msgstr ""
+
+#: widgets/widget-iconbox.php:920 widgets/widget-imagebox.php:1243
+msgid "Icon Button"
+msgstr ""
+
+#: widgets/widget-navmenu.php:179
+msgid "Icon Button Menu Mobile & Only Icon"
+msgstr ""
+
+#: widgets/widget-navmenu.php:191
+msgid "Icon Close Menu"
+msgstr ""
+
+#: widgets/widget-counter.php:284 widgets/widget-iconbox.php:342
+#: widgets/widget-iconbox.php:423 widgets/widget-iconbox.php:1260
+#: widgets/widget-posts.php:1249
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/widget-step.php:567
+msgid "Icon Content"
+msgstr ""
+
+#: widgets/widget-step.php:155
+msgid "Icon Content ( Only Style 3 )"
+msgstr ""
+
+#: widgets/widget-counter.php:260 widgets/widget-imagebox.php:732
+#: widgets/widget-imagebox.php:789
+msgid "Icon Font Size"
+msgstr ""
+
+#: widgets/widget-posts.php:1233
+msgid "Icon Overlay"
+msgstr ""
+
+#: widgets/widget-iconbox.php:91 widgets/widget-iconbox.php:957
+#: widgets/widget-imagebox.php:1280
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/widget-counter.php:241 widgets/widget-iconbox.php:933
+#: widgets/widget-imagebox.php:699 widgets/widget-imagebox.php:1256
+#: widgets/widget-navmenu.php:994 widgets/widget-navmenu.php:1162
+#: widgets/widget-posts.php:1265 widgets/widget-price-table.php:1291
+#: widgets/widget-video.php:291
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/widget-iconbox.php:970 widgets/widget-imagebox.php:1293
+msgid "Icon Spacer"
+msgstr ""
+
+#: widgets/widget-iconbox.php:36 widgets/widget-tabs.php:64
+msgid "Icon Style"
+msgstr ""
+
+#: widgets/widget-imagebox.php:658
+msgid "Icon Title Show"
+msgstr ""
+
+#: widgets/widget-video.php:262
+msgid "Icon Video"
+msgstr ""
+
+#: widgets/widget-woo-products.php:80
+msgid "ID"
+msgstr ""
+
+#: tf-post-format.php:86
+msgid "iframe audio"
+msgstr ""
+
+#: widgets/widget-imagebox.php:29 widgets/widget-imagebox.php:193
+#: widgets/widget-posts.php:195 widgets/widget-posts.php:1135
+#: widgets/widget-step.php:235 widgets/widget-tabs.php:72
+#: widgets/widget-team.php:273 widgets/widget-woo-category.php:290
+msgid "Image"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:964
+msgid "Image Height"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:996
+msgid "Image Horizontal"
+msgstr ""
+
+#: widgets/widget-imagebox.php:312 widgets/widget-imagebox.php:343
+msgid "Image Opacity"
+msgstr ""
+
+#: widgets/widget-imagebox.php:366
+msgid "Image Scale"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:177
+msgid "Image Size Avatar"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:192
+msgid "Image Size Image"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1019
+msgid "Image Vertical"
+msgstr ""
+
+#: widgets/widget-imagebox.php:201 widgets/widget-slide-swiper.php:932
+msgid "Image Width"
+msgstr ""
+
+#: tf-post-format.php:62
+msgid "Images"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:116
+msgid "In"
+msgstr ""
+
+#: widgets/widget-testimonial-carousel.php:743
+msgid "Index Active"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:837
+msgid "Infinite Loop"
+msgstr ""
+
+#: widgets/widget-countdown.php:355
+msgid "Inline"
+msgstr ""
+
+#: widgets/widget-progress-bar.php:83
+msgid "Inner"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1196 widgets/widget-slide-swiper.php:1521
+msgid "Inside"
+msgstr ""
+
+#: widgets/widget-tabs.php:366
+msgid "Item Nav"
+msgstr ""
+
+#: widgets/widget-tabs.php:809
+msgid "Jello"
+msgstr ""
+
+#: widgets/widget-iconbox.php:545 widgets/widget-iconbox.php:756
+#: widgets/widget-iconbox.php:1148 widgets/widget-imagebox.php:175
+#: widgets/widget-imagebox.php:1000 widgets/widget-navmenu.php:105
+#: widgets/widget-posts.php:182 widgets/widget-tabs.php:313
+msgid "Justified"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:94
+msgid "Ken Burns Effect"
+msgstr ""
+
+#: widgets/widget-countdown.php:423
+msgid "Label"
+msgstr ""
+
+#: widgets/widget-navmenu.php:63 widgets/widget-posts.php:102
+msgid "Layout"
+msgstr ""
+
+#: widgets/widget-posts.php:109 widgets/widget-testimonial-carousel.php:40
+#: widgets/widget-testimonial-type-group-carousel.php:40
+msgid "Layout Style"
+msgstr ""
+
+#: widgets/widget-countdown.php:250 widgets/widget-counter.php:154
+#: widgets/widget-heading-section.php:93 widgets/widget-heading-section.php:137
+#: widgets/widget-iconbox.php:96 widgets/widget-iconbox.php:533
+#: widgets/widget-iconbox.php:744 widgets/widget-iconbox.php:1136
+#: widgets/widget-imagebox.php:163 widgets/widget-imagebox.php:988
+#: widgets/widget-navmenu.php:81 widgets/widget-navmenu.php:93
+#: widgets/widget-navmenu.php:1266 widgets/widget-piechart.php:98
+#: widgets/widget-posts.php:170 widgets/widget-price-table.php:1157
+#: widgets/widget-price-table.php:1184 widgets/widget-price-table.php:1463
+#: widgets/widget-slide-swiper.php:297 widgets/widget-slide-swiper.php:373
+#: widgets/widget-slide-swiper.php:572 widgets/widget-slide-swiper.php:633
+#: widgets/widget-slide-swiper.php:897 widgets/widget-slide-swiper.php:1000
+#: widgets/widget-slide-swiper.php:1801 widgets/widget-slide-swiper.php:1947
+#: widgets/widget-slide-swiper.php:1994 widgets/widget-tabs.php:212
+#: widgets/widget-tabs.php:301 widgets/widget-team.php:247
+#: widgets/widget-title-section.php:90 widgets/widget-video.php:115
+#: widgets/widget-woo-category.php:216
+msgid "Left"
+msgstr ""
+
+#: widgets/widget-iconbox.php:500
+msgid "Left To Right"
+msgstr ""
+
+#: widgets/widget-tabs.php:810
+msgid "Light Speed In"
+msgstr ""
+
+#: widgets/widget-price-table.php:377 widgets/widget-price-table.php:443
+msgid "Lighten"
+msgstr ""
+
+#: widgets/widget-iconbox.php:824
+msgid "Line Button"
+msgstr ""
+
+#: widgets/widget-video.php:247
+msgid "Linear Gradient"
+msgstr ""
+
+#: widgets/widget-iconbox.php:146 widgets/widget-imagebox.php:88
+#: widgets/widget-slide-swiper.php:249 widgets/widget-team.php:176
+#: widgets/widget-video.php:51 widgets/widget-video.php:65
+msgid "Link"
+msgstr ""
+
+#: widgets/widget-navmenu.php:417
+msgid "Link Hover Effect"
+msgstr ""
+
+#: widgets/widget-navmenu.php:150
+msgid "Link Logo"
+msgstr ""
+
+#: widgets/widget-list.php:57 widgets/widget-price-table.php:1262
+msgid "List"
+msgstr ""
+
+#: widgets/widget-woo-products-banner.php:374
+msgid "List Banner"
+msgstr ""
+
+#: widgets/widget-step.php:166
+msgid "List Step"
+msgstr ""
+
+#: widgets/widget-navmenu.php:1387
+msgid "Logo"
+msgstr ""
+
+#: widgets/widget-posts.php:337 widgets/widget-testimonial-carousel.php:656
+#: widgets/widget-testimonial-type-group-carousel.php:843
+#: widgets/widget-woo-products.php:158
+msgid "Loop"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:684 widgets/widget-slide-swiper.php:691
+#: widgets/widget-slide-swiper.php:698
+msgid "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor"
+msgstr ""
+
+#: widgets/widget-piechart.php:82
+msgid "Lorem ipsum dolor sit amet, conse ctetuer adipiscing elit,"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:232
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: widgets/widget-testimonial-carousel.php:88
+msgid ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt ut "
+msgstr ""
+
+#: widgets/widget-price-table.php:381 widgets/widget-price-table.php:447
+msgid "Luminosity"
+msgstr ""
+
+#: widgets/widget-navmenu.php:207
+msgid "Main Menu"
+msgstr ""
+
+#: widgets/widget-woo-category.php:74
+msgid "Manual Selection"
+msgstr ""
+
+#: widgets/widget-counter.php:218 widgets/widget-counter.php:329
+#: widgets/widget-counter.php:418 widgets/widget-counter.php:507
+#: widgets/widget-heading-section.php:233
+#: widgets/widget-heading-section.php:310
+#: widgets/widget-heading-section.php:399 widgets/widget-iconbox.php:321
+#: widgets/widget-iconbox.php:634 widgets/widget-iconbox.php:836
+#: widgets/widget-iconbox.php:1173 widgets/widget-imagebox.php:290
+#: widgets/widget-imagebox.php:513 widgets/widget-imagebox.php:635
+#: widgets/widget-imagebox.php:813 widgets/widget-imagebox.php:901
+#: widgets/widget-imagebox.php:960 widgets/widget-imagebox.php:1038
+#: widgets/widget-navmenu.php:1058 widgets/widget-navmenu.php:1230
+#: widgets/widget-navmenu.php:1444 widgets/widget-navmenu.php:1542
+#: widgets/widget-piechart.php:377 widgets/widget-posts.php:1059
+#: widgets/widget-posts.php:1155 widgets/widget-posts.php:1496
+#: widgets/widget-posts.php:1529 widgets/widget-price-table.php:1589
+#: widgets/widget-price-table.php:1633 widgets/widget-progress-bar.php:118
+#: widgets/widget-slide-swiper.php:1824 widgets/widget-slide-swiper.php:1900
+#: widgets/widget-step.php:96 widgets/widget-tabs.php:336
+#: widgets/widget-tabs.php:431 widgets/widget-tabs.php:732
+#: widgets/widget-testimonial-carousel.php:211
+#: widgets/widget-testimonial-carousel.php:402
+#: widgets/widget-testimonial-carousel.php:471
+#: widgets/widget-testimonial-carousel.php:548
+#: widgets/widget-testimonial-carousel.php:625
+#: widgets/widget-title-section.php:182 widgets/widget-title-section.php:336
+#: widgets/widget-video.php:231 widgets/widget-video.php:322
+msgid "Margin"
+msgstr ""
+
+#: widgets/widget-woo-category.php:319
+msgid "Max Width"
+msgstr ""
+
+#: widgets/widget-navmenu.php:1533
+msgid "Menu"
+msgstr ""
+
+#: widgets/widget-navmenu.php:1254
+msgid "Menu Panel"
+msgstr ""
+
+#: widgets/widget-navmenu.php:76
+msgid "Menu Panel Style"
+msgstr ""
+
+#: widgets/widget-navmenu.php:35
+msgid "Menu Settings"
+msgstr ""
+
+#: widgets/widget-posts.php:293 widgets/widget-posts.php:1728
+msgid "Meta"
+msgstr ""
+
+#: widgets/widget-posts.php:1898
+msgid "Meta Featured"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:339 widgets/widget-slide-swiper.php:606
+#: widgets/widget-slide-swiper.php:1027 widgets/widget-slide-swiper.php:1975
+msgid "Middle"
+msgstr ""
+
+#: widgets/widget-countdown.php:71 widgets/widget-countdown.php:146
+#: widgets/widget-countdown.php:148 widgets/widget-countdown.php:149
+#: widgets/widget-countdown.php:491
+msgid "Minutes"
+msgstr ""
+
+#: widgets/widget-tabs.php:167
+msgid "Mission"
+msgstr ""
+
+#: widgets/widget-woo-products.php:68
+msgid "Mixed order Products"
+msgstr ""
+
+#: widgets/widget-navmenu.php:914
+msgid "Mobile Button & Close Icon"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1180
+msgid "Mobile Hide Arrows"
+msgstr ""
+
+#: widgets/widget-price-table.php:60
+msgid "monthly"
+msgstr ""
+
+#: widgets/widget-countdown.php:487
+msgid "Months"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:776
+msgid "Motion Direction"
+msgstr ""
+
+#: widgets/widget-price-table.php:373 widgets/widget-price-table.php:439
+msgid "Multiply"
+msgstr ""
+
+#: widgets/widget-testimonial-carousel.php:67
+#: widgets/widget-testimonial-carousel.php:414
+#: widgets/widget-testimonial-type-group-carousel.php:108
+#: widgets/widget-testimonial-type-group-carousel.php:468
+#: widgets/widget-woo-category.php:136 widgets/widget-woo-products.php:82
+msgid "Name"
+msgstr ""
+
+#: widgets/widget-tabs.php:107
+msgid "Nav"
+msgstr ""
+
+#: widgets/widget-tabs.php:113
+msgid "Nav text"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1152
+msgid "Navigation"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:373
+msgid "New Template Item"
+msgstr ""
+
+#: widgets/widget-posts.php:454 widgets/widget-slide-swiper.php:1232
+#: widgets/widget-testimonial-carousel.php:802
+#: widgets/widget-testimonial-type-group-carousel.php:930
+msgid "Next Icon"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1429 widgets/widget-navmenu.php:47
+#: widgets/widget-slide-swiper.php:742 widgets/widget-slide-swiper.php:1183
+#: widgets/widget-tabs.php:51
+msgid "No"
+msgstr ""
+
+#: widgets/widget-portfolio.php:536 widgets/widget-posts.php:2093
+#: widgets/widget-project.php:612 widgets/widget-services.php:299
+msgid "No posts found"
+msgstr ""
+
+#: widgets/widget-woo-products.php:617
+msgid "No product found"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:381
+msgid "No Template found"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:382
+msgid "No Template found in Trash"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:378
+msgid "No Template Items Found"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:379
+msgid "No Template Items Found In Trash"
+msgstr ""
+
+#: widgets/widget-iconbox.php:75
+msgid "Non-Polluting"
+msgstr ""
+
+#: widgets/widget-iconbox.php:40 widgets/widget-navmenu.php:421
+#: widgets/widget-navmenu.php:723 widgets/widget-navmenu.php:790
+#: widgets/widget-navmenu.php:857 widgets/widget-navmenu.php:1477
+#: widgets/widget-slide-swiper.php:893 widgets/widget-slide-swiper.php:1159
+#: widgets/widget-tabs.php:775
+msgid "None"
+msgstr ""
+
+#: widgets/widget-iconbox.php:335 widgets/widget-iconbox.php:858
+#: widgets/widget-iconbox.php:1218 widgets/widget-imagebox.php:306
+#: widgets/widget-imagebox.php:1061 widgets/widget-navmenu.php:237
+#: widgets/widget-navmenu.php:437 widgets/widget-navmenu.php:500
+#: widgets/widget-navmenu.php:926 widgets/widget-navmenu.php:1090
+#: widgets/widget-navmenu.php:1565 widgets/widget-posts.php:656
+#: widgets/widget-posts.php:926 widgets/widget-price-table.php:349
+#: widgets/widget-price-table.php:372 widgets/widget-price-table.php:438
+#: widgets/widget-slide-swiper.php:175 widgets/widget-slide-swiper.php:1386
+#: widgets/widget-slide-swiper.php:1633 widgets/widget-slide-swiper.php:2352
+#: widgets/widget-tabs.php:458 widgets/widget-testimonial-carousel.php:997
+#: widgets/widget-testimonial-carousel.php:1259
+#: widgets/widget-testimonial-type-group-carousel.php:1035
+#: widgets/widget-video.php:343 widgets/widget-woo-products.php:310
+msgid "Normal"
+msgstr ""
+
+#: widgets/widget-counter.php:352 widgets/widget-step.php:268
+msgid "Number"
+msgstr ""
+
+#: widgets/widget-piechart.php:300
+msgid "Number Color"
+msgstr ""
+
+#: widgets/widget-price-table.php:79 widgets/widget-price-table.php:1055
+msgid "Number Order"
+msgstr ""
+
+#: widgets/widget-counter.php:83
+msgid "Number Prefix"
+msgstr ""
+
+#: widgets/widget-woo-products.php:50
+msgid "Number Show Products"
+msgstr ""
+
+#: widgets/widget-counter.php:93
+msgid "Number Suffix"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1510 widgets/widget-posts.php:328
+#: widgets/widget-posts.php:340 widgets/widget-posts.php:355
+#: widgets/widget-project.php:279 widgets/widget-testimonial-carousel.php:659
+#: widgets/widget-testimonial-carousel.php:671
+#: widgets/widget-testimonial-type-group-carousel.php:846
+#: widgets/widget-testimonial-type-group-carousel.php:861
+#: widgets/widget-woo-products.php:149 widgets/widget-woo-products.php:161
+#: widgets/widget-woo-products.php:173
+msgid "Off"
+msgstr ""
+
+#: widgets/widget-step.php:119
+msgid "Official Color"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1511 widgets/widget-posts.php:327
+#: widgets/widget-posts.php:339 widgets/widget-posts.php:354
+#: widgets/widget-project.php:278 widgets/widget-testimonial-carousel.php:658
+#: widgets/widget-testimonial-carousel.php:670
+#: widgets/widget-testimonial-type-group-carousel.php:845
+#: widgets/widget-testimonial-type-group-carousel.php:860
+#: widgets/widget-woo-products.php:148 widgets/widget-woo-products.php:160
+#: widgets/widget-woo-products.php:172
+msgid "On"
+msgstr ""
+
+#: widgets/widget-navmenu.php:68
+msgid "Only Icon"
+msgstr ""
+
+#: widgets/widget-woo-category.php:104
+msgid "Only Top Level"
+msgstr ""
+
+#: tf-post-format.php:51
+msgid "Option just view if post format is Gallery, Video, Audio or Quote."
+msgstr ""
+
+#: widgets/widget-portfolio.php:55 widgets/widget-posts.php:63
+#: widgets/widget-project.php:63 widgets/widget-services.php:59
+#: widgets/widget-woo-category.php:147 widgets/widget-woo-products.php:93
+msgid "Order"
+msgstr ""
+
+#: widgets/widget-portfolio.php:41 widgets/widget-posts.php:49
+#: widgets/widget-project.php:49 widgets/widget-services.php:45
+#: widgets/widget-woo-category.php:132
+msgid "Order By"
+msgstr ""
+
+#: widgets/widget-woo-products.php:76
+msgid "Orderby"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:117
+msgid "Out"
+msgstr ""
+
+#: widgets/widget-progress-bar.php:84
+msgid "Outer"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1197 widgets/widget-slide-swiper.php:1520
+msgid "Outside"
+msgstr ""
+
+#: widgets/widget-imagebox.php:393 widgets/widget-navmenu.php:1360
+#: widgets/widget-posts.php:1197 widgets/widget-posts.php:1206
+#: widgets/widget-price-table.php:375 widgets/widget-price-table.php:441
+msgid "Overlay"
+msgstr ""
+
+#: widgets/widget-posts.php:1218
+msgid "Overlay Color"
+msgstr ""
+
+#: widgets/widget-woo-category.php:378
+msgid "Overlay Image"
+msgstr ""
+
+#: widgets/widget-navmenu.php:423
+msgid "Overline"
+msgstr ""
+
+#: widgets/widget-heading-section.php:59 widgets/widget-title-section.php:46
+msgid "p"
+msgstr ""
+
+#: widgets/widget-countdown.php:327 widgets/widget-counter.php:198
+#: widgets/widget-heading-section.php:419 widgets/widget-iconbox.php:805
+#: widgets/widget-iconbox.php:1161 widgets/widget-imagebox.php:278
+#: widgets/widget-imagebox.php:494 widgets/widget-imagebox.php:612
+#: widgets/widget-imagebox.php:1019 widgets/widget-list.php:303
+#: widgets/widget-navmenu.php:1039 widgets/widget-navmenu.php:1210
+#: widgets/widget-navmenu.php:1302 widgets/widget-navmenu.php:1432
+#: widgets/widget-posts.php:1040 widgets/widget-posts.php:1143
+#: widgets/widget-posts.php:1304 widgets/widget-price-table.php:520
+#: widgets/widget-price-table.php:542 widgets/widget-price-table.php:1217
+#: widgets/widget-price-table.php:1239 widgets/widget-price-table.php:1567
+#: widgets/widget-price-table.php:1611 widgets/widget-progress-bar.php:141
+#: widgets/widget-slide-swiper.php:548 widgets/widget-slide-swiper.php:1880
+#: widgets/widget-slide-swiper.php:2262 widgets/widget-step.php:212
+#: widgets/widget-tabs.php:325 widgets/widget-tabs.php:412
+#: widgets/widget-tabs.php:713 widgets/widget-team.php:352
+#: widgets/widget-team.php:432 widgets/widget-team.php:509
+#: widgets/widget-testimonial-carousel.php:192
+#: widgets/widget-title-section.php:202 widgets/widget-video.php:212
+#: widgets/widget-woo-category.php:270
+#: widgets/widget-woo-products-banner.php:463
+msgid "Padding"
+msgstr ""
+
+#: widgets/widget-countdown.php:220
+msgid "Padding Top & Bottom"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1508 widgets/widget-slide-swiper.php:869
+#: widgets/widget-slide-swiper.php:913
+msgid "Parallax"
+msgstr ""
+
+#: widgets/widget-woo-category.php:108
+msgid "Parent"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:380
+msgid "Parent Template:"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:799
+msgid "Pause on Hover"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:812
+msgid "Pause on Interaction"
+msgstr ""
+
+#: widgets/widget-piechart.php:53 widgets/widget-progress-bar.php:49
+#: widgets/widget-progress-bar.php:284
+msgid "Percentage"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:153
+msgid "PHP"
+msgstr ""
+
+#: widgets/widget-piechart.php:94
+msgid "Pie Chart Position"
+msgstr ""
+
+#: widgets/widget-piechart.php:40
+msgid "Pie Chart Style"
+msgstr ""
+
+#: widgets/widget-piechart.php:166
+msgid "Piechart Size"
+msgstr ""
+
+#: widgets/widget-counter.php:96 widgets/widget-navmenu.php:122
+msgid "Plus"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1099 widgets/widget-imagebox.php:1192
+msgid "Pop"
+msgstr ""
+
+#: widgets/widget-price-table.php:93
+msgid "Popular "
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1529 widgets/widget-price-table.php:1153
+#: widgets/widget-tabs.php:207 widgets/widget-team.php:78
+#: widgets/widget-team.php:452 widgets/widget-testimonial-carousel.php:76
+#: widgets/widget-testimonial-carousel.php:491
+#: widgets/widget-testimonial-type-group-carousel.php:117
+#: widgets/widget-testimonial-type-group-carousel.php:587
+msgid "Position"
+msgstr ""
+
+#: tf-post-format.php:80
+msgid "Post Format: Audio"
+msgstr ""
+
+#: tf-post-format.php:56
+msgid "Post Format: Gallery"
+msgstr ""
+
+#: tf-post-format.php:92
+msgid "Post Format: Quote"
+msgstr ""
+
+#: tf-post-format.php:68
+msgid "Post Format: Video"
+msgstr ""
+
+#: widgets/widget-portfolio.php:81 widgets/widget-posts.php:89
+#: widgets/widget-project.php:89 widgets/widget-services.php:85
+msgid "Post Ids Will Be Inorged. Ex: 1,2,3"
+msgstr ""
+
+#: widgets/widget-portfolio.php:92 widgets/widget-project.php:100
+#: widgets/widget-services.php:96
+msgid "Post Ids Will Be Sort. Ex: 1,2,3"
+msgstr ""
+
+#: tf-post-format.php:108
+msgid "Post settings"
+msgstr ""
+
+#: widgets/widget-portfolio.php:32 widgets/widget-posts.php:40
+#: widgets/widget-project.php:40 widgets/widget-services.php:36
+msgid "Posts Per Page"
+msgstr ""
+
+#: widgets/widget-posts.php:436 widgets/widget-slide-swiper.php:1209
+#: widgets/widget-testimonial-carousel.php:784
+#: widgets/widget-testimonial-type-group-carousel.php:912
+msgid "Prev Icon"
+msgstr ""
+
+#: widgets/widget-price-table.php:49 widgets/widget-price-table.php:714
+msgid "Price"
+msgstr ""
+
+#: widgets/widget-woo-category.php:164
+msgid "Products"
+msgstr ""
+
+#: widgets/widget-heading-section.php:80
+msgid "Professional Solar Enery solutions comapny"
+msgstr ""
+
+#: widgets/widget-progress-bar.php:32 widgets/widget-progress-bar.php:71
+#: widgets/widget-slide-swiper.php:1505
+msgid "Progress Bar"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1095 widgets/widget-imagebox.php:1188
+#: widgets/widget-tabs.php:802
+msgid "Pulse"
+msgstr ""
+
+#: widgets/widget-video.php:248
+msgid "Pulse Box 1"
+msgstr ""
+
+#: widgets/widget-video.php:249
+msgid "Pulse Box 2"
+msgstr ""
+
+#: widgets/widget-video.php:250 widgets/widget-video.php:251
+msgid "Pulse Box 3"
+msgstr ""
+
+#: widgets/widget-video.php:252
+msgid "Pulse Box 4"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1096 widgets/widget-imagebox.php:1189
+msgid "Pulse Grow"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1097 widgets/widget-imagebox.php:1190
+msgid "Pulse Shrink"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1098 widgets/widget-imagebox.php:1191
+msgid "Push"
+msgstr ""
+
+#: widgets/widget-portfolio.php:25 widgets/widget-posts.php:33
+#: widgets/widget-project.php:33 widgets/widget-services.php:29
+#: widgets/widget-woo-category.php:62
+msgid "Query"
+msgstr ""
+
+#: tf-post-format.php:98
+msgid "Quote Text"
+msgstr ""
+
+#: widgets/widget-raindrop.php:28
+msgid "Rain Drop"
+msgstr ""
+
+#: widgets/widget-woo-products.php:85
+msgid "Random"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:781
+#: widgets/widget-testimonial-type-group-carousel.php:806
+#: widgets/widget-testimonial-type-group-carousel.php:1281
+msgid "Rating"
+msgstr ""
+
+#: widgets/widget-iconbox.php:118 widgets/widget-iconbox.php:137
+#: widgets/widget-imagebox.php:137 widgets/widget-posts.php:283
+#: widgets/widget-step.php:90 widgets/widget-step.php:174
+#: widgets/widget-step.php:179 widgets/widget-step.php:184
+msgid "Read More"
+msgstr ""
+
+#: widgets/widget-woo-products.php:63
+msgid "Recent Products"
+msgstr ""
+
+#: post-format/options.php:125 post-format/options.php:245
+msgid "Remove"
+msgstr ""
+
+#: widgets/widget-navmenu.php:130
+msgid "Responsive"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1412
+msgid "Reverse Horizontal Rotation"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1414
+msgid "Reverse Vertical Rotation"
+msgstr ""
+
+#: widgets/widget-countdown.php:258 widgets/widget-counter.php:162
+#: widgets/widget-heading-section.php:101
+#: widgets/widget-heading-section.php:145 widgets/widget-iconbox.php:104
+#: widgets/widget-iconbox.php:541 widgets/widget-iconbox.php:752
+#: widgets/widget-iconbox.php:1144 widgets/widget-imagebox.php:171
+#: widgets/widget-imagebox.php:996 widgets/widget-navmenu.php:101
+#: widgets/widget-piechart.php:106 widgets/widget-posts.php:178
+#: widgets/widget-price-table.php:1165 widgets/widget-price-table.php:1192
+#: widgets/widget-price-table.php:1471 widgets/widget-slide-swiper.php:305
+#: widgets/widget-slide-swiper.php:381 widgets/widget-slide-swiper.php:580
+#: widgets/widget-slide-swiper.php:641 widgets/widget-slide-swiper.php:896
+#: widgets/widget-slide-swiper.php:1008 widgets/widget-slide-swiper.php:1809
+#: widgets/widget-slide-swiper.php:1955 widgets/widget-slide-swiper.php:2002
+#: widgets/widget-tabs.php:220 widgets/widget-tabs.php:309
+#: widgets/widget-team.php:255 widgets/widget-title-section.php:98
+#: widgets/widget-video.php:123 widgets/widget-woo-category.php:224
+msgid "Right"
+msgstr ""
+
+#: widgets/widget-iconbox.php:499
+msgid "Right To Left"
+msgstr ""
+
+#: widgets/widget-tabs.php:811
+msgid "Roll In"
+msgstr ""
+
+#: widgets/widget-iconbox.php:247
+msgid "Rotate"
+msgstr ""
+
+#: widgets/widget-iconbox.php:262
+msgid "Rotate Icon"
+msgstr ""
+
+#: widgets/widget-tabs.php:795
+msgid "Rotate In"
+msgstr ""
+
+#: widgets/widget-tabs.php:796
+msgid "Rotate In Down Left"
+msgstr ""
+
+#: widgets/widget-tabs.php:797
+msgid "Rotate In Down Right"
+msgstr ""
+
+#: widgets/widget-tabs.php:798
+msgid "Rotate In Up Left"
+msgstr ""
+
+#: widgets/widget-tabs.php:799
+msgid "Rotate In Up Right"
+msgstr ""
+
+#: widgets/widget-woo-products.php:200
+msgid "Row"
+msgstr ""
+
+#: widgets/widget-woo-category.php:192
+#: widgets/widget-woo-products-banner.php:503
+msgid "Rows Gap"
+msgstr ""
+
+#: widgets/widget-tabs.php:803
+msgid "Rubber Band"
+msgstr ""
+
+#: widgets/widget-woo-products.php:66
+msgid "Sale Products"
+msgstr ""
+
+#: widgets/widget-woo-products.php:438 widgets/widget-woo-products.php:451
+msgid "Sale!"
+msgstr ""
+
+#: widgets/widget-price-table.php:379 widgets/widget-price-table.php:445
+msgid "Saturation"
+msgstr ""
+
+#: widgets/widget-woo-products-banner.php:63
+#: widgets/widget-woo-products-banner.php:382
+#: widgets/widget-woo-products-banner.php:390
+#: widgets/widget-woo-products-banner.php:398
+msgid "Save 25% Hurry Up"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:868
+#: widgets/widget-testimonial-carousel.php:1429
+msgid "Scale"
+msgstr ""
+
+#: widgets/widget-price-table.php:374 widgets/widget-price-table.php:440
+msgid "Screen"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:683
+msgid "Search Page"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:332
+msgid "Search pages / post / categories"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:377
+msgid "Search Template"
+msgstr ""
+
+#: widgets/widget-countdown.php:82 widgets/widget-countdown.php:161
+#: widgets/widget-countdown.php:163 widgets/widget-countdown.php:164
+#: widgets/widget-countdown.php:492
+msgid "Seconds"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:806
+#: themesflat-addons-for-elementor.php:885
+msgid "Select"
+msgstr ""
+
+#: widgets/widget-navmenu.php:54
+msgid "Select menu"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:419
+msgid "Select Option"
+msgstr ""
+
+#: widgets/widget-counter.php:114
+msgid "Separator"
+msgstr ""
+
+#: widgets/widget-title-section.php:67
+msgid "Services"
+msgstr ""
+
+#: widgets/widget-title-section.php:57
+msgid "Services for You"
+msgstr ""
+
+#: widgets/widget-tabs.php:48
+msgid "Set Active Tab"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:286
+msgid "Set custom style that will only affect this specific slide."
+msgstr ""
+
+#: widgets/widget-step.php:72 widgets/widget-step.php:172
+msgid "Set Design Planning"
+msgstr ""
+
+#: widgets/widget-list.php:28 widgets/widget-piechart.php:33
+#: widgets/widget-step.php:28 widgets/widget-team.php:28
+#: widgets/widget-testimonial-carousel.php:649
+#: widgets/widget-testimonial-type-group-carousel.php:833
+#: widgets/widget-woo-category.php:28 widgets/widget-woo-products-banner.php:32
+#: widgets/widget-woo-products.php:32
+msgid "Setting"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1516
+msgid "Shadow Box"
+msgstr ""
+
+#: widgets/widget-tabs.php:804
+msgid "Shake"
+msgstr ""
+
+#: widgets/widget-woo-products-banner.php:72
+#: widgets/widget-woo-products-banner.php:383
+#: widgets/widget-woo-products-banner.php:391
+#: widgets/widget-woo-products-banner.php:399
+msgid "Shop Now"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1124
+msgid "Short length slip parameter of Button"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1106
+msgid "Short length slip parameter of Description"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1052
+msgid "Short length slip parameter of Image"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1088
+msgid "Short length slip parameter of Sub Title"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1070
+msgid "Short length slip parameter of Title"
+msgstr ""
+
+#: widgets/widget-countdown.php:51 widgets/widget-countdown.php:62
+#: widgets/widget-countdown.php:73 widgets/widget-countdown.php:84
+#: widgets/widget-countdown.php:95 widgets/widget-iconbox.php:126
+#: widgets/widget-iconbox.php:826 widgets/widget-iconbox.php:1337
+#: widgets/widget-imagebox.php:125 widgets/widget-imagebox.php:404
+#: widgets/widget-portfolio.php:173 widgets/widget-posts.php:223
+#: widgets/widget-posts.php:235 widgets/widget-posts.php:271
+#: widgets/widget-posts.php:304 widgets/widget-posts.php:422
+#: widgets/widget-posts.php:788 widgets/widget-posts.php:1208
+#: widgets/widget-project.php:209 widgets/widget-slide-swiper.php:753
+#: widgets/widget-tabs.php:39 widgets/widget-tabs.php:832
+#: widgets/widget-testimonial-carousel.php:773
+#: widgets/widget-testimonial-carousel.php:1155
+#: widgets/widget-testimonial-type-group-carousel.php:901
+msgid "Show"
+msgstr ""
+
+#: widgets/widget-woo-category.php:73
+msgid "Show All"
+msgstr ""
+
+#: widgets/widget-iconbox.php:124 widgets/widget-imagebox.php:123
+#: widgets/widget-posts.php:269
+msgid "Show Button"
+msgstr ""
+
+#: widgets/widget-posts.php:233
+msgid "Show Excerpt"
+msgstr ""
+
+#: widgets/widget-tabs.php:37
+msgid "Show Icon"
+msgstr ""
+
+#: widgets/widget-countdown.php:93
+msgid "Show Label"
+msgstr ""
+
+#: widgets/widget-posts.php:302
+msgid "Show Meta"
+msgstr ""
+
+#: widgets/widget-imagebox.php:402
+msgid "Show Overlay"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:751
+msgid "Show Thumbs Gallery"
+msgstr ""
+
+#: widgets/widget-posts.php:221
+msgid "Show Title"
+msgstr ""
+
+#: widgets/widget-tabs.php:830
+msgid "Show Triger"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1094 widgets/widget-imagebox.php:1187
+msgid "Shrink"
+msgstr ""
+
+#: widgets/widget-piechart.php:44
+msgid "Simple"
+msgstr ""
+
+#: widgets/widget-iconbox.php:196 widgets/widget-list.php:200
+#: widgets/widget-slide-swiper.php:68 widgets/widget-slide-swiper.php:476
+#: widgets/widget-tabs.php:230 widgets/widget-testimonial-carousel.php:261
+#: widgets/widget-testimonial-carousel.php:313 widgets/widget-video.php:137
+#: widgets/widget-video.php:269 widgets/widget-video.php:374
+#: widgets/widget-woo-category.php:387
+msgid "Size"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1078 widgets/widget-iconbox.php:1102
+#: widgets/widget-imagebox.php:1170 widgets/widget-imagebox.php:1195
+msgid "Skew"
+msgstr ""
+
+#: widgets/widget-navmenu.php:439 widgets/widget-slide-swiper.php:851
+msgid "Slide"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:683
+msgid "Slide 1 Heading"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:690
+msgid "Slide 2 Heading"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:697
+msgid "Slide 3 Heading"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:212
+msgid "Slide Heading"
+msgstr ""
+
+#: widgets/widget-tabs.php:791
+msgid "Slide In Down"
+msgstr ""
+
+#: widgets/widget-tabs.php:792
+msgid "Slide In Left"
+msgstr ""
+
+#: widgets/widget-tabs.php:793
+msgid "Slide In Right"
+msgstr ""
+
+#: widgets/widget-tabs.php:794
+msgid "Slide In Up"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1042
+msgid "Slide Parallax"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1123
+msgid "Slide Parallax For Button"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1105
+msgid "Slide Parallax For Description"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1051
+msgid "Slide Parallax For Image"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1087
+msgid "Slide Parallax For Sub Title"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1069
+msgid "Slide Parallax For Title"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:33 widgets/widget-slide-swiper.php:42
+#: widgets/widget-slide-swiper.php:677 widgets/widget-slide-swiper.php:1840
+msgid "Slides"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1145
+msgid "Slides Navigation"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:768
+msgid "Slides Options"
+msgstr ""
+
+#: widgets/widget-woo-category.php:137
+msgid "Slug"
+msgstr ""
+
+#: widgets/widget-team.php:529
+msgid "Social"
+msgstr ""
+
+#: widgets/widget-team.php:91 widgets/widget-team.php:190
+msgid "Social Icons"
+msgstr ""
+
+#: widgets/widget-woo-products-banner.php:54
+#: widgets/widget-woo-products-banner.php:381
+msgid "Solar Energy Panel Battery"
+msgstr ""
+
+#: widgets/widget-woo-products-banner.php:397
+msgid "Solar Energy Panel Cable"
+msgstr ""
+
+#: widgets/widget-woo-products-banner.php:389
+msgid "Solar Energy Panel Lamp"
+msgstr ""
+
+#: widgets/widget-woo-products-banner.php:45
+#: widgets/widget-woo-products-banner.php:380
+#: widgets/widget-woo-products-banner.php:388
+#: widgets/widget-woo-products-banner.php:396
+msgid "Solar Panel"
+msgstr ""
+
+#: widgets/widget-iconbox.php:386 widgets/widget-iconbox.php:467
+#: widgets/widget-navmenu.php:724 widgets/widget-navmenu.php:791
+#: widgets/widget-navmenu.php:858 widgets/widget-navmenu.php:1478
+#: widgets/widget-video.php:164 widgets/widget-video.php:401
+msgid "Solid"
+msgstr ""
+
+#: widgets/widget-portfolio.php:90 widgets/widget-project.php:98
+#: widgets/widget-services.php:94
+msgid "Sort By ID"
+msgstr ""
+
+#: widgets/widget-video.php:39 widgets/widget-woo-category.php:70
+msgid "Source"
+msgstr ""
+
+#: widgets/widget-countdown.php:304 widgets/widget-navmenu.php:397
+#: widgets/widget-price-table.php:1269
+msgid "Space Between"
+msgstr ""
+
+#: widgets/widget-testimonial-carousel.php:680
+#: widgets/widget-testimonial-type-group-carousel.php:873
+#: widgets/widget-woo-products.php:185
+msgid "Spacer"
+msgstr ""
+
+#: widgets/widget-piechart.php:121 widgets/widget-project.php:171
+#: widgets/widget-project.php:292 widgets/widget-slide-swiper.php:2036
+#: widgets/widget-slide-swiper.php:2112 widgets/widget-slide-swiper.php:2188
+#: widgets/widget-testimonial-carousel.php:1226
+msgid "Spacing"
+msgstr ""
+
+#: widgets/widget-woo-category.php:362
+msgid "Spacing Bottom"
+msgstr ""
+
+#: widgets/widget-woo-category.php:346
+msgid "Spacing Top"
+msgstr ""
+
+#: widgets/widget-heading-section.php:58 widgets/widget-title-section.php:45
+msgid "span"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:705
+msgid "Special Pages"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:747
+msgid "Specific Pages / Posts / Taxonomies, etc."
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:745
+msgid "Specific Target"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1600
+msgid "Speed"
+msgstr ""
+
+#: widgets/widget-iconbox.php:503
+msgid "Spin Around"
+msgstr ""
+
+#: widgets/widget-iconbox.php:182
+msgid "Square"
+msgstr ""
+
+#: widgets/widget-iconbox.php:184
+msgid "Square Outline"
+msgstr ""
+
+#: widgets/widget-counter.php:65
+msgid "Starting Number"
+msgstr ""
+
+#: widgets/widget-tabs.php:171
+msgid "Strategy"
+msgstr ""
+
+#: widgets/widget-heading-section.php:377 widgets/widget-title-section.php:263
+#: widgets/widget-video.php:526
+msgid "Stroke color"
+msgstr ""
+
+#: widgets/widget-counter.php:39 widgets/widget-heading-section.php:35
+#: widgets/widget-heading-section.php:160 widgets/widget-iconbox.php:1069
+#: widgets/widget-imagebox.php:461 widgets/widget-imagebox.php:1161
+#: widgets/widget-list.php:80 widgets/widget-portfolio.php:250
+#: widgets/widget-price-table.php:36 widgets/widget-project.php:158
+#: widgets/widget-project.php:310 widgets/widget-slide-swiper.php:279
+#: widgets/widget-slide-swiper.php:512 widgets/widget-step.php:35
+#: widgets/widget-step.php:198 widgets/widget-team.php:35
+#: widgets/widget-team.php:223 widgets/widget-testimonial-carousel.php:151
+#: widgets/widget-testimonial-type-group-carousel.php:218
+#: widgets/widget-title-section.php:114
+#: widgets/widget-woo-products-banner.php:95
+#: widgets/widget-woo-products-banner.php:415
+#: widgets/widget-woo-products.php:122
+msgid "Style"
+msgstr ""
+
+#: widgets/widget-counter.php:44 widgets/widget-heading-section.php:39
+#: widgets/widget-posts.php:113 widgets/widget-price-table.php:40
+#: widgets/widget-project.php:162 widgets/widget-services.php:144
+#: widgets/widget-team.php:40 widgets/widget-testimonial-carousel.php:44
+#: widgets/widget-testimonial-type-group-carousel.php:44
+#: widgets/widget-woo-products.php:126
+msgid "Style 1"
+msgstr ""
+
+#: widgets/widget-step.php:40
+msgid "Style 1 ( Max 3 Steps )"
+msgstr ""
+
+#: widgets/widget-counter.php:45 widgets/widget-heading-section.php:40
+#: widgets/widget-posts.php:114 widgets/widget-price-table.php:41
+#: widgets/widget-project.php:163 widgets/widget-services.php:145
+#: widgets/widget-team.php:41 widgets/widget-testimonial-carousel.php:45
+#: widgets/widget-testimonial-type-group-carousel.php:45
+#: widgets/widget-woo-products.php:127
+msgid "Style 2"
+msgstr ""
+
+#: widgets/widget-step.php:41
+msgid "Style 2 ( Max 3 Steps )"
+msgstr ""
+
+#: widgets/widget-posts.php:115 widgets/widget-services.php:146
+#: widgets/widget-testimonial-carousel.php:46
+msgid "Style 3"
+msgstr ""
+
+#: widgets/widget-step.php:42
+msgid "Style 3 ( Max 4 Steps )"
+msgstr ""
+
+#: widgets/widget-posts.php:116
+msgid "Style 4"
+msgstr ""
+
+#: widgets/widget-services.php:140
+msgid "Styles"
+msgstr ""
+
+#: widgets/widget-portfolio.php:154
+msgid "Styles 1"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:73
+#: widgets/widget-testimonial-type-group-carousel.php:366
+#: widgets/widget-woo-products-banner.php:61
+#: widgets/widget-woo-products-banner.php:229
+msgid "Sub Heading"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:220 widgets/widget-slide-swiper.php:2104
+#: widgets/widget-title-section.php:75 widgets/widget-title-section.php:285
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/widget-navmenu.php:116
+msgid "Submenu Icon"
+msgstr ""
+
+#: widgets/widget-navmenu.php:452
+msgid "Submenu Icon Margin"
+msgstr ""
+
+#: widgets/widget-tabs.php:806
+msgid "Swing"
+msgstr ""
+
+#: widgets/widget-tabs.php:115
+msgid "Tab"
+msgstr ""
+
+#: widgets/widget-tabs.php:822
+msgid "Tab Active Triger"
+msgstr ""
+
+#: widgets/widget-tabs.php:678
+msgid "Tab Content"
+msgstr ""
+
+#: widgets/widget-tabs.php:200
+msgid "Tab Icon"
+msgstr ""
+
+#: widgets/widget-tabs.php:281
+msgid "Tab Nav"
+msgstr ""
+
+#: widgets/widget-tabs.php:32
+msgid "Tabs"
+msgstr ""
+
+#: widgets/widget-tabs.php:807
+msgid "Tada"
+msgstr ""
+
+#: widgets/widget-tabs.php:133
+msgid "Template"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:110
+msgid "Teodoro D. Williams"
+msgstr ""
+
+#: widgets/widget-testimonial-carousel.php:33
+#: widgets/widget-testimonial-type-group-carousel.php:33
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: widgets/widget-navmenu.php:425 widgets/widget-progress-bar.php:219
+#: widgets/widget-step.php:79 widgets/widget-step.php:448
+msgid "Text"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:369 widgets/widget-slide-swiper.php:629
+#: widgets/widget-slide-swiper.php:1990
+msgid "Text Align"
+msgstr ""
+
+#: widgets/widget-counter.php:360 widgets/widget-counter.php:449
+#: widgets/widget-slide-swiper.php:2057 widgets/widget-slide-swiper.php:2133
+#: widgets/widget-slide-swiper.php:2209 widgets/widget-slide-swiper.php:2357
+#: widgets/widget-slide-swiper.php:2396
+msgid "Text Color"
+msgstr ""
+
+#: widgets/widget-price-table.php:1426
+msgid "Text Indent"
+msgstr ""
+
+#: widgets/widget-imagebox.php:869 widgets/widget-imagebox.php:940
+msgid "Text Shadow"
+msgstr ""
+
+#: widgets/widget-countdown.php:9
+msgid "TF Countdown"
+msgstr ""
+
+#: widgets/widget-counter.php:9
+msgid "TF Counter"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1061 widgets/widget-imagebox.php:1153
+msgid "TF Effect"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:367
+#: themesflat-addons-for-elementor.php:368
+#: themesflat-addons-for-elementor.php:370
+msgid "TF Header - Footer Template"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:401
+msgid "TF Header Or Footer Options"
+msgstr ""
+
+#: widgets/widget-heading-section.php:9
+msgid "TF Heading Section"
+msgstr ""
+
+#: widgets/widget-iconbox.php:9
+msgid "TF Icon Box"
+msgstr ""
+
+#: widgets/widget-imagebox.php:9
+msgid "TF Image Box"
+msgstr ""
+
+#: widgets/widget-list.php:9
+msgid "TF List"
+msgstr ""
+
+#: widgets/widget-navmenu.php:9
+msgid "TF Nav Menu"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1500
+msgid "TF Parallax"
+msgstr ""
+
+#: widgets/widget-piechart.php:9
+msgid "TF Pie Chart"
+msgstr ""
+
+#: widgets/widget-portfolio.php:9
+msgid "TF Portfolio"
+msgstr ""
+
+#: widgets/widget-posts.php:9
+msgid "TF Posts"
+msgstr ""
+
+#: widgets/widget-price-table.php:9
+msgid "TF Price Table"
+msgstr ""
+
+#: widgets/widget-woo-products-banner.php:9
+msgid "TF Product Banner"
+msgstr ""
+
+#: widgets/widget-woo-category.php:9
+msgid "TF Product Categories"
+msgstr ""
+
+#: widgets/widget-woo-products.php:9
+msgid "TF Products"
+msgstr ""
+
+#: widgets/widget-progress-bar.php:9
+msgid "TF Progress Bar"
+msgstr ""
+
+#: widgets/widget-project.php:9
+msgid "TF Project"
+msgstr ""
+
+#: widgets/widget-raindrop.php:9
+msgid "TF Rain Drop"
+msgstr ""
+
+#: widgets/widget-services.php:9
+msgid "TF Services"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:9
+msgid "TF Slide Swiper"
+msgstr ""
+
+#: widgets/widget-step.php:9
+msgid "TF Step"
+msgstr ""
+
+#: widgets/widget-tabs.php:9
+msgid "TF Tabs"
+msgstr ""
+
+#: widgets/widget-team.php:9
+msgid "TF Team"
+msgstr ""
+
+#: widgets/widget-testimonial-carousel.php:9
+msgid "TF Testimonial Carousel"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:9
+msgid "TF Testimonial Type Group Carousel"
+msgstr ""
+
+#: widgets/widget-title-section.php:9
+msgid "TF Title Section"
+msgstr ""
+
+#: widgets/widget-video.php:9
+msgid "TF Video"
+msgstr ""
+
+#: widgets/widget-list.php:49
+msgid "The Best Solution of Wind & Solar"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1602
+msgid ""
+"The speed at which the parallax effect runs. 0 means the image will appear "
+"fixed in place, and 1 the image will flow at the same speed as the page "
+"content."
+msgstr ""
+
+#. Description of the plugin
+msgid "The theme's components"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themesflat"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:127
+#: themesflat-addons-for-elementor.php:138
+#: themesflat-addons-for-elementor.php:152
+msgid "Themesflat Addons For Elementor"
+msgstr ""
+
+#. Name of the plugin
+msgid "Themesflat Elementor"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1531
+msgid ""
+"This is analogous to the background-position css property. Specify "
+"coordinates as top, bottom, right, left, center, or pixel values (e.g. -10px "
+"0px). The parallax image will be positioned as close to these values as "
+"possible while still covering the target element."
+msgstr ""
+
+#: widgets/widget-navmenu.php:43
+msgid "This works in the current page."
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:506
+msgid "Thumb Slide"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:687
+msgid ""
+"Thumb Slide 1 Lorem ipsum dolor sit amet consectetur adipiscing elit dolor"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:694
+msgid ""
+"Thumb Slide 2 Lorem ipsum dolor sit amet consectetur adipiscing elit dolor"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:701
+msgid ""
+"Thumb Slide 3 Lorem ipsum dolor sit amet consectetur adipiscing elit dolor"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:444 widgets/widget-slide-swiper.php:1734
+msgid "Thumbs Gallery"
+msgstr ""
+
+#: widgets/widget-price-table.php:58 widgets/widget-price-table.php:827
+msgid "Time"
+msgstr ""
+
+#: widgets/widget-testimonial-carousel.php:78
+msgid "Tincidunt"
+msgstr ""
+
+#: widgets/widget-counter.php:129 widgets/widget-counter.php:441
+#: widgets/widget-iconbox.php:72 widgets/widget-iconbox.php:558
+#: widgets/widget-imagebox.php:79 widgets/widget-imagebox.php:833
+#: widgets/widget-list.php:47 widgets/widget-list.php:246
+#: widgets/widget-piechart.php:65 widgets/widget-piechart.php:316
+#: widgets/widget-portfolio.php:258 widgets/widget-posts.php:1320
+#: widgets/widget-price-table.php:70 widgets/widget-price-table.php:908
+#: widgets/widget-progress-bar.php:39 widgets/widget-progress-bar.php:227
+#: widgets/widget-project.php:318 widgets/widget-slide-swiper.php:210
+#: widgets/widget-slide-swiper.php:2028 widgets/widget-team.php:68
+#: widgets/widget-team.php:375 widgets/widget-woo-category.php:426
+#: widgets/widget-woo-products.php:83
+msgid "Title"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1273
+msgid "Title Color"
+msgstr ""
+
+#: widgets/widget-title-section.php:28
+msgid "Title Section"
+msgstr ""
+
+#: widgets/widget-imagebox.php:570
+msgid "Title Show"
+msgstr ""
+
+#: widgets/widget-iconbox.php:617
+msgid "Title Tag"
+msgstr ""
+
+#: widgets/widget-iconbox.php:100 widgets/widget-piechart.php:102
+#: widgets/widget-slide-swiper.php:335 widgets/widget-slide-swiper.php:602
+#: widgets/widget-slide-swiper.php:1023 widgets/widget-slide-swiper.php:1971
+#: widgets/widget-tabs.php:216
+msgid "Top"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1538
+msgid "Top Center"
+msgstr ""
+
+#: widgets/widget-navmenu.php:627
+msgid "Top Distance"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1539
+msgid "Top Left"
+msgstr ""
+
+#: widgets/widget-woo-products.php:67
+msgid "Top Rated Products"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1540
+msgid "Top Right"
+msgstr ""
+
+#: widgets/widget-iconbox.php:501
+msgid "Top To Bottom"
+msgstr ""
+
+#: shortcode.php:73
+msgid "Total Item"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:863
+msgid "Transfer Type Of Transition Slide"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:847
+msgid "Transition"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:880
+msgid "Transition Speed"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1489
+msgid "Translate"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1477
+msgid "Translate Box"
+msgstr ""
+
+#: widgets/widget-tabs.php:858
+msgid "Triger Size"
+msgstr ""
+
+#: widgets/widget-iconbox.php:177 widgets/widget-progress-bar.php:79
+#: widgets/widget-tabs.php:185
+msgid "Type"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:415
+msgid "Type of Template"
+msgstr ""
+
+#: widgets/widget-piechart.php:83
+msgid "Type your description here"
+msgstr ""
+
+#: widgets/widget-piechart.php:68
+msgid "Type your title here"
+msgstr ""
+
+#: widgets/widget-heading-section.php:176
+#: widgets/widget-heading-section.php:262
+#: widgets/widget-heading-section.php:339 widgets/widget-iconbox.php:767
+#: widgets/widget-imagebox.php:860 widgets/widget-imagebox.php:931
+#: widgets/widget-imagebox.php:1011 widgets/widget-list.php:121
+#: widgets/widget-list.php:256 widgets/widget-navmenu.php:216
+#: widgets/widget-navmenu.php:478 widgets/widget-navmenu.php:1555
+#: widgets/widget-piechart.php:339 widgets/widget-portfolio.php:202
+#: widgets/widget-portfolio.php:268 widgets/widget-portfolio.php:310
+#: widgets/widget-posts.php:1329 widgets/widget-posts.php:1371
+#: widgets/widget-posts.php:1413 widgets/widget-posts.php:1455
+#: widgets/widget-posts.php:1521 widgets/widget-posts.php:1557
+#: widgets/widget-posts.php:1599 widgets/widget-posts.php:1641
+#: widgets/widget-posts.php:1683 widgets/widget-posts.php:1737
+#: widgets/widget-posts.php:1779 widgets/widget-posts.php:1821
+#: widgets/widget-posts.php:1863 widgets/widget-posts.php:1910
+#: widgets/widget-price-table.php:577 widgets/widget-price-table.php:723
+#: widgets/widget-price-table.php:764 widgets/widget-price-table.php:839
+#: widgets/widget-price-table.php:917 widgets/widget-price-table.php:986
+#: widgets/widget-price-table.php:1067 widgets/widget-progress-bar.php:235
+#: widgets/widget-progress-bar.php:293 widgets/widget-project.php:234
+#: widgets/widget-project.php:328 widgets/widget-project.php:370
+#: widgets/widget-slide-swiper.php:1561 widgets/widget-slide-swiper.php:2071
+#: widgets/widget-slide-swiper.php:2147 widgets/widget-step.php:317
+#: widgets/widget-step.php:355 widgets/widget-step.php:413
+#: widgets/widget-step.php:468 widgets/widget-step.php:529
+#: widgets/widget-tabs.php:375 widgets/widget-tabs.php:686
+#: widgets/widget-team.php:385 widgets/widget-team.php:462
+#: widgets/widget-testimonial-carousel.php:423
+#: widgets/widget-testimonial-carousel.php:500
+#: widgets/widget-testimonial-carousel.php:577
+#: widgets/widget-testimonial-type-group-carousel.php:254
+#: widgets/widget-testimonial-type-group-carousel.php:317
+#: widgets/widget-testimonial-type-group-carousel.php:375
+#: widgets/widget-testimonial-type-group-carousel.php:477
+#: widgets/widget-testimonial-type-group-carousel.php:532
+#: widgets/widget-testimonial-type-group-carousel.php:596
+#: widgets/widget-testimonial-type-group-carousel.php:671
+#: widgets/widget-testimonial-type-group-carousel.php:726
+#: widgets/widget-title-section.php:132 widgets/widget-title-section.php:224
+#: widgets/widget-title-section.php:295 widgets/widget-video.php:488
+#: widgets/widget-woo-products-banner.php:139
+#: widgets/widget-woo-products-banner.php:194
+#: widgets/widget-woo-products-banner.php:249
+#: widgets/widget-woo-products-banner.php:337
+msgid "Typography"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1574
+msgid "Typography Active"
+msgstr ""
+
+#: widgets/widget-piechart.php:223
+msgid "Typography Number"
+msgstr ""
+
+#: widgets/widget-piechart.php:262
+msgid "Typography Percent"
+msgstr ""
+
+#: widgets/widget-price-table.php:1316 widgets/widget-price-table.php:1357
+#: widgets/widget-price-table.php:1486 widgets/widget-price-table.php:1527
+msgid "Typography Text"
+msgstr ""
+
+#: widgets/widget-navmenu.php:422
+msgid "Underline"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:895
+msgid "Up"
+msgstr ""
+
+#: widgets/widget-navmenu.php:166
+msgid "URL"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:781 widgets/widget-tabs.php:190
+msgid "Vertical"
+msgstr ""
+
+#: widgets/widget-posts.php:887 widgets/widget-slide-swiper.php:1609
+#: widgets/widget-testimonial-carousel.php:1196
+msgid "Vertical Offset"
+msgstr ""
+
+#: widgets/widget-navmenu.php:374 widgets/widget-navmenu.php:686
+msgid "Vertical Padding"
+msgstr ""
+
+#: widgets/widget-navmenu.php:1653
+msgid "Vertical Padding Link (px)"
+msgstr ""
+
+#: widgets/widget-posts.php:617 widgets/widget-slide-swiper.php:331
+#: widgets/widget-slide-swiper.php:598 widgets/widget-slide-swiper.php:1362
+#: widgets/widget-testimonial-carousel.php:959
+msgid "Vertical Position"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1413
+msgid "Vertical Rotation"
+msgstr ""
+
+#: widgets/widget-video.php:32 widgets/widget-video.php:93
+msgid "Video"
+msgstr ""
+
+#: tf-post-format.php:74
+msgid "video link"
+msgstr ""
+
+#: widgets/widget-countdown.php:351
+msgid "View"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:375
+msgid "View Template"
+msgstr ""
+
+#: widgets/widget-video.php:44
+msgid "Vimeo"
+msgstr ""
+
+#: widgets/widget-tabs.php:163
+msgid "Vision"
+msgstr ""
+
+#: widgets/widget-team.php:70
+msgid "Watson Mendela"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:119
+msgid "Web Developer"
+msgstr ""
+
+#: widgets/widget-countdown.php:488
+msgid "Weeks"
+msgstr ""
+
+#: widgets/widget-testimonial-type-group-carousel.php:65
+msgid "What our clients say about our service"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:261
+msgid "Whole Slide"
+msgstr ""
+
+#: widgets/widget-navmenu.php:1321 widgets/widget-navmenu.php:1396
+#: widgets/widget-posts.php:500 widgets/widget-posts.php:802
+#: widgets/widget-slide-swiper.php:1278
+#: widgets/widget-testimonial-carousel.php:847
+#: widgets/widget-testimonial-carousel.php:1266
+#: widgets/widget-testimonial-carousel.php:1377
+#: widgets/widget-testimonial-type-group-carousel.php:975
+msgid "Width"
+msgstr ""
+
+#: widgets/widget-navmenu.php:1673
+msgid "Width Icon Submenu (px)"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:1744
+msgid "Width Thumbs Gallery"
+msgstr ""
+
+#: widgets/widget-posts.php:554
+msgid "Width Wrap Nav"
+msgstr ""
+
+#: widgets/widget-piechart.php:45
+msgid "With Content"
+msgstr ""
+
+#: widgets/widget-tabs.php:808
+msgid "Wobble"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1104 widgets/widget-imagebox.php:1197
+msgid "Wobble Horizontal"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1103 widgets/widget-imagebox.php:1196
+msgid "Wobble Vertical"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:691
+msgid "WooCommerce Shop Page"
+msgstr ""
+
+#: widgets/widget-imagebox.php:842
+msgid "Wrap Heading"
+msgstr ""
+
+#: widgets/widget-iconbox.php:505
+msgid "Wrap Icon Pop"
+msgstr ""
+
+#: widgets/widget-iconbox.php:220
+msgid "Wrap Icon Size"
+msgstr ""
+
+#: widgets/widget-iconbox.php:504
+msgid "Wrap Icon Spin Around"
+msgstr ""
+
+#: widgets/widget-tabs.php:288
+msgid "Wrap Nav"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1554
+msgid "X Position"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1577
+msgid "Y Position"
+msgstr ""
+
+#: widgets/widget-iconbox.php:1428 widgets/widget-navmenu.php:46
+#: widgets/widget-slide-swiper.php:741 widgets/widget-slide-swiper.php:1182
+#: widgets/widget-tabs.php:50
+msgid "Yes"
+msgstr ""
+
+#: themesflat-addons-for-elementor.php:1625
+msgid ""
+"You can optionally set the parallax mirror element to extend a few pixels "
+"above and below the mirrored element. This can hide slow or stuttering "
+"scroll events in certain browsers."
+msgstr ""
+
+#: tf-post-format.php:57
+msgid "You can select multiple images."
+msgstr ""
+
+#: widgets/widget-video.php:43
+msgid "YouTube"
+msgstr ""
+
+#: tf-icons.php:8
+msgid "dreamhome Icons"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:898
+msgid "Zoom"
+msgstr ""
+
+#: widgets/widget-slide-swiper.php:112
+msgid "Zoom Direction"
+msgstr ""
+
+#: widgets/widget-tabs.php:781
+msgid "Zoom In"
+msgstr ""
+
+#: widgets/widget-tabs.php:782
+msgid "Zoom In Down"
+msgstr ""
+
+#: widgets/widget-tabs.php:783
+msgid "Zoom In Left"
+msgstr ""
+
+#: widgets/widget-tabs.php:784
+msgid "Zoom In Right"
+msgstr ""
+
+#: widgets/widget-tabs.php:785
+msgid "Zoom In Up"
+msgstr ""

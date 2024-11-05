@@ -1,0 +1,50 @@
+/* Right To Left
+-------------------------------------------------------------- */
+.tf-posts .blog-post .meta-features .category-post i {
+    margin-right: unset;
+    margin-left: 7px;
+}
+.tf-posts .blog-post .meta-features .post-meta.meta-time {
+    margin-left: 17px;
+    margin-right: unset;
+}
+.tficonbox.left .wrap-icon {
+    margin-right: 0px !important;
+}
+.tficonbox .wrap-icon::after {
+    display: none !important;
+}
+.tf-posts .blog-post .meta-features {
+    left: unset !important;
+    right: 10px;
+}
+.tf-testimonial-carousel.style-3 .description::after {
+    left: unset;
+    right: 25px;
+}
+.tf-testimonial-carousel .avatar {
+    margin-right: unset;
+    margin-left: 17px;
+}
+.tf-pricetable .wrap-icon {
+    margin-right: unset;
+    margin-left: 11px;
+}
+.tf-pricetable .content-price .time {
+    margin-left: unset;
+    margin-right: 15px;
+}
+.rtl .tf-list-image.animation-image .box-item {
+    -webkit-animation: slide-har2 100s linear infinite;
+    animation: slide-har2 100s linear infinite;
+}
+@keyframes slide-har2 {
+    0% {
+        -webkit-transform: translateX(0%);
+        transform: translateX(0%);
+    }
+    100% {
+        -webkit-transform: translateX(50%);
+        transform: translateX(50%);
+    }
+}

@@ -1,0 +1,129 @@
+
+---Downloaded files---
+The import files for: Import Demo Data were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://dreamhome.themesflat.co
+Data file = /home/admin/domains/themesflat.co/public_html/dreamhome/wp-content/uploads/2023/11/demo-content-import-file_2023-11-10__02-36-28.xml
+Widget file = /home/admin/domains/themesflat.co/public_html/dreamhome/wp-content/uploads/2023/11/demo-widgets-import-file_2023-11-10__02-36-28.json
+Customizer file = /home/admin/domains/themesflat.co/public_html/dreamhome/wp-content/uploads/2023/11/demo-customizer-import-file_2023-11-10__02-36-28.dat
+Redux files:
+tfre_options -> /home/admin/domains/themesflat.co/public_html/dreamhome/wp-content/uploads/2023/11/demo-redux-import-file_0-2023-11-10__02-36-28.json 
+
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Search - Search - Imported
+Block - No Title - Imported
+Featured Properties Widget - Featured listings - Imported
+Property Taxonomy Widget - Real estate near you - Imported
+Featured Properties Widget - No Title - Imported
+Tag Cloud - Popular tags - Imported
+
+Footer Widget Area 1 : 
+
+Block - No Title - Imported
+
+Footer Widget Area 2 : 
+
+Block - No Title - Imported
+Custom HTML - No Title - Imported
+
+Footer Widget Area 3 : 
+
+Navigation Menu - Our Company - Imported
+
+Footer Widget Area 4 : 
+
+Block - No Title - Imported
+
+Properties Sidebar : 
+
+Contact Seller Form Widget - Contact seller - Imported
+Featured Properties Widget - Featured listings - Imported
+Property Taxonomy Widget - Real estate near you - Imported
+Featured Properties Widget - No Title - Imported
+
+Sidebar Archive Properties : 
+
+Contact Seller Form Widget - Contact seller - Imported
+Featured Properties Widget - Featured listings - Imported
+Property Taxonomy Widget - Real estate near you - Imported
+Featured Properties Widget - No Title - Imported
+
+Sidebar Archive Agent : 
+
+Agent Search Form Widget - Agent Search - Imported
+Featured Properties Widget - Featured listings - Imported
+Property Taxonomy Widget - Real estate near you - Imported
+Featured Properties Widget - No Title - Imported
+
+Sidebar Agency List : 
+
+Agency Search Form Widget - Agency Search - Imported
+Featured Properties Widget - Featured listings - Imported
+Property Taxonomy Widget - Real estate near you - Imported
+Featured Properties Widget - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: tfre_options finished successfully!
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---ocdi/after_import---
+

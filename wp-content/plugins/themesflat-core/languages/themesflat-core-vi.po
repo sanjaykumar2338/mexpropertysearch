@@ -1,0 +1,2608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Themesflat Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-22 06:07+0000\n"
+"PO-Revision-Date: 2023-11-22 06:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Domain: themesflat-core"
+
+#: widgets/widget-price-table.php:507 widgets/widget-price-table.php:545
+#: widgets/widget-price-table.php:583 widgets/widget-price-table.php:622
+msgid " Color"
+msgstr " Màu sắc"
+
+#: widgets/widget-price-table.php:594
+msgid " Color Hover"
+msgstr " Màu Di"
+
+#: themesflat-core.php:166
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr "\"%1$s\" đã yêu cầu \"%2$s\" để được cài đặt và kích hoạt."
+
+#: themesflat-core.php:177 themesflat-core.php:191
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "\"%1$s\" đã yêu cầu \"%2$s\" phiên bản %3$s hay hơn."
+
+#: widgets/widget-list-image.php:68 widgets/widget-list-image.php:72
+#: widgets/widget-list-image.php:76 widgets/widget-list-image.php:80
+#: widgets/widget-list-image.php:84 widgets/widget-list-image.php:88
+#: widgets/widget-list-image.php:92 widgets/widget-list-image.php:96
+msgid "#"
+msgstr ""
+
+#: widgets/widget-price-table.php:73
+msgid "$"
+msgstr "$"
+
+#: widgets/widget-counter.php:145
+msgid "+"
+msgstr "+"
+
+#: widgets/widget-price-table.php:82
+msgid "/Mth"
+msgstr "/Tháng"
+
+#: widgets/widget-posts.php:125 widgets/widget-posts.php:140
+#: widgets/widget-posts.php:154 widgets/widget-posts.php:458
+#: widgets/widget-posts.php:478 widgets/widget-posts.php:495
+#: widgets/widget-testimonial-carousel.php:639
+#: widgets/widget-testimonial-carousel.php:656
+#: widgets/widget-testimonial-carousel.php:673
+#: widgets/widget-testimonial-carousel.php:690
+msgid "1"
+msgstr "1"
+
+#: widgets/widget-posts.php:126 widgets/widget-posts.php:141
+#: widgets/widget-posts.php:155 widgets/widget-posts.php:459
+#: widgets/widget-posts.php:479 widgets/widget-posts.php:496
+#: widgets/widget-testimonial-carousel.php:640
+#: widgets/widget-testimonial-carousel.php:657
+#: widgets/widget-testimonial-carousel.php:674
+#: widgets/widget-testimonial-carousel.php:691
+msgid "2"
+msgstr "2"
+
+#: widgets/widget-posts.php:127 widgets/widget-posts.php:142
+#: widgets/widget-posts.php:460 widgets/widget-posts.php:480
+#: widgets/widget-testimonial-carousel.php:641
+#: widgets/widget-testimonial-carousel.php:658
+#: widgets/widget-testimonial-carousel.php:675
+#: widgets/widget-testimonial-carousel.php:692
+msgid "3"
+msgstr "3"
+
+#: widgets/widget-posts.php:128 widgets/widget-posts.php:461
+#: widgets/widget-testimonial-carousel.php:642
+#: widgets/widget-testimonial-carousel.php:659
+#: widgets/widget-testimonial-carousel.php:676
+#: widgets/widget-testimonial-carousel.php:693
+msgid "4"
+msgstr "4"
+
+#: widgets/widget-price-table.php:64
+msgid "40"
+msgstr "40"
+
+#: themesflat-core.php:665
+msgid "404 Page"
+msgstr "404"
+
+#: widgets/widget-posts.php:462 widgets/widget-testimonial-carousel.php:643
+#: widgets/widget-testimonial-carousel.php:660
+#: widgets/widget-testimonial-carousel.php:677
+#: widgets/widget-testimonial-carousel.php:694
+msgid "5"
+msgstr "5"
+
+#: widgets/widget-posts.php:463 widgets/widget-testimonial-carousel.php:644
+#: widgets/widget-testimonial-carousel.php:661
+#: widgets/widget-testimonial-carousel.php:678
+#: widgets/widget-testimonial-carousel.php:695
+msgid "6"
+msgstr "6"
+
+#: widgets/widget-title-section.php:96
+msgid "A highly trusted wealth management firm"
+msgstr "Một rất đáng tin cậy có công ty quản lý"
+
+#: widgets/widget-heading-section.php:70 widgets/widget-heading-section.php:125
+msgid "About Company"
+msgstr "Về Công Ty"
+
+#: widgets/widget-tabs.php:205
+msgid "About Us"
+msgstr "Về Chúng Tôi"
+
+#: widgets/widget-icon-popup.php:58 widgets/widget-navmenu.php:307
+#: widgets/widget-navmenu.php:566 widgets/widget-navmenu.php:1607
+#: widgets/widget-price-table.php:49
+#: widgets/widget-testimonial-carousel.php:1285
+msgid "Active"
+msgstr "Hoạt động"
+
+#: themesflat-core.php:432
+msgid "Add Display Rule Group"
+msgstr "Thêm Hiển Thị Cai Trị Nhóm"
+
+#: themesflat-core.php:451 themesflat-core.php:931
+msgid "Add Exclusion Rule Group"
+msgstr "Thêm Loại Trừ Cai Trị Nhóm"
+
+#: post-format/options.php:121
+msgid "Add file"
+msgstr "Thêm tập tin"
+
+#: post-format/options.php:241
+msgid "Add files"
+msgstr "Thêm tập tin"
+
+#: themesflat-core.php:355
+msgid "Add New"
+msgstr "Thêm Mới"
+
+#: themesflat-core.php:356
+msgid "Add New Template"
+msgstr "Thêm Mẫu Mới"
+
+#: themesflat-core.php:770
+msgid "Add Rule"
+msgstr "Thêm Quy Tắc"
+
+#: widgets/widget-imagebox.php:1404
+msgid "After"
+msgstr "Sau"
+
+#: widgets/widget-list.php:39
+msgid "Al Mahmud"
+msgstr "Al Mahmud"
+
+#: widgets/widget-animation-item.php:133 widgets/widget-countdown.php:246
+#: widgets/widget-counter.php:199 widgets/widget-heading-section.php:88
+#: widgets/widget-imagebox.php:202 widgets/widget-imagebox.php:1103
+#: widgets/widget-navmenu.php:1262 widgets/widget-posts.php:163
+#: widgets/widget-posts.php:1724 widgets/widget-price-table.php:296
+#: widgets/widget-tabs.php:253 widgets/widget-tabs.php:532
+#: widgets/widget-testimonial-carousel.php:221
+#: widgets/widget-title-section.php:114 widgets/widget-video.php:102
+msgid "Alignment"
+msgstr "Sự liên kết"
+
+#: widgets/widget-heading-section.php:132
+msgid "Alignment Blurred Text"
+msgstr "Sự Liên Kết Mờ Văn Bản"
+
+#: widgets/widget-navmenu.php:89
+msgid "Alignment Menu"
+msgstr "Sự Liên Kết Đơn"
+
+#: themesflat-core.php:822
+#, php-format
+msgid "All %s"
+msgstr "Tất cả %s"
+
+#: themesflat-core.php:827 themesflat-core.php:835
+#, php-format
+msgid "All %s Archive"
+msgstr "Tất cả %s các lưu Trữ"
+
+#: themesflat-core.php:679
+msgid "All Archives"
+msgstr "Tất Cả Lưu Trữ"
+
+#: themesflat-core.php:678
+msgid "All Singulars"
+msgstr "Tất Cả Singulars"
+
+#: themesflat-core.php:360
+msgid "All Template"
+msgstr "Tất Cả Các Mẫu"
+
+#: widgets/widget-animation-item.php:28 widgets/widget-navmenu.php:433
+#: widgets/widget-video.php:225
+msgid "Animation"
+msgstr "Hoạt hình"
+
+#: widgets/widget-counter.php:152
+msgid "Animation Duration"
+msgstr "Thời Gian Hoạt Hình"
+
+#: widgets/widget-animation-item.php:60
+msgid "Animation Frames 1"
+msgstr "Hoạt Hình Khung Hình 1"
+
+#: widgets/widget-animation-item.php:61
+msgid "Animation Frames 2"
+msgstr "Hoạt Hình Khung Hình 2"
+
+#: widgets/widget-animation-item.php:40
+msgid "Animation Mouse move"
+msgstr "Hoạt hình Chuột di chuyển"
+
+#: widgets/widget-animation-item.php:39 widgets/widget-animation-item.php:48
+msgid "Animation Move"
+msgstr "Hoạt Hình Di Chuyển"
+
+#: widgets/widget-tabs-infor.php:87
+msgid "Animation Move Image Left"
+msgstr "Hoạt Hình Ảnh Di Chuyển Sang Trái"
+
+#: widgets/widget-posts.php:507 widgets/widget-testimonial-carousel.php:707
+#: widgets/widget-testimonial-carousel.php:714
+msgid "Arrow"
+msgstr "Mũi tên"
+
+#: widgets/widget-navmenu.php:121
+msgid "Arrows"
+msgstr "Mũi tên"
+
+#: themesflat-core.php:670
+msgid "Author Archive"
+msgstr "Giả Lưu Trữ"
+
+#: widgets/widget-posts.php:439 widgets/widget-testimonial-carousel.php:611
+msgid "Auto Play"
+msgstr "Chơi Tự Động"
+
+#: widgets/widget-price-table.php:136
+msgid "Automatically reach potential customers"
+msgstr "Tự động đến khách hàng tiềm năng"
+
+#: widgets/widget-testimonial-carousel.php:380
+msgid "Avatar"
+msgstr "Avatar"
+
+#: widgets/widget-imagebox.php:278 widgets/widget-imagebox.php:386
+#: widgets/widget-navmenu.php:256 widgets/widget-navmenu.php:293
+#: widgets/widget-navmenu.php:332 widgets/widget-navmenu.php:519
+#: widgets/widget-navmenu.php:552 widgets/widget-navmenu.php:586
+#: widgets/widget-navmenu.php:1281 widgets/widget-navmenu.php:1372
+#: widgets/widget-posts.php:1335 widgets/widget-posts.php:1644
+#: widgets/widget-posts.php:1798 widgets/widget-price-table.php:373
+#: widgets/widget-price-table.php:433 widgets/widget-price-table.php:698
+#: widgets/widget-price-table.php:940 widgets/widget-price-table.php:974
+#: widgets/widget-testimonial-carousel.php:248
+msgid "Background"
+msgstr "Nền"
+
+#: widgets/widget-price-table.php:397
+msgid "Background "
+msgstr "Nền "
+
+#: widgets/widget-price-table.php:407
+msgid "Background Blend Mode"
+msgstr "Nền Pha Chế Độ"
+
+#: widgets/widget-contact-form7.php:228 widgets/widget-countdown.php:270
+#: widgets/widget-counter.php:280 widgets/widget-heading-section.php:219
+#: widgets/widget-icon-popup.php:227 widgets/widget-iconbox.php:411
+#: widgets/widget-imagebox.php:540 widgets/widget-imagebox.php:665
+#: widgets/widget-imagebox.php:716 widgets/widget-imagebox.php:803
+#: widgets/widget-imagebox.php:1199 widgets/widget-list.php:100
+#: widgets/widget-navmenu.php:945 widgets/widget-navmenu.php:978
+#: widgets/widget-navmenu.php:1110 widgets/widget-navmenu.php:1145
+#: widgets/widget-posts.php:763 widgets/widget-posts.php:849
+#: widgets/widget-posts.php:1047 widgets/widget-posts.php:1100
+#: widgets/widget-price-table.php:1061 widgets/widget-tabs-infor.php:203
+#: widgets/widget-tabs.php:325 widgets/widget-tabs.php:370
+#: widgets/widget-tabs.php:591 widgets/widget-testimonial-carousel.php:271
+#: widgets/widget-testimonial-carousel.php:555
+#: widgets/widget-testimonial-carousel.php:961
+#: widgets/widget-testimonial-carousel.php:1026
+#: widgets/widget-testimonial-carousel.php:1242
+#: widgets/widget-testimonial-carousel.php:1425
+#: widgets/widget-title-section.php:183 widgets/widget-video.php:329
+#: widgets/widget-video.php:436
+msgid "Background Color"
+msgstr "Màu Nền"
+
+#: widgets/widget-tabs.php:337
+msgid "Background Color Active"
+msgstr "Màu Nền Hoạt Động"
+
+#: widgets/widget-testimonial-carousel.php:1388
+msgid "Background Color Border"
+msgstr "Màu Nền Biên Giới"
+
+#: widgets/widget-iconbox.php:422 widgets/widget-imagebox.php:677
+#: widgets/widget-imagebox.php:1254 widgets/widget-list.php:111
+msgid "Background Color Hover"
+msgstr "Màu Nền Di"
+
+#: widgets/widget-testimonial-carousel.php:281
+msgid "Background Group"
+msgstr "Nền Nhóm"
+
+#: widgets/widget-imagebox.php:297 widgets/widget-posts.php:1345
+#: widgets/widget-posts.php:1667 widgets/widget-posts.php:1831
+msgid "Background Hover"
+msgstr "Nền Di"
+
+#: widgets/widget-tabs.php:818
+msgid "Background Type"
+msgstr "Loại Nền"
+
+#: widgets/widget-price-table.php:104 widgets/widget-price-table.php:1000
+msgid "Badge"
+msgstr "Huy hiệu"
+
+#: themesflat-core.php:675
+msgid "Basic"
+msgstr "Cơ bản"
+
+#: widgets/widget-imagebox.php:1403
+msgid "Before"
+msgstr "Trước khi"
+
+#: widgets/widget-heading-section.php:68 widgets/widget-heading-section.php:168
+msgid "Before Heading"
+msgstr "Trước Khi Đi"
+
+#: widgets/widget-tabs.php:282
+msgid "Big"
+msgstr "Lớn"
+
+#: widgets/widget-countdown.php:354
+msgid "Block"
+msgstr "Khối"
+
+#: themesflat-core.php:667
+msgid "Blog / Posts Page"
+msgstr "Blog / Bài Trang"
+
+#: widgets/widget-heading-section.php:117
+#: widgets/widget-heading-section.php:123
+#: widgets/widget-heading-section.php:330
+msgid "Blurred Text"
+msgstr "Mờ Văn Bản"
+
+#: widgets/widget-imagebox.php:1312
+msgid "Bob"
+msgstr "Bob"
+
+#: widgets/widget-contact-form7.php:253 widgets/widget-counter.php:227
+#: widgets/widget-counter.php:340 widgets/widget-iconbox.php:252
+#: widgets/widget-iconbox.php:457 widgets/widget-imagebox.php:257
+#: widgets/widget-imagebox.php:365 widgets/widget-imagebox.php:1212
+#: widgets/widget-imagebox.php:1329 widgets/widget-navmenu.php:226
+#: widgets/widget-navmenu.php:709 widgets/widget-posts.php:778
+#: widgets/widget-posts.php:865 widgets/widget-posts.php:1061
+#: widgets/widget-posts.php:1115 widgets/widget-posts.php:1191
+#: widgets/widget-posts.php:1285 widgets/widget-posts.php:1328
+#: widgets/widget-posts.php:1811 widgets/widget-price-table.php:331
+#: widgets/widget-price-table.php:920 widgets/widget-tabs-infor.php:213
+#: widgets/widget-tabs-infor.php:280 widgets/widget-tabs.php:562
+#: widgets/widget-tabs.php:676 widgets/widget-tabs.php:745
+#: widgets/widget-tabs.php:849 widgets/widget-testimonial-carousel.php:976
+#: widgets/widget-testimonial-carousel.php:1042
+#: widgets/widget-testimonial-carousel.php:1257
+#: widgets/widget-testimonial-carousel.php:1440
+#: widgets/widget-tfgroupimage.php:211
+msgid "Border"
+msgstr "Biên giới"
+
+#: widgets/widget-navmenu.php:738 widgets/widget-navmenu.php:805
+#: widgets/widget-navmenu.php:872 widgets/widget-navmenu.php:1493
+#: widgets/widget-price-table.php:951 widgets/widget-price-table.php:985
+#: widgets/widget-video.php:170 widgets/widget-video.php:383
+#: widgets/widget-video.php:448
+msgid "Border Color"
+msgstr "Màu Biên Giới"
+
+#: widgets/widget-navmenu.php:776
+msgid "Border First Child"
+msgstr "Biên Giới Đứa Con Đầu Tiên"
+
+#: widgets/widget-navmenu.php:843
+msgid "Border Last Child"
+msgstr "Biên Giới Cuối Cùng Con"
+
+#: widgets/widget-navmenu.php:1463
+msgid "Border Menu"
+msgstr "Biên Giới Thực Đơn"
+
+#: widgets/widget-animation-item.php:252 widgets/widget-contact-form7.php:240
+#: widgets/widget-countdown.php:292 widgets/widget-counter.php:244
+#: widgets/widget-counter.php:351 widgets/widget-iconbox.php:239
+#: widgets/widget-iconbox.php:444 widgets/widget-imagebox.php:265
+#: widgets/widget-imagebox.php:373 widgets/widget-imagebox.php:653
+#: widgets/widget-imagebox.php:1220 widgets/widget-imagebox.php:1337
+#: widgets/widget-navmenu.php:1027 widgets/widget-navmenu.php:1197
+#: widgets/widget-posts.php:805 widgets/widget-posts.php:1071
+#: widgets/widget-posts.php:1125 widgets/widget-posts.php:1198
+#: widgets/widget-posts.php:1293 widgets/widget-price-table.php:907
+#: widgets/widget-price-table.php:1039 widgets/widget-tabs-infor.php:219
+#: widgets/widget-tabs-infor.php:286 widgets/widget-tabs-infor.php:441
+#: widgets/widget-tabs-infor.php:479 widgets/widget-tabs.php:313
+#: widgets/widget-tabs.php:358 widgets/widget-tabs.php:682
+#: widgets/widget-tabs.php:751 widgets/widget-tabs.php:856
+#: widgets/widget-testimonial-carousel.php:316
+#: widgets/widget-testimonial-carousel.php:987
+#: widgets/widget-testimonial-carousel.php:1053
+#: widgets/widget-testimonial-carousel.php:1268
+#: widgets/widget-testimonial-carousel.php:1451
+#: widgets/widget-tfgroupimage.php:198 widgets/widget-title-section.php:194
+#: widgets/widget-video.php:182
+msgid "Border Radius"
+msgstr "Bán Kính Biên Giới"
+
+#: widgets/widget-price-table.php:764
+msgid "Border Radius Over"
+msgstr "Bán Kính Biên Giới Hơn"
+
+#: widgets/widget-posts.php:892
+msgid "Border Radius Previous"
+msgstr "Bán Kính Biên Giới Đó"
+
+#: widgets/widget-navmenu.php:718 widgets/widget-navmenu.php:785
+#: widgets/widget-navmenu.php:852 widgets/widget-navmenu.php:1472
+msgid "Border Style"
+msgstr "Phong Cách Biên Giới"
+
+#: widgets/widget-video.php:151 widgets/widget-video.php:364
+msgid "Border Type"
+msgstr "Loại Biên Giới"
+
+#: widgets/widget-navmenu.php:753 widgets/widget-navmenu.php:820
+#: widgets/widget-navmenu.php:887 widgets/widget-navmenu.php:1011
+#: widgets/widget-navmenu.php:1180 widgets/widget-navmenu.php:1509
+msgid "Border Width"
+msgstr "Biên Giới Rộng"
+
+#: widgets/widget-animation-item.php:54 widgets/widget-tabs-infor.php:93
+msgid "bottom to top"
+msgstr "dưới hàng đầu"
+
+#: widgets/widget-tabs.php:905
+msgid "Bounce"
+msgstr "Trả lại"
+
+#: widgets/widget-tabs.php:891
+msgid "Bounce In"
+msgstr "Trả Lại Trong"
+
+#: widgets/widget-tabs.php:892
+msgid "Bounce In Down"
+msgstr "Trả Lại Trong Xuống"
+
+#: widgets/widget-tabs.php:893
+msgid "Bounce In Left"
+msgstr "Trả Lại Trong Trái"
+
+#: widgets/widget-tabs.php:894
+msgid "Bounce In Right"
+msgstr "Trả Lại Vào Ngay"
+
+#: widgets/widget-tabs.php:895
+msgid "Bounce In Up"
+msgstr "Trả Lại Trong Lên"
+
+#: widgets/widget-counter.php:236 widgets/widget-icon-popup.php:239
+#: widgets/widget-iconbox.php:466 widgets/widget-imagebox.php:288
+#: widgets/widget-imagebox.php:396 widgets/widget-imagebox.php:645
+#: widgets/widget-navmenu.php:487 widgets/widget-navmenu.php:1294
+#: widgets/widget-posts.php:1183 widgets/widget-price-table.php:323
+#: widgets/widget-tabs-infor.php:230 widgets/widget-tabs-infor.php:297
+#: widgets/widget-tabs.php:693 widgets/widget-tabs.php:762
+#: widgets/widget-tabs.php:868 widgets/widget-tfgroupimage.php:220
+#: widgets/widget-title-section.php:207
+msgid "Box Shadow"
+msgstr "Hộp Shadow"
+
+#: widgets/widget-imagebox.php:307
+msgid "Box Shadow Hover"
+msgstr "Hộp Bóng Di"
+
+#: widgets/widget-countdown.php:180
+msgid "Boxes"
+msgstr "Hộp"
+
+#: widgets/widget-posts.php:909 widgets/widget-testimonial-carousel.php:1077
+#: widgets/widget-testimonial-carousel.php:1084
+msgid "Bullets"
+msgstr "Đạn"
+
+#: widgets/widget-iconbox.php:320 widgets/widget-imagebox.php:159
+#: widgets/widget-imagebox.php:1095 widgets/widget-posts.php:289
+#: widgets/widget-posts.php:1455 widgets/widget-price-table.php:249
+#: widgets/widget-price-table.php:868
+msgid "Button"
+msgstr "Nút"
+
+#: widgets/widget-contact-form7.php:391
+msgid "Button Background Hover"
+msgstr "Nút Nền Di"
+
+#: widgets/widget-contact-form7.php:413
+msgid "Button Border Radius"
+msgstr "Nút Bán Kính Biên Giới"
+
+#: widgets/widget-navmenu.php:1077
+msgid "Button Close"
+msgstr "Nút Gần"
+
+#: widgets/widget-imagebox.php:178 widgets/widget-posts.php:310
+msgid "Button Text"
+msgstr "Nút Văn Bản"
+
+#: widgets/widget-contact-form7.php:402
+msgid "Button Text Hover Color"
+msgstr "Nút Văn Bản Di Màu"
+
+#: widgets/widget-contact-form7.php:326
+msgid "Button Typography"
+msgstr "Nút Kiểu Chữ"
+
+#: widgets/widget-posts.php:405 widgets/widget-posts.php:412
+msgid "Carousel"
+msgstr "Đu quay"
+
+#: widgets/widget-posts.php:76
+msgid "Categories"
+msgstr "Loại"
+
+#: widgets/widget-posts.php:1615
+msgid "Category"
+msgstr "Mục"
+
+#: widgets/widget-animation-item.php:141 widgets/widget-countdown.php:254
+#: widgets/widget-counter.php:207 widgets/widget-heading-section.php:97
+#: widgets/widget-heading-section.php:141 widgets/widget-imagebox.php:210
+#: widgets/widget-imagebox.php:1111 widgets/widget-navmenu.php:97
+#: widgets/widget-navmenu.php:1270 widgets/widget-posts.php:171
+#: widgets/widget-posts.php:1732 widgets/widget-price-table.php:304
+#: widgets/widget-tabs.php:261 widgets/widget-tabs.php:541
+#: widgets/widget-testimonial-carousel.php:229
+#: widgets/widget-title-section.php:123 widgets/widget-video.php:110
+msgid "Center"
+msgstr "Trung tâm"
+
+#: widgets/widget-testimonial-carousel.php:122
+msgid "Choose Avatar"
+msgstr "Chọn Avatar"
+
+#: widgets/widget-contact-form7.php:62
+msgid "Choose Form"
+msgstr "Chọn Hình Thức"
+
+#: widgets/widget-animation-item.php:107 widgets/widget-counter.php:91
+#: widgets/widget-icon-popup.php:82 widgets/widget-imagebox.php:36
+#: widgets/widget-imagebox.php:108 widgets/widget-list-image.php:37
+#: widgets/widget-list.php:47 widgets/widget-tabs.php:137
+msgid "Choose Image"
+msgstr "Chọn Hình Ảnh"
+
+#: widgets/widget-navmenu.php:139
+msgid "Choose Mobile Menu Logo"
+msgstr "Chọn Đơn Điện Thoại Di Động Logo"
+
+#: widgets/widget-tabs.php:191
+msgid "Choose Template"
+msgstr "Chọn Mẫu"
+
+#: widgets/widget-navmenu.php:120
+msgid "Classic"
+msgstr "Cổ điển"
+
+#: widgets/widget-countdown.php:373 widgets/widget-countdown.php:432
+#: widgets/widget-heading-section.php:207
+#: widgets/widget-heading-section.php:299 widgets/widget-iconbox.php:309
+#: widgets/widget-iconbox.php:348 widgets/widget-imagebox.php:701
+#: widgets/widget-imagebox.php:788 widgets/widget-imagebox.php:996
+#: widgets/widget-imagebox.php:1067 widgets/widget-imagebox.php:1185
+#: widgets/widget-navmenu.php:244 widgets/widget-navmenu.php:277
+#: widgets/widget-navmenu.php:314 widgets/widget-navmenu.php:507
+#: widgets/widget-navmenu.php:540 widgets/widget-navmenu.php:573
+#: widgets/widget-navmenu.php:933 widgets/widget-navmenu.php:966
+#: widgets/widget-navmenu.php:1097 widgets/widget-navmenu.php:1132
+#: widgets/widget-navmenu.php:1572 widgets/widget-navmenu.php:1593
+#: widgets/widget-navmenu.php:1614 widgets/widget-posts.php:749
+#: widgets/widget-posts.php:834 widgets/widget-posts.php:1366
+#: widgets/widget-posts.php:1422 widgets/widget-posts.php:1786
+#: widgets/widget-price-table.php:418 widgets/widget-price-table.php:660
+#: widgets/widget-price-table.php:930 widgets/widget-price-table.php:964
+#: widgets/widget-price-table.php:1051 widgets/widget-tabs-infor.php:193
+#: widgets/widget-tabs-infor.php:242 widgets/widget-tabs-infor.php:259
+#: widgets/widget-tabs-infor.php:269 widgets/widget-tabs.php:400
+#: widgets/widget-tabs.php:655 widgets/widget-tabs.php:665
+#: widgets/widget-tabs.php:705 widgets/widget-tabs.php:722
+#: widgets/widget-tabs.php:733 widgets/widget-tabs.php:774
+#: widgets/widget-tabs.php:946 widgets/widget-testimonial-carousel.php:355
+#: widgets/widget-testimonial-carousel.php:455
+#: widgets/widget-testimonial-carousel.php:493
+#: widgets/widget-testimonial-carousel.php:545
+#: widgets/widget-testimonial-carousel.php:947
+#: widgets/widget-testimonial-carousel.php:1011
+#: widgets/widget-title-section.php:169 widgets/widget-title-section.php:215
+#: widgets/widget-title-section.php:279 widgets/widget-title-section.php:345
+#: widgets/widget-video.php:317 widgets/widget-video.php:424
+msgid "Color"
+msgstr "Màu sắc"
+
+#: widgets/widget-posts.php:1474 widgets/widget-posts.php:1556
+#: widgets/widget-posts.php:1633
+msgid "Color "
+msgstr "Màu sắc "
+
+#: widgets/widget-price-table.php:416
+msgid "Color Dodge"
+msgstr "Màu Dodge"
+
+#: widgets/widget-iconbox.php:359 widgets/widget-imagebox.php:1008
+#: widgets/widget-imagebox.php:1240 widgets/widget-posts.php:1377
+#: widgets/widget-posts.php:1485 widgets/widget-posts.php:1567
+#: widgets/widget-posts.php:1656 widgets/widget-posts.php:1819
+#: widgets/widget-price-table.php:517 widgets/widget-price-table.php:555
+msgid "Color Hover"
+msgstr "Màu Di"
+
+#: widgets/widget-posts.php:1579
+msgid "Color Icon "
+msgstr "Màu Biểu Tượng "
+
+#: widgets/widget-video.php:404
+msgid "Color Line "
+msgstr "Dòng Màu "
+
+#: widgets/widget-title-section.php:290
+msgid "Color Span"
+msgstr "Màu Khoảng"
+
+#: widgets/widget-tabs.php:807
+msgid "Color Text"
+msgstr "Màu Văn Bản"
+
+#: widgets/widget-posts.php:121
+msgid "Columns"
+msgstr "Cột"
+
+#: widgets/widget-posts.php:454 widgets/widget-testimonial-carousel.php:635
+msgid "Columns Desktop"
+msgstr "Cột Máy Tính Để Bàn"
+
+#: widgets/widget-posts.php:150 widgets/widget-posts.php:491
+#: widgets/widget-testimonial-carousel.php:669
+msgid "Columns Mobile"
+msgstr "Cột Điện Thoại Di Động"
+
+#: widgets/widget-posts.php:136 widgets/widget-posts.php:474
+#: widgets/widget-testimonial-carousel.php:652
+msgid "Columns Tablet"
+msgstr "Cột Máy Tính Bảng"
+
+#: widgets/widget-contact-form7.php:21
+msgid "Contact Form 7"
+msgstr "Hình Thức Liên Lạc 7"
+
+#: widgets/widget-countdown.php:188
+msgid "Container Width"
+msgstr "Rộng Chứa"
+
+#: widgets/widget-contact-form7.php:55 widgets/widget-countdown.php:343
+#: widgets/widget-icon-popup.php:119 widgets/widget-icon-popup.php:218
+#: widgets/widget-imagebox.php:61 widgets/widget-imagebox.php:579
+#: widgets/widget-posts.php:241 widgets/widget-posts.php:1309
+#: widgets/widget-price-table.php:147 widgets/widget-price-table.php:683
+#: widgets/widget-price-table.php:690 widgets/widget-tabs.php:163
+msgid "Content"
+msgstr "Nội dung"
+
+#: widgets/widget-imagebox.php:592
+msgid "Content Absolute (Full)"
+msgstr "Nội Dung Tuyệt Đối (Đầy Đủ)"
+
+#: widgets/widget-imagebox.php:593
+msgid "Content Absolute (Only Title)"
+msgstr "Nội Dung Tuyệt Đối (Chỉ Đề)"
+
+#: widgets/widget-tabs.php:180
+msgid "Content text"
+msgstr "Nội dung"
+
+#: widgets/widget-tabs.php:170
+msgid "Content type"
+msgstr "Loại nội dung"
+
+#: widgets/widget-countdown.php:32
+msgid "Countdown"
+msgstr "Đếm ngược"
+
+#: widgets/widget-counter.php:32
+msgid "Counter"
+msgstr "Truy cập"
+
+#: widgets/widget-countdown.php:105
+msgid "Custom Label"
+msgstr "Tùy Nhãn"
+
+#: widgets/widget-navmenu.php:155
+msgid "Custom URL"
+msgstr "Địa chỉ tùy chỉnh"
+
+#: widgets/widget-price-table.php:414
+msgid "Darken"
+msgstr "Tối"
+
+#: widgets/widget-navmenu.php:727 widgets/widget-navmenu.php:794
+#: widgets/widget-navmenu.php:861 widgets/widget-navmenu.php:1481
+#: widgets/widget-video.php:158 widgets/widget-video.php:371
+msgid "Dashed"
+msgstr "Tiêu tan"
+
+#: themesflat-core.php:669
+msgid "Date Archive"
+msgstr "Ngày Lưu Trữ"
+
+#: widgets/widget-countdown.php:42
+#, php-format
+msgid "Date set according to your timezone: %s."
+msgstr "Ngày thiết lập theo của loài: %s."
+
+#: widgets/widget-countdown.php:49 widgets/widget-countdown.php:116
+#: widgets/widget-countdown.php:118 widgets/widget-countdown.php:119
+#: widgets/widget-countdown.php:489
+msgid "Days"
+msgstr "Ngày"
+
+#: widgets/widget-animation-item.php:52 widgets/widget-counter.php:43
+#: widgets/widget-imagebox.php:559 widgets/widget-imagebox.php:591
+#: widgets/widget-imagebox.php:1270 widgets/widget-navmenu.php:80
+#: widgets/widget-tabs-infor.php:91 widgets/widget-testimonial-carousel.php:534
+#: widgets/widget-video.php:229
+msgid "Default"
+msgstr "Mặc định"
+
+#: widgets/widget-imagebox.php:1290
+msgid "Default Theme"
+msgstr "Chủ Đề"
+
+#: widgets/widget-imagebox.php:145 widgets/widget-imagebox.php:1040
+#: widgets/widget-tabs-infor.php:48 widgets/widget-testimonial-carousel.php:152
+#: widgets/widget-testimonial-carousel.php:515
+#: widgets/widget-title-section.php:104 widgets/widget-title-section.php:325
+msgid "Description"
+msgstr "Mô tả"
+
+#: widgets/widget-countdown.php:364
+msgid "Digits"
+msgstr "Chữ số"
+
+#: widgets/widget-title-section.php:55
+msgid "Disable"
+msgstr "Vô hiệu hóa"
+
+#: themesflat-core.php:421
+msgid "Display On"
+msgstr "Hiển Thị Trên"
+
+#: themesflat-core.php:428
+msgid "Display Rules"
+msgstr "Hiển Thị Các Quy Tắc"
+
+#: widgets/widget-heading-section.php:60 widgets/widget-title-section.php:76
+msgid "div"
+msgstr "tr"
+
+#: themesflat-core.php:441
+msgid "Do Not Display On"
+msgstr "Không Hiển Thị Trên"
+
+#: widgets/widget-navmenu.php:726 widgets/widget-navmenu.php:793
+#: widgets/widget-navmenu.php:860 widgets/widget-navmenu.php:1480
+#: widgets/widget-video.php:157 widgets/widget-video.php:370
+msgid "Dotted"
+msgstr "Chấm"
+
+#: widgets/widget-navmenu.php:725 widgets/widget-navmenu.php:792
+#: widgets/widget-navmenu.php:859 widgets/widget-navmenu.php:1479
+#: widgets/widget-video.php:156 widgets/widget-video.php:369
+msgid "Double"
+msgstr "Đôi"
+
+#: widgets/widget-navmenu.php:424
+msgid "Double Line"
+msgstr "Đôi Line"
+
+#: widgets/widget-navmenu.php:440
+msgid "Drop In"
+msgstr "Thả Trong"
+
+#: widgets/widget-navmenu.php:441
+msgid "Drop Out"
+msgstr "Thả Ra"
+
+#: widgets/widget-navmenu.php:469
+msgid "Dropdown"
+msgstr "Thả xuống"
+
+#: widgets/widget-navmenu.php:603
+msgid "Dropdown Width"
+msgstr "Thả Xuống Rộng"
+
+#: widgets/widget-countdown.php:39
+msgid "Due Date"
+msgstr "Do Ngày"
+
+#: themesflat-core.php:358
+msgid "Edit Template Item"
+msgstr "Chỉnh Sửa Mẫu Mục"
+
+#: widgets/widget-tabs.php:174
+msgid "Editor"
+msgstr "Editor"
+
+#: widgets/widget-imagebox.php:601
+msgid "Effect"
+msgstr "Hiệu ứng"
+
+#: widgets/widget-imagebox.php:555
+msgid "Effect Overlay"
+msgstr "Có Hiệu Lực Phủ"
+
+#: widgets/widget-imagebox.php:1266
+msgid "Effect Type"
+msgstr "Hiệu Ứng Loại"
+
+#: themesflat-core.php:168 themesflat-core.php:179
+msgid "Elementor"
+msgstr "Elementor"
+
+#: widgets/widget-imagebox.php:1271
+msgid "Elementor Button Effect"
+msgstr "Elementor Nút Có Hiệu Lực"
+
+#: widgets/widget-title-section.php:54
+msgid "Enable"
+msgstr "Cho phép"
+
+#: widgets/widget-list-image.php:105
+msgid "Enable Animation"
+msgstr "Cho Phép Hoạt Hình"
+
+#: widgets/widget-title-section.php:52
+msgid "Enable Animation Heading"
+msgstr "Cho Phép Hoạt Hình Đi"
+
+#: widgets/widget-list-image.php:117
+msgid "Enable Hover Images"
+msgstr "Cho Phép Di Hình Ảnh"
+
+#: widgets/widget-navmenu.php:42
+msgid "Enable one page?"
+msgstr "Cho phép một trang?"
+
+#: widgets/widget-counter.php:123
+msgid "Ending Number"
+msgstr "Kết Thúc Số"
+
+#: widgets/widget-video.php:53 widgets/widget-video.php:67
+msgid "Enter your URL"
+msgstr "Nhập vào địa chỉ của bạn"
+
+#: themesflat-core.php:677
+msgid "Entire Website"
+msgstr "Toàn Bộ Trang Web"
+
+#: widgets/widget-tabs.php:875
+msgid "Entrance Animation"
+msgstr "Lối Hoạt Hình"
+
+#: widgets/widget-testimonial-carousel.php:136
+msgid "Eugene Freeman"
+msgstr "Eugene Freeman"
+
+#: widgets/widget-posts.php:1412
+msgid "Excerpt"
+msgstr "Đoạn trích"
+
+#: widgets/widget-posts.php:274
+msgid "Excerpt Length"
+msgstr "Đoạn Trích Chiều Dài"
+
+#: widgets/widget-posts.php:87
+msgid "Exclude"
+msgstr "Loại trừ"
+
+#: themesflat-core.php:448
+msgid "Exclude On"
+msgstr "Loại Trừ Trên"
+
+#: widgets/widget-navmenu.php:438
+msgid "Fade"
+msgstr "Phai"
+
+#: widgets/widget-imagebox.php:560 widgets/widget-imagebox.php:605
+#: widgets/widget-tabs.php:881
+msgid "Fade In"
+msgstr "Phai"
+
+#: widgets/widget-imagebox.php:562 widgets/widget-imagebox.php:607
+#: widgets/widget-tabs.php:882
+msgid "Fade In Down"
+msgstr "Phai Trong Xuống"
+
+#: widgets/widget-imagebox.php:563 widgets/widget-imagebox.php:608
+#: widgets/widget-tabs.php:883
+msgid "Fade In Left"
+msgstr "Phai Trong Trái"
+
+#: widgets/widget-imagebox.php:564 widgets/widget-imagebox.php:609
+#: widgets/widget-tabs.php:884
+msgid "Fade In Right"
+msgstr "Phai Trong Ngay"
+
+#: widgets/widget-imagebox.php:561 widgets/widget-imagebox.php:606
+#: widgets/widget-tabs.php:885
+msgid "Fade In Up"
+msgstr "Phai Trong Lên"
+
+#: widgets/widget-tabs-infor.php:41
+msgid "Features"
+msgstr "Tính năng"
+
+#: widgets/widget-imagebox.php:124
+msgid "FINANCIAL PROJECTIONS AND ANALYSIS"
+msgstr "DỰ BÁO TÀI CHÍNH VÀ PHÂN TÍCH"
+
+#: widgets/widget-tabs.php:906
+msgid "Flash"
+msgstr "Flash"
+
+#: widgets/widget-posts.php:560 widgets/widget-testimonial-carousel.php:336
+#: widgets/widget-testimonial-carousel.php:764
+msgid "Font Size"
+msgstr "Kích Thước Chữ"
+
+#: widgets/widget-testimonial-carousel.php:531
+msgid "Font Style"
+msgstr "Kiểu Chữ"
+
+#: themesflat-core.php:404
+msgid "Footer"
+msgstr "Chân"
+
+#: widgets/widget-imagebox.php:1285
+msgid "From Bottom"
+msgstr "Từ Dưới"
+
+#: widgets/widget-imagebox.php:1288
+msgid "From Center"
+msgstr "Từ Trung Tâm"
+
+#: widgets/widget-imagebox.php:1286
+msgid "From Left"
+msgstr "Từ Trái"
+
+#: widgets/widget-imagebox.php:1287
+msgid "From Right"
+msgstr "Từ Bên Phải"
+
+#: widgets/widget-imagebox.php:1284
+msgid "From Top"
+msgstr "Từ Đầu"
+
+#: themesflat-core.php:668
+msgid "Front Page"
+msgstr "Trang"
+
+#: widgets/widget-contact-form7.php:176 widgets/widget-tabs.php:490
+msgid "Gap"
+msgstr "Khoảng cách"
+
+#: widgets/widget-counter.php:191 widgets/widget-imagebox.php:194
+#: widgets/widget-posts.php:1146 widgets/widget-price-table.php:288
+#: widgets/widget-testimonial-carousel.php:213 widgets/widget-video.php:95
+msgid "General"
+msgstr "Tổng"
+
+#: widgets/widget-imagebox.php:888
+msgid "Gradient Color"
+msgstr "Màu"
+
+#: widgets/widget-video.php:159 widgets/widget-video.php:372
+msgid "Groove"
+msgstr "Rãnh"
+
+#: widgets/widget-imagebox.php:1305
+msgid "Grow"
+msgstr "Phát triển"
+
+#: widgets/widget-heading-section.php:52 widgets/widget-imagebox.php:965
+#: widgets/widget-title-section.php:68
+msgid "H1"
+msgstr "H1"
+
+#: widgets/widget-heading-section.php:53 widgets/widget-imagebox.php:966
+#: widgets/widget-title-section.php:69
+msgid "H2"
+msgstr "H 2"
+
+#: widgets/widget-heading-section.php:54 widgets/widget-imagebox.php:967
+#: widgets/widget-title-section.php:70
+msgid "H3"
+msgstr "H3"
+
+#: widgets/widget-heading-section.php:55 widgets/widget-imagebox.php:968
+#: widgets/widget-title-section.php:71
+msgid "H4"
+msgstr "4 giờ"
+
+#: widgets/widget-heading-section.php:56 widgets/widget-imagebox.php:969
+#: widgets/widget-title-section.php:72
+msgid "H5"
+msgstr "H5"
+
+#: widgets/widget-heading-section.php:57 widgets/widget-imagebox.php:970
+#: widgets/widget-title-section.php:73
+msgid "H6"
+msgstr "H6"
+
+#: widgets/widget-imagebox.php:1313
+msgid "Hang"
+msgstr "Treo"
+
+#: widgets/widget-tabs.php:910
+msgid "Head Shake"
+msgstr "Đầu Lắc"
+
+#: themesflat-core.php:403 widgets/widget-price-table.php:29
+#: widgets/widget-price-table.php:450 widgets/widget-price-table.php:457
+msgid "Header"
+msgstr "Tiêu đề"
+
+#: widgets/widget-heading-section.php:78 widgets/widget-heading-section.php:253
+#: widgets/widget-title-section.php:94 widgets/widget-title-section.php:259
+msgid "Heading"
+msgstr "Nhóm"
+
+#: widgets/widget-contact-form7.php:112
+msgid "Heading Margin"
+msgstr "Đi Lề"
+
+#: widgets/widget-heading-section.php:28
+msgid "Heading Section"
+msgstr "Phần Đầu"
+
+#: widgets/widget-contact-form7.php:93
+msgid "Heading Typography"
+msgstr "Nhóm Kiểu Chữ"
+
+#: widgets/widget-contact-form7.php:296 widgets/widget-list-image.php:180
+#: widgets/widget-posts.php:614 widgets/widget-posts.php:948
+#: widgets/widget-testimonial-carousel.php:816
+#: widgets/widget-testimonial-carousel.php:1220
+#: widgets/widget-testimonial-carousel.php:1314
+msgid "Height"
+msgstr "Chiều cao"
+
+#: widgets/widget-iconbox.php:220
+msgid "Height & Width"
+msgstr "Chiều Cao Và Rộng"
+
+#: widgets/widget-testimonial-carousel.php:1362
+msgid "Height Border"
+msgstr "Chiều Cao Biên Giới"
+
+#: widgets/widget-navmenu.php:1693
+msgid "Height Icon Submenu (px)"
+msgstr "Chiều cao Biểu tượng Con (px)"
+
+#: widgets/widget-posts.php:1241
+msgid "Height Image"
+msgstr "Hình Ảnh Chiều Cao"
+
+#: widgets/widget-countdown.php:52 widgets/widget-countdown.php:63
+#: widgets/widget-countdown.php:74 widgets/widget-countdown.php:85
+#: widgets/widget-countdown.php:96 widgets/widget-imagebox.php:169
+#: widgets/widget-imagebox.php:531 widgets/widget-posts.php:101
+#: widgets/widget-posts.php:232 widgets/widget-posts.php:253
+#: widgets/widget-posts.php:265 widgets/widget-posts.php:301
+#: widgets/widget-posts.php:346 widgets/widget-posts.php:358
+#: widgets/widget-posts.php:389 widgets/widget-posts.php:510
+#: widgets/widget-posts.php:912 widgets/widget-price-table.php:92
+#: widgets/widget-tabs.php:41 widgets/widget-tabs.php:77
+#: widgets/widget-tabs.php:938 widgets/widget-testimonial-carousel.php:57
+#: widgets/widget-testimonial-carousel.php:68
+#: widgets/widget-testimonial-carousel.php:80
+#: widgets/widget-testimonial-carousel.php:92
+#: widgets/widget-testimonial-carousel.php:104
+#: widgets/widget-testimonial-carousel.php:717
+#: widgets/widget-testimonial-carousel.php:1087
+msgid "Hide"
+msgstr "Hide"
+
+#: widgets/widget-navmenu.php:154
+msgid "Home"
+msgstr "Nhà"
+
+#: widgets/widget-posts.php:971 widgets/widget-testimonial-carousel.php:1097
+msgid "Horizonta Offset"
+msgstr "Horizonta Bù Đắp"
+
+#: widgets/widget-navmenu.php:67 widgets/widget-tabs.php:231
+msgid "Horizontal"
+msgstr "Ngang"
+
+#: widgets/widget-navmenu.php:350 widgets/widget-navmenu.php:663
+msgid "Horizontal Padding"
+msgstr "Ngang Đệm"
+
+#: widgets/widget-navmenu.php:1630
+msgid "Horizontal Padding Link (px)"
+msgstr "Ngang Đệm liên Kết (px)"
+
+#: widgets/widget-posts.php:672
+msgid "Horizontal Position"
+msgstr "Vị Trí Ngang"
+
+#: widgets/widget-testimonial-carousel.php:872
+msgid "Horizontal Position Next"
+msgstr "Ngang Vị Trí Tiếp Theo"
+
+#: widgets/widget-testimonial-carousel.php:842
+msgid "Horizontal Position Previous"
+msgstr "Vị Trí Ngang Trước"
+
+#: widgets/widget-countdown.php:60 widgets/widget-countdown.php:131
+#: widgets/widget-countdown.php:133 widgets/widget-countdown.php:134
+#: widgets/widget-countdown.php:490
+msgid "Hours"
+msgstr "Giờ"
+
+#: widgets/widget-imagebox.php:463 widgets/widget-imagebox.php:1234
+#: widgets/widget-navmenu.php:270 widgets/widget-navmenu.php:533
+#: widgets/widget-navmenu.php:959 widgets/widget-navmenu.php:1125
+#: widgets/widget-navmenu.php:1586 widgets/widget-posts.php:828
+#: widgets/widget-posts.php:1094 widgets/widget-price-table.php:392
+#: widgets/widget-price-table.php:633 widgets/widget-price-table.php:670
+#: widgets/widget-testimonial-carousel.php:1004 widgets/widget-video.php:417
+msgid "Hover"
+msgstr "Di"
+
+#: widgets/widget-tabs-infor.php:254 widgets/widget-tabs.php:717
+msgid "Hover & Active"
+msgstr "Di & Hoạt Động"
+
+#: widgets/widget-imagebox.php:1301 widgets/widget-tabs-infor.php:180
+#: widgets/widget-tabs.php:642
+msgid "Hover Animation"
+msgstr "Di Động"
+
+#: widgets/widget-iconbox.php:433
+msgid "Hover Elements Color"
+msgstr "Các Yếu Tố Di Chuột Màu"
+
+#: widgets/widget-list-image.php:129
+msgid "Hover Stop"
+msgstr "Di Dừng Lại"
+
+#: widgets/widget-heading-section.php:48 widgets/widget-title-section.php:64
+msgid "HTML Tag"
+msgstr "Từ khóa"
+
+#: widgets/widget-imagebox.php:133 widgets/widget-list-image.php:50
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/widget-animation-item.php:76 widgets/widget-animation-item.php:92
+#: widgets/widget-animation-item.php:163 widgets/widget-counter.php:60
+#: widgets/widget-counter.php:76 widgets/widget-counter.php:295
+#: widgets/widget-icon-popup.php:39 widgets/widget-icon-popup.php:67
+#: widgets/widget-icon-popup.php:107 widgets/widget-imagebox.php:76
+#: widgets/widget-imagebox.php:93 widgets/widget-imagebox.php:878
+#: widgets/widget-imagebox.php:1353 widgets/widget-posts.php:1497
+#: widgets/widget-tabs-infor.php:236 widgets/widget-tabs.php:100
+#: widgets/widget-tabs.php:110 widgets/widget-tabs.php:123
+#: widgets/widget-tabs.php:699 widgets/widget-tabs.php:768
+#: widgets/widget-testimonial-carousel.php:162
+#: widgets/widget-testimonial-carousel.php:328 widgets/widget-video.php:79
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: widgets/widget-icon-popup.php:154
+msgid "Icon & Images"
+msgstr "Biểu Tượng Và Hình Ảnh"
+
+#: widgets/widget-counter.php:325
+msgid "Icon Background Color"
+msgstr "Biểu Tượng Màu Nền"
+
+#: widgets/widget-imagebox.php:1362
+msgid "Icon Button"
+msgstr "Biểu Tượng Nút"
+
+#: widgets/widget-navmenu.php:179
+msgid "Icon Button Menu Mobile & Only Icon"
+msgstr "Biểu Tượng Nút Đơn Điện Thoại Di Động Và Chỉ Có Biểu Tượng"
+
+#: widgets/widget-navmenu.php:191
+msgid "Icon Close Menu"
+msgstr "Biểu Tượng Đóng Menu"
+
+#: widgets/widget-animation-item.php:191 widgets/widget-counter.php:387
+#: widgets/widget-icon-popup.php:207 widgets/widget-icon-popup.php:309
+msgid "Icon Color"
+msgstr "Biểu Tượng Màu"
+
+#: widgets/widget-animation-item.php:171 widgets/widget-counter.php:366
+#: widgets/widget-imagebox.php:851 widgets/widget-imagebox.php:908
+msgid "Icon Font Size"
+msgstr "Biểu Tượng Chữ Kích Thước"
+
+#: widgets/widget-counter.php:303
+msgid "Icon Over Size"
+msgstr "Biểu Tượng Hơn Kích Thước"
+
+#: widgets/widget-imagebox.php:1399
+msgid "Icon Position"
+msgstr "Biểu Tượng Vị Trí"
+
+#: widgets/widget-icon-popup.php:185 widgets/widget-icon-popup.php:280
+#: widgets/widget-imagebox.php:818 widgets/widget-imagebox.php:1375
+#: widgets/widget-navmenu.php:994 widgets/widget-navmenu.php:1162
+#: widgets/widget-posts.php:1506 widgets/widget-price-table.php:786
+#: widgets/widget-video.php:274
+msgid "Icon Size"
+msgstr "Kích Thước Biểu Tượng"
+
+#: widgets/widget-price-table.php:746
+msgid "Icon Size Over"
+msgstr "Kích Thước Biểu Tượng Hơn"
+
+#: widgets/widget-imagebox.php:1412
+msgid "Icon Spacer"
+msgstr "Biểu Tượng Đệm"
+
+#: widgets/widget-counter.php:52 widgets/widget-icon-popup.php:35
+#: widgets/widget-imagebox.php:68 widgets/widget-tabs.php:106
+msgid "Icon Style"
+msgstr "Biểu Tượng Phong Cách"
+
+#: widgets/widget-imagebox.php:777
+msgid "Icon Title Show"
+msgstr "Biểu Tượng Đề"
+
+#: widgets/widget-video.php:245
+msgid "Icon Video"
+msgstr "Biểu Tượng Video"
+
+#: widgets/widget-animation-item.php:80 widgets/widget-animation-item.php:206
+#: widgets/widget-counter.php:64 widgets/widget-icon-popup.php:43
+#: widgets/widget-imagebox.php:29 widgets/widget-imagebox.php:80
+#: widgets/widget-imagebox.php:319 widgets/widget-list-image.php:153
+#: widgets/widget-posts.php:193 widgets/widget-posts.php:1214
+#: widgets/widget-tabs.php:114
+msgid "Image"
+msgstr "Ảnh"
+
+#: widgets/widget-posts.php:210 widgets/widget-testimonial-carousel.php:406
+msgid "Image Height"
+msgstr "Ảnh Cao"
+
+#: widgets/widget-animation-item.php:214
+msgid "image Height"
+msgstr "ảnh Cao"
+
+#: widgets/widget-tabs-infor.php:77 widgets/widget-tabs-infor.php:318
+msgid "Image Left"
+msgstr "Hình Ảnh Rời"
+
+#: widgets/widget-imagebox.php:438 widgets/widget-imagebox.php:469
+msgid "Image Opacity"
+msgstr "Hình Ảnh Mờ"
+
+#: widgets/widget-tabs-infor.php:103 widgets/widget-tabs-infor.php:461
+msgid "Image Right"
+msgstr "Hình Ảnh Ngay"
+
+#: widgets/widget-imagebox.php:492
+msgid "Image Scale"
+msgstr "Quy Mô Hình Ảnh"
+
+#: widgets/widget-icon-popup.php:163
+msgid "Image Size"
+msgstr "Hình Kích Thước"
+
+#: widgets/widget-imagebox.php:327
+msgid "Image Width"
+msgstr "Ảnh Rộng"
+
+#: widgets/widget-animation-item.php:233
+msgid "image With"
+msgstr "ảnh Với"
+
+#: widgets/widget-icon-popup.php:57
+msgid "Inactive"
+msgstr "Không hoạt động"
+
+#: widgets/widget-testimonial-carousel.php:686
+msgid "Index Active"
+msgstr "Chỉ Số Hoạt Động"
+
+#: widgets/widget-countdown.php:355
+msgid "Inline"
+msgstr "Kiểm"
+
+#: widgets/widget-tabs.php:349
+msgid "Inner Toggle"
+msgstr "Bên Trong Chuyển"
+
+#: widgets/widget-contact-form7.php:204
+msgid "Input Color"
+msgstr "Màu Nhập"
+
+#: widgets/widget-contact-form7.php:216
+msgid "Input Placeholder Color"
+msgstr "Đầu Vào Chỗ Màu"
+
+#: widgets/widget-contact-form7.php:196
+msgid "Input Typography"
+msgstr "Đầu Vào Chữ"
+
+#: widgets/widget-testimonial-carousel.php:535
+msgid "Italic"
+msgstr "Nghiêng"
+
+#: widgets/widget-tabs-infor.php:142 widgets/widget-tabs.php:604
+msgid "Item Nav"
+msgstr "Mục Nav"
+
+#: widgets/widget-tabs.php:914
+msgid "Jello"
+msgstr "Thạch"
+
+#: widgets/widget-imagebox.php:218 widgets/widget-imagebox.php:1119
+#: widgets/widget-navmenu.php:105 widgets/widget-posts.php:179
+#: widgets/widget-posts.php:1740
+msgid "Justified"
+msgstr "Hợp lý"
+
+#: widgets/widget-icon-popup.php:121
+msgid "Klara Södra 1, 111 52 Stockholm"
+msgstr "Tóc Thứ 1, 111 52 Stockholm"
+
+#: widgets/widget-countdown.php:423
+msgid "Label"
+msgstr "Nhãn"
+
+#: widgets/widget-contact-form7.php:154
+msgid "Label Margin"
+msgstr "Nhãn Lề"
+
+#: widgets/widget-contact-form7.php:135
+msgid "Label Typography"
+msgstr "Nhãn Chữ"
+
+#: widgets/widget-navmenu.php:63 widgets/widget-posts.php:114
+msgid "Layout"
+msgstr "Bố trí"
+
+#: widgets/widget-testimonial-carousel.php:40
+msgid "Layout Style"
+msgstr "Phong Cách Bố Trí"
+
+#: widgets/widget-animation-item.php:137 widgets/widget-countdown.php:250
+#: widgets/widget-counter.php:203 widgets/widget-heading-section.php:93
+#: widgets/widget-heading-section.php:137 widgets/widget-imagebox.php:206
+#: widgets/widget-imagebox.php:1107 widgets/widget-navmenu.php:81
+#: widgets/widget-navmenu.php:93 widgets/widget-navmenu.php:1266
+#: widgets/widget-posts.php:167 widgets/widget-posts.php:1728
+#: widgets/widget-price-table.php:300 widgets/widget-tabs.php:257
+#: widgets/widget-tabs.php:449 widgets/widget-tabs.php:537
+#: widgets/widget-testimonial-carousel.php:225
+#: widgets/widget-title-section.php:119 widgets/widget-video.php:106
+msgid "Left"
+msgstr "Trái"
+
+#: widgets/widget-animation-item.php:55 widgets/widget-tabs-infor.php:94
+msgid "left to right"
+msgstr "bên trái, bên phải"
+
+#: widgets/widget-tabs.php:915
+msgid "Light Speed In"
+msgstr "Tốc Độ Ánh Sáng Trong"
+
+#: widgets/widget-price-table.php:415
+msgid "Lighten"
+msgstr "Sáng"
+
+#: widgets/widget-video.php:230
+msgid "Linear Gradient"
+msgstr "Tuyến Tính Dốc"
+
+#: widgets/widget-imagebox.php:131 widgets/widget-list-image.php:48
+#: widgets/widget-video.php:51 widgets/widget-video.php:65
+msgid "Link"
+msgstr "Link"
+
+#: widgets/widget-navmenu.php:417
+msgid "Link Hover Effect"
+msgstr "Liên Kết Di Hiệu Lực"
+
+#: widgets/widget-navmenu.php:150
+msgid "Link Logo"
+msgstr "Link Logo"
+
+#: widgets/widget-icon-popup.php:129 widgets/widget-list-image.php:62
+#: widgets/widget-list.php:58 widgets/widget-price-table.php:721
+msgid "List"
+msgstr "Danh sách"
+
+#: widgets/widget-icon-popup.php:271
+msgid "List icon"
+msgstr "Biểu tượng danh sách"
+
+#: widgets/widget-navmenu.php:1387
+msgid "Logo"
+msgstr "Logo"
+
+#: widgets/widget-posts.php:424 widgets/widget-testimonial-carousel.php:599
+msgid "Loop"
+msgstr "Vòng lặp"
+
+#: widgets/widget-title-section.php:106
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate "
+"libero et velit interdum, ac aliquet odio mattis."
+msgstr ""
+"Mẹo dolor ngồi cấp minneapolis adipiscing hàng. Eye vulputate miễn phí và "
+"các interdum, ac aliquet odio sức bền của đồ vật."
+
+#: widgets/widget-tabs-infor.php:116 widgets/widget-tabs-infor.php:119
+#: widgets/widget-tabs-infor.php:122
+msgid "Lorem Ipsum is simply"
+msgstr "Đây cũng là"
+
+#: widgets/widget-price-table.php:419
+msgid "Luminosity"
+msgstr "Sáng"
+
+#: widgets/widget-navmenu.php:207
+msgid "Main Menu"
+msgstr "Chính Menu"
+
+#: widgets/widget-contact-form7.php:273 widgets/widget-contact-form7.php:437
+#: widgets/widget-counter.php:268 widgets/widget-counter.php:401
+#: widgets/widget-counter.php:493 widgets/widget-counter.php:543
+#: widgets/widget-heading-section.php:233
+#: widgets/widget-heading-section.php:310
+#: widgets/widget-heading-section.php:399 widgets/widget-icon-popup.php:259
+#: widgets/widget-iconbox.php:486 widgets/widget-imagebox.php:244
+#: widgets/widget-imagebox.php:416 widgets/widget-imagebox.php:632
+#: widgets/widget-imagebox.php:754 widgets/widget-imagebox.php:932
+#: widgets/widget-imagebox.php:1020 widgets/widget-imagebox.php:1079
+#: widgets/widget-imagebox.php:1157 widgets/widget-navmenu.php:1058
+#: widgets/widget-navmenu.php:1230 widgets/widget-navmenu.php:1444
+#: widgets/widget-navmenu.php:1542 widgets/widget-posts.php:1172
+#: widgets/widget-posts.php:1272 widgets/widget-posts.php:1397
+#: widgets/widget-posts.php:1440 widgets/widget-posts.php:1603
+#: widgets/widget-posts.php:1691 widgets/widget-posts.php:1765
+#: widgets/widget-price-table.php:350 widgets/widget-price-table.php:478
+#: widgets/widget-price-table.php:895 widgets/widget-price-table.php:1027
+#: widgets/widget-tabs-infor.php:169 widgets/widget-tabs.php:302
+#: widgets/widget-tabs.php:423 widgets/widget-tabs.php:580
+#: widgets/widget-tabs.php:631 widgets/widget-tabs.php:837
+#: widgets/widget-testimonial-carousel.php:305
+#: widgets/widget-testimonial-carousel.php:368
+#: widgets/widget-testimonial-carousel.php:427
+#: widgets/widget-testimonial-carousel.php:465
+#: widgets/widget-testimonial-carousel.php:503
+#: widgets/widget-testimonial-carousel.php:576
+#: widgets/widget-title-section.php:244 widgets/widget-title-section.php:301
+#: widgets/widget-title-section.php:356 widgets/widget-video.php:214
+#: widgets/widget-video.php:297
+msgid "Margin"
+msgstr "Lợi nhuận"
+
+#: widgets/widget-navmenu.php:1533
+msgid "Menu"
+msgstr "Đơn"
+
+#: widgets/widget-navmenu.php:1254
+msgid "Menu Panel"
+msgstr "Đơn Bảng Điều Khiển"
+
+#: widgets/widget-navmenu.php:76
+msgid "Menu Panel Style"
+msgstr "Đơn Bảng Phong Cách"
+
+#: widgets/widget-navmenu.php:35
+msgid "Menu Settings"
+msgstr "Thiết Lập Trình Đơn"
+
+#: widgets/widget-posts.php:334 widgets/widget-posts.php:1530
+msgid "Meta"
+msgstr "Siêu"
+
+#: widgets/widget-posts.php:1547
+msgid "Meta "
+msgstr "Siêu "
+
+#: widgets/widget-countdown.php:71 widgets/widget-countdown.php:146
+#: widgets/widget-countdown.php:148 widgets/widget-countdown.php:149
+#: widgets/widget-countdown.php:491
+msgid "Minutes"
+msgstr "Phút"
+
+#: widgets/widget-tabs.php:209
+msgid "Mission"
+msgstr "Nhiệm vụ"
+
+#: widgets/widget-navmenu.php:914
+msgid "Mobile Button & Close Icon"
+msgstr "Điện Thoại Di Động Và Đóng Các Biểu Tượng"
+
+#: widgets/widget-countdown.php:487
+msgid "Months"
+msgstr "Tháng"
+
+#: widgets/widget-price-table.php:411
+msgid "Multiply"
+msgstr "Nhân"
+
+#: widgets/widget-list.php:37 widgets/widget-testimonial-carousel.php:134
+#: widgets/widget-testimonial-carousel.php:439
+msgid "Name"
+msgstr "Tên"
+
+#: widgets/widget-tabs.php:149
+msgid "Nav"
+msgstr "Nav"
+
+#: widgets/widget-tabs-infor.php:68 widgets/widget-tabs.php:155
+msgid "Nav text"
+msgstr "Nav văn bản"
+
+#: themesflat-core.php:357
+msgid "New Template Item"
+msgstr "Mẫu Mới Mục"
+
+#: widgets/widget-posts.php:541 widgets/widget-testimonial-carousel.php:745
+msgid "Next Icon"
+msgstr "Biểu Tượng Tiếp Theo"
+
+#: widgets/widget-navmenu.php:47 widgets/widget-price-table.php:53
+#: widgets/widget-tabs-infor.php:62 widgets/widget-tabs.php:93
+msgid "No"
+msgstr "Không có"
+
+#: widgets/widget-contact-form7.php:457
+msgid "No Any Form Found"
+msgstr "Không Có Bất Kỳ Hình Thức Tìm Thấy"
+
+#: widgets/widget-contact-form7.php:485
+msgid ""
+"No Contact Form 7 found, Please install Plugin Contact Form 7 and create form"
+msgstr ""
+"Không có Thức Liên lạc 7 tìm thấy, Hãy cài Cắm Thức Liên lạc 7 và tạo hình"
+
+#: widgets/widget-posts.php:1902
+msgid "No posts found"
+msgstr "Không tìm thấy bài viết"
+
+#: themesflat-core.php:365
+msgid "No Template found"
+msgstr "Không tìm thấy Mẫu"
+
+#: themesflat-core.php:366
+msgid "No Template found in Trash"
+msgstr "Không tìm thấy Mẫu trong thùng Rác"
+
+#: themesflat-core.php:362
+msgid "No Template Items Found"
+msgstr "Không Mẫu Vật Phẩm Tìm Thấy"
+
+#: themesflat-core.php:363
+msgid "No Template Items Found In Trash"
+msgstr "Không Mẫu Vật Phẩm Tìm Thấy Trong Thùng Rác"
+
+#: widgets/widget-counter.php:56 widgets/widget-imagebox.php:72
+#: widgets/widget-navmenu.php:421 widgets/widget-navmenu.php:723
+#: widgets/widget-navmenu.php:790 widgets/widget-navmenu.php:857
+#: widgets/widget-navmenu.php:1477 widgets/widget-tabs.php:880
+msgid "None"
+msgstr "Không có"
+
+#: widgets/widget-imagebox.php:432 widgets/widget-imagebox.php:1180
+#: widgets/widget-navmenu.php:237 widgets/widget-navmenu.php:437
+#: widgets/widget-navmenu.php:500 widgets/widget-navmenu.php:926
+#: widgets/widget-navmenu.php:1090 widgets/widget-navmenu.php:1565
+#: widgets/widget-posts.php:743 widgets/widget-posts.php:1041
+#: widgets/widget-price-table.php:367 widgets/widget-price-table.php:410
+#: widgets/widget-tabs-infor.php:188 widgets/widget-tabs.php:650
+#: widgets/widget-testimonial-carousel.php:940
+#: widgets/widget-testimonial-carousel.php:1191 widgets/widget-video.php:310
+msgid "Normal"
+msgstr "Bình thường"
+
+#: widgets/widget-counter.php:416
+msgid "Number"
+msgstr "Số"
+
+#: widgets/widget-counter.php:132
+msgid "Number Prefix"
+msgstr "Số Tiền Tố"
+
+#: widgets/widget-counter.php:142
+msgid "Number Suffix"
+msgstr "Số Đuôi"
+
+#: widgets/widget-list-image.php:108 widgets/widget-list-image.php:120
+#: widgets/widget-list-image.php:132 widgets/widget-posts.php:415
+#: widgets/widget-posts.php:427 widgets/widget-posts.php:442
+#: widgets/widget-testimonial-carousel.php:602
+#: widgets/widget-testimonial-carousel.php:614
+msgid "Off"
+msgstr "Tắt"
+
+#: widgets/widget-list-image.php:107 widgets/widget-list-image.php:119
+#: widgets/widget-list-image.php:131 widgets/widget-posts.php:414
+#: widgets/widget-posts.php:426 widgets/widget-posts.php:441
+#: widgets/widget-testimonial-carousel.php:601
+#: widgets/widget-testimonial-carousel.php:613
+msgid "On"
+msgstr "Trên"
+
+#: widgets/widget-navmenu.php:68
+msgid "Only Icon"
+msgstr "Chỉ Là Biểu Tượng"
+
+#: widgets/widget-posts.php:63
+msgid "Order"
+msgstr "Trật tự"
+
+#: widgets/widget-posts.php:49
+msgid "Order By"
+msgstr "Bởi Trật Tự"
+
+#: widgets/widget-tabs-infor.php:70 widgets/widget-tabs.php:157
+msgid "OUR MISSION"
+msgstr "NHIỆM VỤ CỦA CHÚNG TÔI"
+
+#: widgets/widget-iconbox.php:260
+msgid "Over Background Color"
+msgstr "Hơn Màu Nền"
+
+#: widgets/widget-imagebox.php:519 widgets/widget-navmenu.php:1360
+#: widgets/widget-price-table.php:413
+msgid "Overlay"
+msgstr "Che phủ"
+
+#: widgets/widget-navmenu.php:423
+msgid "Overline"
+msgstr "Vượt"
+
+#: widgets/widget-heading-section.php:59 widgets/widget-title-section.php:75
+msgid "p"
+msgstr "p"
+
+#: widgets/widget-contact-form7.php:261 widgets/widget-contact-form7.php:425
+#: widgets/widget-countdown.php:327 widgets/widget-counter.php:256
+#: widgets/widget-heading-section.php:419 widgets/widget-icon-popup.php:247
+#: widgets/widget-iconbox.php:474 widgets/widget-imagebox.php:232
+#: widgets/widget-imagebox.php:404 widgets/widget-imagebox.php:620
+#: widgets/widget-imagebox.php:731 widgets/widget-imagebox.php:1138
+#: widgets/widget-navmenu.php:1039 widgets/widget-navmenu.php:1210
+#: widgets/widget-navmenu.php:1302 widgets/widget-navmenu.php:1432
+#: widgets/widget-posts.php:1154 widgets/widget-posts.php:1260
+#: widgets/widget-posts.php:1316 widgets/widget-posts.php:1591
+#: widgets/widget-posts.php:1679 widgets/widget-posts.php:1753
+#: widgets/widget-price-table.php:339 widgets/widget-price-table.php:466
+#: widgets/widget-price-table.php:709 widgets/widget-price-table.php:884
+#: widgets/widget-price-table.php:1016 widgets/widget-tabs-infor.php:158
+#: widgets/widget-tabs.php:291 widgets/widget-tabs.php:412
+#: widgets/widget-tabs.php:569 widgets/widget-tabs.php:620
+#: widgets/widget-tabs.php:826 widgets/widget-testimonial-carousel.php:294
+#: widgets/widget-testimonial-carousel.php:565
+#: widgets/widget-title-section.php:229 widgets/widget-title-section.php:313
+#: widgets/widget-title-section.php:368 widgets/widget-video.php:203
+msgid "Padding"
+msgstr "Đệm"
+
+#: widgets/widget-countdown.php:220
+msgid "Padding Top & Bottom"
+msgstr "Đệm Đầu & Dưới"
+
+#: widgets/widget-posts.php:1707 widgets/widget-posts.php:1715
+msgid "Pagination"
+msgstr "Số trang"
+
+#: themesflat-core.php:364
+msgid "Parent Template:"
+msgstr "Cha Mẹ Mẫu:"
+
+#: widgets/widget-price-table.php:127
+msgid "Per month, per company or team members"
+msgstr "Mỗi tháng, mỗi công ty hoặc các thành viên đội bóng"
+
+#: widgets/widget-testimonial-carousel.php:155
+msgid ""
+"Phasellus ultrices ut tortor at porta. Praesent maximus, lacus sed rutrum "
+"aliquet, lacus tellus tincidunt nisl, vitae molestie nisi sapien et dolor "
+"suspendisse mi est "
+msgstr ""
+"Phasellus ultrices út tortor xuống đá. Praesent maximus, đầu sed rutrum "
+"aliquet, đầu tellus hàng nisl, lịch molestie tạm sapien et dolor amber mi "
+"est "
+
+#: themesflat-core.php:193
+msgid "PHP"
+msgstr "PHP"
+
+#: widgets/widget-navmenu.php:122
+msgid "Plus"
+msgstr "Plus"
+
+#: widgets/widget-imagebox.php:1311
+msgid "Pop"
+msgstr "Pop"
+
+#: widgets/widget-tabs.php:444 widgets/widget-testimonial-carousel.php:143
+#: widgets/widget-testimonial-carousel.php:477
+msgid "Position"
+msgstr "Vị trí"
+
+#: widgets/widget-posts.php:89
+msgid "Post Ids Will Be Inorged. Ex: 1,2,3"
+msgstr "Bài Id Sẽ Được Inorged. Ví dụ: 1,2,3"
+
+#: widgets/widget-posts.php:40
+msgid "Posts Per Page"
+msgstr "Bài Mỗi Trang"
+
+#: widgets/widget-posts.php:523 widgets/widget-testimonial-carousel.php:727
+msgid "Prev Icon"
+msgstr "Trước Biểu Tượng"
+
+#: widgets/widget-price-table.php:62 widgets/widget-price-table.php:490
+msgid "Price"
+msgstr "Giá"
+
+#: widgets/widget-price-table.php:71 widgets/widget-price-table.php:567
+msgid "Price Type"
+msgstr "Giá Loại"
+
+#: widgets/widget-heading-section.php:80
+msgid "Professional Solar Enery solutions comapny"
+msgstr "Chuyên nghiệp năng lượng mặt Trời năng lượng giải pháp công ty"
+
+#: widgets/widget-imagebox.php:1307 widgets/widget-tabs.php:907
+msgid "Pulse"
+msgstr "Xung"
+
+#: widgets/widget-video.php:231
+msgid "Pulse Box 1"
+msgstr "Xung Hộp 1"
+
+#: widgets/widget-video.php:232
+msgid "Pulse Box 2"
+msgstr "Xung Hộp 2"
+
+#: widgets/widget-video.php:233 widgets/widget-video.php:234
+msgid "Pulse Box 3"
+msgstr "Xung Hộp 3"
+
+#: widgets/widget-video.php:235
+msgid "Pulse Box 4"
+msgstr "Xung Hộp 4"
+
+#: widgets/widget-imagebox.php:1308
+msgid "Pulse Grow"
+msgstr "Xung Phát Triển"
+
+#: widgets/widget-imagebox.php:1309
+msgid "Pulse Shrink"
+msgstr "Xung Thu Hẹp"
+
+#: widgets/widget-imagebox.php:1310
+msgid "Push"
+msgstr "Đẩy"
+
+#: widgets/widget-posts.php:33
+msgid "Query"
+msgstr "Truy"
+
+#: widgets/widget-imagebox.php:180
+msgid "Read More"
+msgstr "Đọc Nhiều"
+
+#: widgets/widget-posts.php:312
+msgid "Read more"
+msgstr "Đọc nhiều"
+
+#: post-format/options.php:125 post-format/options.php:245
+msgid "Remove"
+msgstr "Bỏ"
+
+#: widgets/widget-navmenu.php:130
+msgid "Responsive"
+msgstr "Đáp ứng"
+
+#: widgets/widget-animation-item.php:59
+msgid "Ribbon Rotate"
+msgstr "Băng Xoay"
+
+#: widgets/widget-animation-item.php:145 widgets/widget-countdown.php:258
+#: widgets/widget-counter.php:211 widgets/widget-heading-section.php:101
+#: widgets/widget-heading-section.php:145 widgets/widget-imagebox.php:214
+#: widgets/widget-imagebox.php:1115 widgets/widget-navmenu.php:101
+#: widgets/widget-posts.php:175 widgets/widget-posts.php:1736
+#: widgets/widget-price-table.php:308 widgets/widget-tabs.php:265
+#: widgets/widget-tabs.php:457 widgets/widget-tabs.php:545
+#: widgets/widget-testimonial-carousel.php:233
+#: widgets/widget-title-section.php:127 widgets/widget-video.php:114
+msgid "Right"
+msgstr "Đúng"
+
+#: widgets/widget-animation-item.php:56 widgets/widget-tabs-infor.php:95
+msgid "right to left"
+msgstr "phải sang trái"
+
+#: widgets/widget-tabs.php:916
+msgid "Roll In"
+msgstr "Cuộn"
+
+#: widgets/widget-animation-item.php:58
+msgid "Rotate"
+msgstr "Xoay"
+
+#: widgets/widget-tabs.php:900
+msgid "Rotate In"
+msgstr "Xoay Vòng Trong"
+
+#: widgets/widget-tabs.php:901
+msgid "Rotate In Down Left"
+msgstr "Xoay Ở Xuống Trái"
+
+#: widgets/widget-tabs.php:902
+msgid "Rotate In Down Right"
+msgstr "Xoay Ở Xuống Ngay"
+
+#: widgets/widget-tabs.php:903
+msgid "Rotate In Up Left"
+msgstr "Xoay Ở Bên Trái"
+
+#: widgets/widget-tabs.php:904
+msgid "Rotate In Up Right"
+msgstr "Xoay Ở Ngay"
+
+#: widgets/widget-tabs.php:908
+msgid "Rubber Band"
+msgstr "Ban Nhạc Cao Su"
+
+#: widgets/widget-price-table.php:417
+msgid "Saturation"
+msgstr "Hòa"
+
+#: widgets/widget-price-table.php:106
+msgid "Save 25%"
+msgstr "Tiết kiệm 25%"
+
+#: widgets/widget-testimonial-carousel.php:1402
+msgid "Scale"
+msgstr "Quy mô"
+
+#: widgets/widget-price-table.php:412
+msgid "Screen"
+msgstr "Màn hình"
+
+#: themesflat-core.php:666
+msgid "Search Page"
+msgstr "Trang Tìm Kiếm"
+
+#: themesflat-core.php:316
+msgid "Search pages / post / categories"
+msgstr "Trang tìm kiếm / bài / loại"
+
+#: themesflat-core.php:361
+msgid "Search Template"
+msgstr "Tìm Kiếm Mẫu"
+
+#: widgets/widget-countdown.php:82 widgets/widget-countdown.php:161
+#: widgets/widget-countdown.php:163 widgets/widget-countdown.php:164
+#: widgets/widget-countdown.php:492
+msgid "Seconds"
+msgstr "Giây"
+
+#: themesflat-core.php:785 themesflat-core.php:864
+msgid "Select"
+msgstr "Chọn"
+
+#: widgets/widget-navmenu.php:54
+msgid "Select menu"
+msgstr "Chọn menu"
+
+#: themesflat-core.php:402
+msgid "Select Option"
+msgstr "Chọn Lựa Chọn"
+
+#: widgets/widget-counter.php:163
+msgid "Separator"
+msgstr "Tách"
+
+#: widgets/widget-title-section.php:86
+msgid "Services"
+msgstr "Dịch vụ"
+
+#: widgets/widget-icon-popup.php:55
+msgid "Set Active"
+msgstr "Bộ Hoạt Động"
+
+#: widgets/widget-tabs-infor.php:59 widgets/widget-tabs.php:90
+msgid "Set Active Tab"
+msgstr "Bộ Hoạt Động Tab"
+
+#: widgets/widget-tabs.php:182 widgets/widget-tabs.php:206
+#: widgets/widget-tabs.php:210 widgets/widget-tabs.php:214
+msgid ""
+"set it amet consectetur adipiscing elit. posuere eu accumsan placerat et "
+"tempus, ac pellentesque. vitae tellus fringilla ullamcorper tempus nullam "
+"nulla. amet nec tristique aliquet tristique dui. gravida tellus"
+msgstr ""
+"đặt nó cung cấp từ minneapolis adipiscing hàng. posuere eu accumsan placerat "
+"et thời ac, văn. lịch tellus fringilla liền mạch thời nullam khác. cấp được ."
+".. tristique aliquet tristique sư. gravida tellus"
+
+#: widgets/widget-icon-popup.php:28 widgets/widget-list-image.php:28
+#: widgets/widget-list.php:28 widgets/widget-testimonial-carousel.php:592
+msgid "Setting"
+msgstr "Thiết lập"
+
+#: widgets/widget-tabs.php:909
+msgid "Shake"
+msgstr "Lắc"
+
+#: widgets/widget-countdown.php:51 widgets/widget-countdown.php:62
+#: widgets/widget-countdown.php:73 widgets/widget-countdown.php:84
+#: widgets/widget-countdown.php:95 widgets/widget-imagebox.php:168
+#: widgets/widget-imagebox.php:530 widgets/widget-posts.php:100
+#: widgets/widget-posts.php:231 widgets/widget-posts.php:252
+#: widgets/widget-posts.php:264 widgets/widget-posts.php:300
+#: widgets/widget-posts.php:345 widgets/widget-posts.php:357
+#: widgets/widget-posts.php:388 widgets/widget-posts.php:509
+#: widgets/widget-posts.php:911 widgets/widget-price-table.php:91
+#: widgets/widget-tabs.php:40 widgets/widget-tabs.php:76
+#: widgets/widget-tabs.php:937 widgets/widget-testimonial-carousel.php:56
+#: widgets/widget-testimonial-carousel.php:67
+#: widgets/widget-testimonial-carousel.php:79
+#: widgets/widget-testimonial-carousel.php:91
+#: widgets/widget-testimonial-carousel.php:103
+#: widgets/widget-testimonial-carousel.php:716
+#: widgets/widget-testimonial-carousel.php:1086
+msgid "Show"
+msgstr "Show"
+
+#: widgets/widget-testimonial-carousel.php:54
+msgid "Show Avatar"
+msgstr "Chương Trình Avatar"
+
+#: widgets/widget-price-table.php:89
+msgid "Show Badge"
+msgstr "Show Huy Hiệu"
+
+#: widgets/widget-imagebox.php:166 widgets/widget-posts.php:298
+msgid "Show Button"
+msgstr "Nút Show"
+
+#: widgets/widget-posts.php:355
+msgid "Show Category"
+msgstr "Thấy Mục"
+
+#: widgets/widget-testimonial-carousel.php:65
+msgid "Show Content"
+msgstr "Nội Dung Chương Trình,"
+
+#: widgets/widget-posts.php:262
+msgid "Show Excerpt"
+msgstr "Show Trích"
+
+#: widgets/widget-tabs.php:74 widgets/widget-testimonial-carousel.php:101
+msgid "Show Icon"
+msgstr "Chương Trình Biểu Tượng"
+
+#: widgets/widget-posts.php:229
+msgid "Show Image"
+msgstr "Thấy Hình Ảnh"
+
+#: widgets/widget-countdown.php:93
+msgid "Show Label"
+msgstr "Show Nhãn"
+
+#: widgets/widget-posts.php:343
+msgid "Show Meta"
+msgstr "Chương Trình Siêu"
+
+#: widgets/widget-posts.php:386
+msgid "Show Meta Date"
+msgstr "Chương Trình Siêu Ngày"
+
+#: widgets/widget-testimonial-carousel.php:77
+msgid "Show Name"
+msgstr "Thấy Tên"
+
+#: widgets/widget-imagebox.php:528
+msgid "Show Overlay"
+msgstr "Show Phủ"
+
+#: widgets/widget-posts.php:98
+msgid "Show Pagination"
+msgstr "Chương Trình Phân Trang"
+
+#: widgets/widget-testimonial-carousel.php:89
+msgid "Show Position"
+msgstr "Cho Vị Trí"
+
+#: widgets/widget-posts.php:250
+msgid "Show Title"
+msgstr "Cho Tiêu Đề"
+
+#: widgets/widget-tabs.php:935
+msgid "Show Triger"
+msgstr "Show Triger"
+
+#: widgets/widget-imagebox.php:1306
+msgid "Shrink"
+msgstr "Thu hẹp"
+
+#: widgets/widget-iconbox.php:329 widgets/widget-tabs.php:467
+#: widgets/widget-video.php:128 widgets/widget-video.php:252
+#: widgets/widget-video.php:341
+msgid "Size"
+msgstr "Kích thước"
+
+#: widgets/widget-tabs.php:278
+msgid "Size Toggle"
+msgstr "Kích Thước Chuyển"
+
+#: widgets/widget-imagebox.php:1289 widgets/widget-imagebox.php:1314
+msgid "Skew"
+msgstr "Nghiêng"
+
+#: widgets/widget-navmenu.php:439
+msgid "Slide"
+msgstr "Slide"
+
+#: widgets/widget-tabs.php:896
+msgid "Slide In Down"
+msgstr "Trượt Xuống"
+
+#: widgets/widget-tabs.php:897
+msgid "Slide In Left"
+msgstr "Trượt Trong Trái"
+
+#: widgets/widget-tabs.php:898
+msgid "Slide In Right"
+msgstr "Trượt Ở Ngay"
+
+#: widgets/widget-tabs.php:899
+msgid "Slide In Up"
+msgstr "Trượt Trong Lên"
+
+#: widgets/widget-tabs.php:283
+msgid "Small"
+msgstr "Nhỏ"
+
+#: widgets/widget-navmenu.php:724 widgets/widget-navmenu.php:791
+#: widgets/widget-navmenu.php:858 widgets/widget-navmenu.php:1478
+#: widgets/widget-video.php:155 widgets/widget-video.php:368
+msgid "Solid"
+msgstr "Rắn"
+
+#: widgets/widget-video.php:39
+msgid "Source"
+msgstr "Nguồn"
+
+#: widgets/widget-countdown.php:304 widgets/widget-navmenu.php:397
+#: widgets/widget-price-table.php:728
+msgid "Space Between"
+msgstr "Không Gian Giữa"
+
+#: widgets/widget-testimonial-carousel.php:623
+msgid "Spacer"
+msgstr "Đệm"
+
+#: widgets/widget-list-image.php:199
+#: widgets/widget-testimonial-carousel.php:1157
+msgid "Spacing"
+msgstr "Khoảng cách"
+
+#: widgets/widget-heading-section.php:58 widgets/widget-title-section.php:74
+msgid "span"
+msgstr "khoảng"
+
+#: themesflat-core.php:684
+msgid "Special Pages"
+msgstr "Trang Đặc Biệt"
+
+#: themesflat-core.php:726
+msgid "Specific Pages / Posts / Taxonomies, etc."
+msgstr "Cụ thể Trang Đăng phân loại, etc."
+
+#: themesflat-core.php:724
+msgid "Specific Target"
+msgstr "Mục Tiêu Cụ Thể"
+
+#: widgets/widget-price-table.php:118
+msgid "Standard"
+msgstr "Chuẩn"
+
+#: widgets/widget-counter.php:114
+msgid "Starting Number"
+msgstr "Bắt Đầu Từ Con Số"
+
+#: widgets/widget-heading-section.php:377
+msgid "Stroke color"
+msgstr "Màu sắc nét"
+
+#: widgets/widget-animation-item.php:35 widgets/widget-counter.php:39
+#: widgets/widget-heading-section.php:35 widgets/widget-heading-section.php:160
+#: widgets/widget-icon-popup.php:147 widgets/widget-imagebox.php:587
+#: widgets/widget-imagebox.php:1280 widgets/widget-list-image.php:145
+#: widgets/widget-list.php:92 widgets/widget-price-table.php:36
+#: widgets/widget-testimonial-carousel.php:206
+#: widgets/widget-title-section.php:143
+msgid "Style"
+msgstr "Phong cách"
+
+#: widgets/widget-heading-section.php:39 widgets/widget-price-table.php:40
+#: widgets/widget-testimonial-carousel.php:44
+#: widgets/widget-title-section.php:43
+msgid "Style 1"
+msgstr "Phong cách 1"
+
+#: widgets/widget-counter.php:44 widgets/widget-heading-section.php:40
+#: widgets/widget-price-table.php:41 widgets/widget-testimonial-carousel.php:45
+#: widgets/widget-title-section.php:44
+msgid "Style 2"
+msgstr "Phong cách 2"
+
+#: widgets/widget-testimonial-carousel.php:46
+msgid "Style 3"
+msgstr "Phong cách 3"
+
+#: widgets/widget-animation-item.php:72
+msgid "Style Item"
+msgstr "Cách Mục"
+
+#: widgets/widget-title-section.php:39
+msgid "Styles"
+msgstr "Phong cách"
+
+#: widgets/widget-price-table.php:125 widgets/widget-price-table.php:134
+#: widgets/widget-title-section.php:84 widgets/widget-title-section.php:151
+msgid "Sub Title"
+msgstr "Phụ Đề"
+
+#: widgets/widget-navmenu.php:116
+msgid "Submenu Icon"
+msgstr "Con Biểu Tượng"
+
+#: widgets/widget-navmenu.php:452
+msgid "Submenu Icon Margin"
+msgstr "Con Biểu Tượng Lề"
+
+#: widgets/widget-price-table.php:644
+msgid "SubTitle"
+msgstr "SubTitle"
+
+#: widgets/widget-tabs.php:911
+msgid "Swing"
+msgstr "Swing"
+
+#: widgets/widget-tabs.php:927
+msgid "Tab Active Triger"
+msgstr "Tab Hoạt Động Triger"
+
+#: widgets/widget-tabs.php:792
+msgid "Tab Content"
+msgstr "Nội Dung Tab"
+
+#: widgets/widget-tabs.php:437
+msgid "Tab Icon"
+msgstr "Biểu Tượng Tab"
+
+#: widgets/widget-tabs-infor.php:311
+msgid "Tab Images"
+msgstr "Tab Hình Ảnh"
+
+#: widgets/widget-tabs-infor.php:135 widgets/widget-tabs.php:518
+msgid "Tab Nav"
+msgstr "Tab Nav"
+
+#: widgets/widget-tabs.php:242
+msgid "Tab Toggle"
+msgstr "Tab Chuyển"
+
+#: widgets/widget-tabs.php:38
+msgid "Tab With Navigation Toggle"
+msgstr "Tab Với Hướng Chuyển"
+
+#: widgets/widget-tabs-infor.php:32 widgets/widget-tabs.php:32
+msgid "Tabs"
+msgstr "Tab"
+
+#: widgets/widget-tabs.php:912
+msgid "Tada"
+msgstr "Tada"
+
+#: widgets/widget-tabs.php:175
+msgid "Template"
+msgstr "Mẫu"
+
+#: widgets/widget-testimonial-carousel.php:33
+msgid "Testimonial Carousel"
+msgstr "Lời Chứng Thực Đu Quay"
+
+#: widgets/widget-navmenu.php:425
+msgid "Text"
+msgstr "Văn bản"
+
+#: widgets/widget-tabs.php:63
+msgid "Text After"
+msgstr "Văn Bản Sau"
+
+#: widgets/widget-tabs.php:51
+msgid "Text Before"
+msgstr "Văn Bản Trước Khi"
+
+#: widgets/widget-iconbox.php:271
+msgid "Text Circle"
+msgstr "Văn Bản Vòng Tròn"
+
+#: widgets/widget-counter.php:424 widgets/widget-counter.php:516
+#: widgets/widget-icon-popup.php:320
+msgid "Text Color"
+msgstr "Màu Chữ"
+
+#: widgets/widget-price-table.php:846
+msgid "Text Indent"
+msgstr "Văn Bản Thụt"
+
+#: widgets/widget-counter.php:435
+msgid "Text Prefix Color"
+msgstr "Văn Bản Tố Màu"
+
+#: widgets/widget-imagebox.php:988 widgets/widget-imagebox.php:1059
+msgid "Text Shadow"
+msgstr "Văn Bản Shadow"
+
+#: widgets/widget-counter.php:446
+msgid "Text Suffix Color"
+msgstr "Văn Bản Đuôi Màu"
+
+#: widgets/widget-tabs.php:382
+msgid "Text Toggle"
+msgstr "Văn Bản Chuyển"
+
+#: widgets/widget-animation-item.php:9
+msgid "TF Animation Item"
+msgstr "Lực lượng đặc nhiệm Hoạt hình Mục"
+
+#: widgets/widget-countdown.php:9
+msgid "TF Countdown"
+msgstr "Lực lượng đặc nhiệm đếm Ngược"
+
+#: widgets/widget-counter.php:9
+msgid "TF Counter"
+msgstr "Lực lượng đặc nhiệm truy Cập"
+
+#: widgets/widget-imagebox.php:1272
+msgid "TF Effect"
+msgstr "Lực lượng đặc nhiệm Hiệu lực"
+
+#: themesflat-core.php:351 themesflat-core.php:352 themesflat-core.php:354
+msgid "TF Header - Footer Template"
+msgstr "Lực lượng đặc nhiệm tiêu Đề - Chân Mẫu"
+
+#: themesflat-core.php:384
+msgid "TF Header Or Footer Options"
+msgstr "Lực lượng đặc nhiệm Đầu Chân lựa Chọn"
+
+#: widgets/widget-heading-section.php:9
+msgid "TF Heading Section"
+msgstr "Lực lượng đặc nhiệm Đi Phần"
+
+#: widgets/widget-icon-popup.php:9
+msgid "TF Icon Popup"
+msgstr "Lực lượng đặc nhiệm Biểu tượng bật lên"
+
+#: widgets/widget-imagebox.php:9
+msgid "TF Image Box"
+msgstr "Lực lượng đặc nhiệm hình Ảnh Hộp"
+
+#: widgets/widget-list.php:9
+msgid "TF List Image"
+msgstr "Lực lượng đặc nhiệm danh Sách hình Ảnh"
+
+#: widgets/widget-navmenu.php:9
+msgid "TF Nav Menu"
+msgstr "Lực lượng đặc nhiệm Đơn Nav"
+
+#: widgets/widget-list-image.php:9
+msgid "TF Partner"
+msgstr "Lực lượng đặc nhiệm đối Tác"
+
+#: widgets/widget-posts.php:9
+msgid "TF Posts"
+msgstr "Lực lượng đặc nhiệm Bài"
+
+#: widgets/widget-price-table.php:9
+msgid "TF Price Table"
+msgstr "Lực lượng đặc nhiệm Bảng Giá"
+
+#: widgets/widget-tabs.php:9
+msgid "TF Tabs"
+msgstr "Lực lượng đặc nhiệm Tab"
+
+#: widgets/widget-tabs-infor.php:9
+msgid "TF Tabs Information"
+msgstr "Lực lượng đặc nhiệm Tab thông Tin"
+
+#: widgets/widget-testimonial-carousel.php:9
+msgid "TF Testimonial Carousel"
+msgstr "Lực lượng đặc nhiệm lời Chứng thực Đu quay"
+
+#: widgets/widget-title-section.php:9
+msgid "TF Title Section"
+msgstr "Lực lượng đặc nhiệm Đề Phần"
+
+#: widgets/widget-video.php:9
+msgid "TF Video"
+msgstr "Lực lượng đặc nhiệm Video"
+
+#. Description of the plugin
+msgid "The theme's components"
+msgstr "Các chủ đề của các thành phần"
+
+#. Author of the plugin
+msgid "Themesflat"
+msgstr "Themesflat"
+
+#: themesflat-core.php:167 themesflat-core.php:178 themesflat-core.php:192
+msgid "Themesflat Addons For Elementor"
+msgstr "Themesflat Vụ Cho Elementor"
+
+#. Name of the plugin
+msgid "Themesflat Core"
+msgstr "Themesflat Lõi"
+
+#: widgets/widget-navmenu.php:43
+msgid "This works in the current page."
+msgstr "Này hoạt động trong hiện tại trang."
+
+#: widgets/widget-price-table.php:80 widgets/widget-price-table.php:529
+msgid "Time"
+msgstr "Thời gian"
+
+#: widgets/widget-testimonial-carousel.php:145
+msgid "Tincidunt"
+msgstr "Hàng"
+
+#: widgets/widget-counter.php:178 widgets/widget-counter.php:508
+#: widgets/widget-imagebox.php:122 widgets/widget-imagebox.php:952
+#: widgets/widget-posts.php:1359 widgets/widget-price-table.php:116
+#: widgets/widget-price-table.php:606 widgets/widget-tabs-infor.php:39
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: widgets/widget-title-section.php:32
+msgid "Title Section"
+msgstr "Tiêu Đề Phần"
+
+#: widgets/widget-imagebox.php:689
+msgid "Title Show"
+msgstr "Đề"
+
+#: widgets/widget-tabs.php:453
+msgid "Top"
+msgstr "Đầu"
+
+#: widgets/widget-navmenu.php:627
+msgid "Top Distance"
+msgstr "Đầu Khoảng Cách"
+
+#: widgets/widget-animation-item.php:53 widgets/widget-tabs-infor.php:92
+msgid "top to bottom"
+msgstr "đầu đến cuối"
+
+#: widgets/widget-tabs.php:963
+msgid "Triger Size"
+msgstr "Triger Kích Thước"
+
+#: widgets/widget-tabs.php:227
+msgid "Type"
+msgstr "Loại"
+
+#: themesflat-core.php:398
+msgid "Type of Template"
+msgstr "Loại Mẫu"
+
+#: widgets/widget-counter.php:457
+msgid "Typo Number"
+msgstr "Lỗi Số"
+
+#: widgets/widget-counter.php:475
+msgid "Typo Number Prefix"
+msgstr "Lỗi Số Tiền Tố"
+
+#: widgets/widget-counter.php:466
+msgid "Typo Number Suffix"
+msgstr "Lỗi, Số Đuôi"
+
+#: widgets/widget-heading-section.php:176
+#: widgets/widget-heading-section.php:262
+#: widgets/widget-heading-section.php:339 widgets/widget-icon-popup.php:300
+#: widgets/widget-iconbox.php:300 widgets/widget-imagebox.php:979
+#: widgets/widget-imagebox.php:1050 widgets/widget-imagebox.php:1130
+#: widgets/widget-navmenu.php:216 widgets/widget-navmenu.php:478
+#: widgets/widget-navmenu.php:1555 widgets/widget-posts.php:1388
+#: widgets/widget-posts.php:1433 widgets/widget-posts.php:1466
+#: widgets/widget-posts.php:1539 widgets/widget-posts.php:1625
+#: widgets/widget-posts.php:1778 widgets/widget-price-table.php:499
+#: widgets/widget-price-table.php:538 widgets/widget-price-table.php:576
+#: widgets/widget-price-table.php:615 widgets/widget-price-table.php:653
+#: widgets/widget-price-table.php:1008 widgets/widget-tabs-infor.php:151
+#: widgets/widget-tabs.php:392 widgets/widget-tabs.php:613
+#: widgets/widget-tabs.php:800 widgets/widget-testimonial-carousel.php:448
+#: widgets/widget-testimonial-carousel.php:486
+#: widgets/widget-testimonial-carousel.php:524
+#: widgets/widget-title-section.php:161 widgets/widget-title-section.php:271
+#: widgets/widget-title-section.php:337
+msgid "Typography"
+msgstr "Chữ"
+
+#: widgets/widget-price-table.php:817 widgets/widget-price-table.php:876
+msgid "Typography Text"
+msgstr "Chữ Văn Bản"
+
+#: widgets/widget-navmenu.php:422
+msgid "Underline"
+msgstr "Gạch dưới"
+
+#: widgets/widget-navmenu.php:166
+msgid "URL"
+msgstr "URL"
+
+#: widgets/widget-tabs.php:232
+msgid "Vertical"
+msgstr "Dọc"
+
+#: widgets/widget-posts.php:1002 widgets/widget-testimonial-carousel.php:1127
+msgid "Vertical Offset"
+msgstr "Dọc Bù Đắp"
+
+#: widgets/widget-navmenu.php:374 widgets/widget-navmenu.php:686
+msgid "Vertical Padding"
+msgstr "Dọc Đệm"
+
+#: widgets/widget-navmenu.php:1653
+msgid "Vertical Padding Link (px)"
+msgstr "Dọc Đệm liên Kết (px)"
+
+#: widgets/widget-posts.php:704 widgets/widget-testimonial-carousel.php:902
+msgid "Vertical Position"
+msgstr "Vị Trí Dọc"
+
+#: widgets/widget-video.php:32
+msgid "Video"
+msgstr "Video"
+
+#: widgets/widget-countdown.php:351
+msgid "View"
+msgstr "Xem"
+
+#: themesflat-core.php:359
+msgid "View Template"
+msgstr "Xem Mẫu"
+
+#: widgets/widget-video.php:44
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: widgets/widget-tabs.php:213
+msgid "Vision"
+msgstr "Tầm nhìn"
+
+#: widgets/widget-countdown.php:488
+msgid "Weeks"
+msgstr "Tuần"
+
+#: widgets/widget-iconbox.php:280 widgets/widget-list-image.php:161
+#: widgets/widget-navmenu.php:1321 widgets/widget-navmenu.php:1396
+#: widgets/widget-posts.php:587 widgets/widget-posts.php:925
+#: widgets/widget-testimonial-carousel.php:790
+#: widgets/widget-testimonial-carousel.php:1198
+#: widgets/widget-testimonial-carousel.php:1292
+msgid "Width"
+msgstr "Chiều rộng"
+
+#: widgets/widget-testimonial-carousel.php:1336
+msgid "Width Border"
+msgstr "Chiều Rộng Biên Giới"
+
+#: widgets/widget-posts.php:1222
+msgid "Width Box Height"
+msgstr "Chiều Rộng Chiều Cao Hộp"
+
+#: widgets/widget-navmenu.php:1673
+msgid "Width Icon Submenu (px)"
+msgstr "Chiều rộng Biểu tượng Con (px)"
+
+#: widgets/widget-posts.php:641
+msgid "Width Wrap Nav"
+msgstr "Chiều Rộng Bọc Nav"
+
+#: widgets/widget-testimonial-carousel.php:388
+msgid "With & Height"
+msgstr "Với Chiều Cao"
+
+#: widgets/widget-tabs.php:913
+msgid "Wobble"
+msgstr "Lắc lư"
+
+#: widgets/widget-imagebox.php:1316
+msgid "Wobble Horizontal"
+msgstr "Lắc Lư Ngang"
+
+#: widgets/widget-imagebox.php:1315
+msgid "Wobble Vertical"
+msgstr "Lắc Lư Dọc"
+
+#: widgets/widget-imagebox.php:961
+msgid "Wrap Heading"
+msgstr "Quấn Đi"
+
+#: widgets/widget-tabs.php:525
+msgid "Wrap Nav"
+msgstr "Quấn Nav"
+
+#: widgets/widget-counter.php:181
+msgid "Years Experience In Our Company"
+msgstr "Năm Kinh Nghiệm Trong Công Ty Chúng Tôi"
+
+#: widgets/widget-navmenu.php:46 widgets/widget-price-table.php:54
+#: widgets/widget-tabs-infor.php:61 widgets/widget-tabs.php:92
+msgid "Yes"
+msgstr "Yes"
+
+#: widgets/widget-video.php:43
+msgid "YouTube"
+msgstr "YouTube"
+
+#: widgets/widget-tfgroupimage.php:228
+msgid "Z=index Item"
+msgstr "Z=chỉ số Hàng đó"
+
+#: widgets/widget-tabs.php:886
+msgid "Zoom In"
+msgstr "Phóng To"
+
+#: widgets/widget-tabs.php:887
+msgid "Zoom In Down"
+msgstr "Phóng Xuống"
+
+#: widgets/widget-tabs.php:888
+msgid "Zoom In Left"
+msgstr "Phóng To Trái"
+
+#: widgets/widget-animation-item.php:57 widgets/widget-tabs-infor.php:96
+msgid "Zoom in out"
+msgstr "Phóng to ra"
+
+#: widgets/widget-tabs.php:889
+msgid "Zoom In Right"
+msgstr "Phóng To Ngay"
+
+#: widgets/widget-tabs.php:890
+msgid "Zoom In Up"
+msgstr "Phóng To Lên"

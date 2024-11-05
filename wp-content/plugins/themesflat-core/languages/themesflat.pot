@@ -1,0 +1,738 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemesFlat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-19 09:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: themesflat"
+
+#: widgets/themesflat_recent_post.php:86
+msgid "% Comments"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:86
+msgid "0 Comment"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:86
+msgid "1 Comment"
+msgstr ""
+
+#: includes/options.php:129
+msgid "Add file"
+msgstr ""
+
+#: includes/options.php:284
+msgid "Add files"
+msgstr ""
+
+#: poststype/register-gallery.php:12
+msgid "Add New"
+msgstr ""
+
+#: poststype/register-portfolio.php:75 poststype/register-project.php:75
+#: poststype/register-services.php:76
+msgid "Add New Categories"
+msgstr ""
+
+#: poststype/register-gallery.php:78
+msgid "Add New Category"
+msgstr ""
+
+#: poststype/register-gallery.php:13
+msgid "Add New Item"
+msgstr ""
+
+#: poststype/register-portfolio.php:14
+msgid "Add New Portfolios"
+msgstr ""
+
+#: poststype/register-project.php:14
+msgid "Add New Project"
+msgstr ""
+
+#: poststype/register-services.php:13
+msgid "Add New Services"
+msgstr ""
+
+#: poststype/register-portfolio.php:105 poststype/register-project.php:105
+msgid "Add New Tag"
+msgstr ""
+
+#: poststype/register-portfolio.php:78 poststype/register-project.php:78
+#: poststype/register-services.php:79
+msgid "Add or remove Categories"
+msgstr ""
+
+#: poststype/register-gallery.php:81
+msgid "Add or remove categories"
+msgstr ""
+
+#: widgets/themesflat_latest_news.php:126
+#: widgets/themesflat_recent_post.php:139
+#: poststype/inc/archive-portfolios.php:61 poststype/inc/archive-project.php:61
+#: poststype/inc/archive-services.php:61
+msgid "All"
+msgstr ""
+
+#: poststype/register-gallery.php:74 poststype/register-portfolio.php:71
+#: poststype/register-project.php:71 poststype/register-services.php:72
+msgid "All Categories"
+msgstr ""
+
+#: poststype/register-gallery.php:17
+msgid "All Items"
+msgstr ""
+
+#: poststype/register-portfolio.php:18
+msgid "All Portfolios"
+msgstr ""
+
+#: poststype/register-project.php:18
+msgid "All Project"
+msgstr ""
+
+#: poststype/register-services.php:17
+msgid "All Services"
+msgstr ""
+
+#: poststype/register-portfolio.php:104 poststype/register-project.php:104
+msgid "All Tags"
+msgstr ""
+
+#: poststype/register-gallery.php:73 poststype/register-gallery.php:84
+#: poststype/register-portfolio.php:68 poststype/register-portfolio.php:70
+#: poststype/register-project.php:68 poststype/register-project.php:70
+#: poststype/register-services.php:69 poststype/register-services.php:71
+msgid "Categories"
+msgstr ""
+
+#: widgets/themesflat_categories.php:28
+msgid "Categories."
+msgstr ""
+
+#: poststype/register-gallery.php:71 poststype/inc/single-portfolio.php:21
+#: poststype/inc/single-project.php:21
+msgid "Category"
+msgstr ""
+
+#: widgets/themesflat_categories.php:99
+#: widgets/themesflat_services_categories.php:107
+msgid "Child Of:"
+msgstr ""
+
+#: poststype/register-portfolio.php:79 poststype/register-project.php:79
+#: poststype/register-services.php:80
+msgid "Choose from the most used Categories"
+msgstr ""
+
+#: poststype/register-gallery.php:82
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: widgets/themesflat_categories.php:91 widgets/themesflat_latest_news.php:140
+#: widgets/themesflat_recent_post.php:153
+#: widgets/themesflat_services_categories.php:99
+msgid "Count:"
+msgstr ""
+
+#: widgets/themesflat_categories.php:95
+#: widgets/themesflat_services_categories.php:103
+msgid "Custom Categories By Ids- EX: 1,2,3"
+msgstr ""
+
+#: poststype/register-portfolio.php:47 poststype/register-project.php:47
+#: poststype/register-services.php:48
+msgid "Custom Field Deleted."
+msgstr ""
+
+#: poststype/register-gallery.php:47
+msgid "Custom field deleted."
+msgstr ""
+
+#: poststype/register-portfolio.php:46 poststype/register-project.php:46
+#: poststype/register-services.php:47
+msgid "Custom Field Updated."
+msgstr ""
+
+#: poststype/register-gallery.php:46
+msgid "Custom field updated."
+msgstr ""
+
+#: poststype/inc/single-portfolio.php:26 poststype/inc/single-project.php:26
+msgid "Date"
+msgstr ""
+
+#: poststype/register-portfolio.php:76 poststype/register-project.php:76
+#: poststype/register-services.php:77
+msgid "Edit Categories"
+msgstr ""
+
+#: poststype/register-gallery.php:79
+msgid "Edit Category"
+msgstr ""
+
+#: poststype/register-gallery.php:15
+msgid "Edit Item"
+msgstr ""
+
+#: poststype/register-portfolio.php:16
+msgid "Edit Portfolios Item"
+msgstr ""
+
+#: poststype/register-project.php:16
+msgid "Edit Project Item"
+msgstr ""
+
+#: poststype/register-services.php:15
+msgid "Edit Services Item"
+msgstr ""
+
+#: poststype/register-portfolio.php:107 poststype/register-project.php:107
+msgid "Edit Tag"
+msgstr ""
+
+#: poststype/register-gallery.php:10
+msgid "Gallery"
+msgstr ""
+
+#: poststype/register-gallery.php:70
+msgid "Gallery Categories"
+msgstr ""
+
+#: poststype/register-gallery.php:57
+msgid "Gallery draft updated."
+msgstr ""
+
+#: poststype/register-gallery.php:11
+msgid "Gallery Item"
+msgstr ""
+
+#: poststype/register-gallery.php:50
+msgid "Gallery published."
+msgstr ""
+
+#: poststype/register-gallery.php:49
+#, php-format
+msgid "Gallery restored to revision from %s"
+msgstr ""
+
+#: poststype/register-gallery.php:51
+msgid "Gallery saved."
+msgstr ""
+
+#: poststype/register-gallery.php:54
+#, php-format
+msgid "Gallery scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: poststype/register-gallery.php:52
+msgid "Gallery submitted."
+msgstr ""
+
+#: poststype/register-gallery.php:45 poststype/register-gallery.php:48
+msgid "Gallery updated."
+msgstr ""
+
+#: widgets/themesflat_latest_news.php:136
+#: widgets/themesflat_recent_post.php:149
+msgid "Get Post by IDS EX:1,2,3"
+msgstr ""
+
+#: includes/metabox-options.php:72
+msgid "iframe audio link (https://soundcloud.com/)"
+msgstr ""
+
+#: includes/metabox-options.php:59
+msgid "iframe video link"
+msgstr ""
+
+#: includes/metabox-options.php:46
+msgid "Images"
+msgstr ""
+
+#: widgets/themesflat_latest_news.php:29
+msgid "Latest News."
+msgstr ""
+
+#: poststype/init-posts-type.php:166
+msgid "Load More"
+msgstr ""
+
+#: poststype/register-gallery.php:55 poststype/register-portfolio.php:53
+#: poststype/register-project.php:53 poststype/register-services.php:54
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: poststype/register-portfolio.php:74 poststype/register-project.php:74
+#: poststype/register-services.php:75
+msgid "New Categories Name"
+msgstr ""
+
+#: poststype/register-gallery.php:77
+msgid "New Category Name"
+msgstr ""
+
+#: poststype/register-gallery.php:14
+msgid "New Item"
+msgstr ""
+
+#: poststype/register-portfolio.php:13
+msgid "New Portfolios"
+msgstr ""
+
+#: poststype/register-portfolio.php:15
+msgid "New Portfolios Item"
+msgstr ""
+
+#: poststype/register-project.php:13
+msgid "New Project"
+msgstr ""
+
+#: poststype/register-project.php:15
+msgid "New Project Item"
+msgstr ""
+
+#: poststype/register-services.php:12
+msgid "New Services"
+msgstr ""
+
+#: poststype/register-services.php:14
+msgid "New Services Item"
+msgstr ""
+
+#: poststype/register-portfolio.php:106 poststype/register-project.php:106
+msgid "New Tag Name"
+msgstr ""
+
+#: poststype/register-gallery.php:83
+msgid "No Category found."
+msgstr ""
+
+#: poststype/register-gallery.php:21
+msgid "No items found in Trash."
+msgstr ""
+
+#: poststype/register-gallery.php:20
+msgid "No items found."
+msgstr ""
+
+#: poststype/register-portfolio.php:20
+msgid "No Portfolios Items Found"
+msgstr ""
+
+#: poststype/register-portfolio.php:21
+msgid "No Portfolios Items Found In Trash"
+msgstr ""
+
+#: poststype/register-project.php:20
+msgid "No Project Items Found"
+msgstr ""
+
+#: poststype/register-project.php:21
+msgid "No Project Items Found In Trash"
+msgstr ""
+
+#: poststype/register-services.php:22
+msgid "No Services found"
+msgstr ""
+
+#: poststype/register-services.php:23
+msgid "No Services found in Trash"
+msgstr ""
+
+#: poststype/register-services.php:19
+msgid "No Services Items Found"
+msgstr ""
+
+#: poststype/register-services.php:20
+msgid "No Services Items Found In Trash"
+msgstr ""
+
+#: widgets/themesflat_latest_news.php:85 widgets/themesflat_recent_post.php:93
+msgid "Oops, category not found."
+msgstr ""
+
+#: poststype/register-portfolio.php:72 poststype/register-project.php:72
+#: poststype/register-services.php:73
+msgid "Parent Categories"
+msgstr ""
+
+#: poststype/register-portfolio.php:73 poststype/register-project.php:73
+#: poststype/register-services.php:74
+msgid "Parent Categories:"
+msgstr ""
+
+#: poststype/register-gallery.php:75
+msgid "Parent Category"
+msgstr ""
+
+#: poststype/register-gallery.php:76
+msgid "Parent Category:"
+msgstr ""
+
+#: poststype/register-gallery.php:19
+msgid "Parent Items:"
+msgstr ""
+
+#: poststype/register-portfolio.php:22
+msgid "Parent Portfolios:"
+msgstr ""
+
+#: poststype/register-project.php:22
+msgid "Parent Project:"
+msgstr ""
+
+#: poststype/register-services.php:21
+msgid "Parent Services:"
+msgstr ""
+
+#: poststype/inc/single-portfolio.php:16
+msgid "Portfolio Info"
+msgstr ""
+
+#: poststype/register-portfolio.php:101 poststype/register-portfolio.php:102
+msgid "Portfolio Tags"
+msgstr ""
+
+#: poststype/register-portfolio.php:10 poststype/register-portfolio.php:11
+#: poststype/register-portfolio.php:12
+msgid "Portfolios"
+msgstr ""
+
+#: poststype/register-portfolio.php:67
+msgid "Portfolios Categories"
+msgstr ""
+
+#: poststype/register-portfolio.php:54
+#, php-format
+msgid ""
+"Portfolios Draft Updated. <a target=\"_blank\" href=\"%s\">Preview "
+"Portfolios</a>"
+msgstr ""
+
+#: poststype/register-portfolio.php:50
+#, php-format
+msgid "Portfolios Published. <a href=\"%s\">View Portfolios</a>"
+msgstr ""
+
+#: poststype/register-portfolio.php:49
+#, php-format
+msgid "Portfolios Restored To Revision From %s"
+msgstr ""
+
+#: poststype/register-portfolio.php:51
+msgid "Portfolios Saved."
+msgstr ""
+
+#: poststype/register-portfolio.php:53
+#, php-format
+msgid ""
+"Portfolios Scheduled For: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Portfolios</a>"
+msgstr ""
+
+#: poststype/register-portfolio.php:52
+#, php-format
+msgid ""
+"Portfolios Submitted. <a target=\"_blank\" href=\"%s\">Preview Portfolios</a>"
+msgstr ""
+
+#: poststype/register-portfolio.php:48
+msgid "Portfolios Updated."
+msgstr ""
+
+#: poststype/register-portfolio.php:45
+#, php-format
+msgid "Portfolios Updated. <a href=\"%s\">View portfolios</a>"
+msgstr ""
+
+#: includes/metabox-options.php:14
+msgid "Post Format"
+msgstr ""
+
+#: includes/metabox-options.php:66
+msgid "Post Format: Audio"
+msgstr ""
+
+#: includes/metabox-options.php:39
+msgid "Post Format: Gallery ."
+msgstr ""
+
+#: includes/metabox-options.php:53
+msgid "Post Format: Video ( Embeded video from youtube, vimeo ...)."
+msgstr ""
+
+#: includes/metabox-options.php:9
+msgid "Post settings"
+msgstr ""
+
+#: poststype/register-project.php:10 poststype/register-project.php:11
+#: poststype/register-project.php:12
+msgid "Project"
+msgstr ""
+
+#: poststype/register-project.php:67
+msgid "Project Categories"
+msgstr ""
+
+#: poststype/register-project.php:54
+#, php-format
+msgid ""
+"Project Draft Updated. <a target=\"_blank\" href=\"%s\">Preview Project</a>"
+msgstr ""
+
+#: poststype/inc/single-project.php:16
+msgid "Project Info"
+msgstr ""
+
+#: poststype/register-project.php:50
+#, php-format
+msgid "Project Published. <a href=\"%s\">View Project</a>"
+msgstr ""
+
+#: poststype/register-project.php:49
+#, php-format
+msgid "Project Restored To Revision From %s"
+msgstr ""
+
+#: poststype/register-project.php:51
+msgid "Project Saved."
+msgstr ""
+
+#: poststype/register-project.php:53
+#, php-format
+msgid ""
+"Project Scheduled For: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Project</a>"
+msgstr ""
+
+#: poststype/register-project.php:52
+#, php-format
+msgid "Project Submitted. <a target=\"_blank\" href=\"%s\">Preview Project</a>"
+msgstr ""
+
+#: poststype/register-project.php:101 poststype/register-project.php:102
+msgid "Project Tags"
+msgstr ""
+
+#: poststype/register-project.php:48
+msgid "Project Updated."
+msgstr ""
+
+#: poststype/register-project.php:45
+#, php-format
+msgid "Project Updated. <a href=\"%s\">View Project</a>"
+msgstr ""
+
+#: poststype/inc/archive-services.php:121 poststype/inc/single-services.php:117
+#: poststype/inc/taxonomy-services_category.php:59
+msgid "Read More"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:31
+msgid "Recent News."
+msgstr ""
+
+#: poststype/inc/single-portfolio.php:118
+msgid "Related Portfolio"
+msgstr ""
+
+#: poststype/inc/single-project.php:118
+msgid "Related Projects"
+msgstr ""
+
+#: poststype/inc/single-services.php:87
+msgid "Related Services"
+msgstr ""
+
+#: includes/options.php:133 includes/options.php:288
+msgid "Remove"
+msgstr ""
+
+#: poststype/register-gallery.php:72 poststype/register-portfolio.php:69
+#: poststype/register-project.php:69 poststype/register-services.php:70
+msgid "Search Categories"
+msgstr ""
+
+#: poststype/register-gallery.php:18
+msgid "Search Items"
+msgstr ""
+
+#: poststype/register-portfolio.php:19
+msgid "Search Portfolios"
+msgstr ""
+
+#: poststype/register-project.php:19
+msgid "Search Project"
+msgstr ""
+
+#: poststype/register-services.php:18
+msgid "Search Services"
+msgstr ""
+
+#: poststype/register-portfolio.php:103 poststype/register-project.php:103
+msgid "Search Tags"
+msgstr ""
+
+#: widgets/themesflat_latest_news.php:124
+#: widgets/themesflat_recent_post.php:137
+msgid "Select Category:"
+msgstr ""
+
+#: poststype/register-services.php:9 poststype/register-services.php:10
+#: poststype/register-services.php:11
+msgid "Services"
+msgstr ""
+
+#: poststype/register-services.php:68
+msgid "Services Categories"
+msgstr ""
+
+#: widgets/themesflat_services_categories.php:28
+msgid "Services Categories."
+msgstr ""
+
+#: poststype/register-services.php:55
+#, php-format
+msgid ""
+"Services Draft Updated. <a target=\"_blank\" href=\"%s\">Preview Services</a>"
+msgstr ""
+
+#: poststype/register-services.php:51
+#, php-format
+msgid "Services Published. <a href=\"%s\">View Services</a>"
+msgstr ""
+
+#: poststype/register-services.php:50
+#, php-format
+msgid "Services Restored To Revision From %s"
+msgstr ""
+
+#: poststype/register-services.php:52
+msgid "Services Saved."
+msgstr ""
+
+#: poststype/register-services.php:54
+#, php-format
+msgid ""
+"Services Scheduled For: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Services</a>"
+msgstr ""
+
+#: poststype/register-services.php:53
+#, php-format
+msgid ""
+"Services Submitted. <a target=\"_blank\" href=\"%s\">Preview Services</a>"
+msgstr ""
+
+#: poststype/register-services.php:49
+msgid "Services Updated."
+msgstr ""
+
+#: poststype/register-services.php:46
+#, php-format
+msgid "Services Updated. <a href=\"%s\">View services</a>"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:170
+msgid "Show Comment ?"
+msgstr ""
+
+#: widgets/themesflat_latest_news.php:145
+#: widgets/themesflat_recent_post.php:162
+msgid "Show Content ?"
+msgstr ""
+
+#: widgets/themesflat_categories.php:104
+#: widgets/themesflat_services_categories.php:112
+msgid "Show count?"
+msgstr ""
+
+#: widgets/themesflat_latest_news.php:149
+#: widgets/themesflat_recent_post.php:166
+msgid "Show Date ?"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:158
+msgid "Show Thumbnail ?"
+msgstr ""
+
+#. Description of the plugin
+msgid "The theme's components"
+msgstr ""
+
+#. Name of the plugin
+#. Author of the plugin
+msgid "ThemesFlat"
+msgstr ""
+
+#: widgets/themesflat_categories.php:25
+msgid "Themesflat - Categories"
+msgstr ""
+
+#: widgets/themesflat_latest_news.php:26
+msgid "Themesflat - Latest News"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:28
+msgid "Themesflat - Recent News"
+msgstr ""
+
+#: widgets/themesflat_services_categories.php:25
+msgid "Themesflat - Services Categories"
+msgstr ""
+
+#: widgets/themesflat_socials.php:22
+msgid "Themesflat - Socials"
+msgstr ""
+
+#: widgets/themesflat_socials.php:25
+msgid "Themesflat Socials."
+msgstr ""
+
+#: widgets/themesflat_categories.php:87 widgets/themesflat_latest_news.php:120
+#: widgets/themesflat_recent_post.php:133
+#: widgets/themesflat_services_categories.php:95
+#: widgets/themesflat_socials.php:71
+msgid "Title:"
+msgstr ""
+
+#: poststype/register-portfolio.php:77 poststype/register-project.php:77
+#: poststype/register-services.php:78
+msgid "Update Categories"
+msgstr ""
+
+#: poststype/register-gallery.php:80
+msgid "Update Category"
+msgstr ""
+
+#: poststype/register-portfolio.php:108 poststype/register-project.php:108
+msgid "Update Tag"
+msgstr ""
+
+#: poststype/register-gallery.php:16
+msgid "View Item"
+msgstr ""
+
+#: poststype/register-portfolio.php:17
+msgid "View Portfolios"
+msgstr ""
+
+#: poststype/register-project.php:17
+msgid "View Project"
+msgstr ""
+
+#: poststype/register-services.php:16
+msgid "View Services"
+msgstr ""

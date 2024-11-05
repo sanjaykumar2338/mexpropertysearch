@@ -1,0 +1,52 @@
+/*title section
+---------------------------------------------------------------- */
+.tf-heading-section .blurred-text {
+    color: transparent;
+    -webkit-text-fill-color: transparent; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgba(31,36,44,0.07);
+    white-space: nowrap;
+}
+
+.tf-heading-section .before-title {
+    margin: 0;
+    display: inline-block;
+    padding: 9px 15px 8px 15px;
+    border-radius: 5px;
+}
+
+.tf-heading-section p {
+    margin: 0;
+}
+
+.tf-heading-section .heading {
+    position: relative;
+    z-index: 1;
+}
+
+.tf-heading-section .blurred-text {
+    /*background: linear-gradient(90deg, #000, #fff, #000);*/
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 70%;
+    animation: shine 5s linear infinite;
+    position: relative;
+}    
+
+/*Style 2*/
+.tf-heading-section.style2 .before-title {
+    position: relative;
+    padding: 0 0 0 45px;
+}
+.tf-heading-section.style2 .before-title:before {
+    content: '';
+    width: 30px;
+    height: 3px;
+    position: absolute;
+    background: #fff;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}

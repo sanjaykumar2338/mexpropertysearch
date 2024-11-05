@@ -1,0 +1,501 @@
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Layout Control Metabox */
+
+.tfre-options-section-controls:has(.col-control) {
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-start;
+    border-top: solid 1px #ddd;
+}
+
+.tfre-options-section-controls:first-child:has(.col-control) {
+    border: 0;
+}
+
+li.col-control.tfre-options-control {
+    width: 33.3%;
+}
+
+/* Admin Location Country */
+.countries .form-group {
+    display: inline-block;
+    padding: 10px;
+}
+
+.countries .form-group .form-control {
+    width: 100%;
+    max-width: 180px;
+    float: left;
+    text-align: left;
+    margin: 5px 10px;
+}
+
+/* Checkbox to Toggle */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 52px;
+    height: 26px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 18px !important;
+    width: 18px !important;
+    left: 3px !important;
+    bottom: 4px !important;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked+.slider {
+    background-color: #2271b1;
+}
+
+input:focus+.slider {
+    box-shadow: 0 0 1px #2271b1;
+}
+
+input:checked+.slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+/* Panel dynamic */
+.wrapper-dynamic-panel {
+    margin-bottom: 10px;
+}
+
+.header-dynamic-panel {
+    position: relative;
+    margin: 0;
+    border: solid 1px #ddd;
+    background-color: #f2f2f2;
+    padding: 5px 15px;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 500;
+}
+
+.header-dynamic-panel .dynamic-panel-title {
+    display: block;
+    padding-left: 30px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.header-dynamic-panel .dynamic-panel-button-remove {
+    position: absolute;
+    left: 0;
+    width: 34px;
+    height: 32px;
+    border-radius: 0;
+    display: block;
+    top: 0;
+    background-color: transparent;
+    border-right: solid 1px #ccc;
+    text-align: center;
+    color: #777;
+    cursor: pointer;
+}
+
+.header-dynamic-panel .dynamic-panel-button-remove .dashicons.dashicons-no-alt {
+    line-height: 32px;
+    font-size: 20px;
+    display: inline;
+    font-weight: 300;
+}
+
+.body-dynamic-panel {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+/* Multi Image Control */
+
+.tfre-options-control .tfre-options-control-multi-media-picker .upload-preview,
+.tfre-options-control .tfre-options-control-multi-attachments-picker .upload-preview {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    border: 2px dashed #b4b9be;
+    padding: 20px;
+    margin: 10px 0;
+}
+
+.tfre-options-control .tfre-options-control-multi-media-picker .upload-preview li {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    width: 90px;
+    height: 90px;
+    background-color: #ddd;
+    border: solid 3px #ccc;
+    overflow: hidden;
+    float: left;
+    margin: 0 10px;
+}
+
+.tfre-options-control .tfre-options-control-multi-media-picker .upload-preview li .tf-remove-media {
+    position: absolute;
+    top: -3px;
+    right: -3px;
+    text-decoration: none;
+    margin-left: 5px;
+    transition: all .2s ease-in-out;
+}
+
+.tfre-options-control .tfre-options-control-multi-media-picker .upload-preview li .tf-remove-media:hover {
+    color: #d71717;
+    transform: scale(1.2);
+}
+
+.tfre-options-control .tfre-options-control-multi-media-picker img {
+    max-width: 650px;
+    min-width: 10px;
+    height: auto;
+}
+
+/* Single media control */
+
+.tfre-options-control .tfre-options-control-media-picker .upload-preview {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    border: 2px dashed #b4b9be;
+    padding: 20px;
+    margin: 10px 0;
+}
+
+.tfre-options-control .tfre-options-control-media-picker .upload-preview li .tf-remove-media {
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-decoration: none;
+    margin-left: 5px;
+    transition: all .2s ease-in-out;
+}
+
+.tfre-options-control .tfre-options-control-media-picker .upload-preview li .tf-remove-media:hover {
+    color: #d71717;
+    transform: scale(1.2);
+}
+
+.tfre-options-control .tfre-options-control-media-picker img {
+    max-width: 150px;
+    min-width: 10px;
+    width: 150px;
+    height: auto;
+}
+
+/* Attachments control */
+.tfre-options-control-multi-attachments-picker .upload-preview li {
+    border-bottom: solid 1px #eee;
+    margin-bottom: 10px;
+}
+
+.tfre-options-control-multi-attachments-picker .upload-preview li span.dashicons-media-default {
+    position: relative;
+    left: -10px;
+    display: block;
+    float: left;
+    width: 65px;
+    height: 75px;
+    line-height: 75px;
+    font-size: 75px;
+    cursor: move;
+}
+
+.tfre-options-control-multi-attachments-picker .upload-preview li .tf-file-info {
+    margin: 5px 0;
+    padding-left: 65px;
+}
+
+.tfre-options-control-multi-attachments-picker .upload-preview li .tf-file-info .tf-file-title {
+    display: inline-block;
+    margin-bottom: 5px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+/* Location Map */
+
+.map-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+#map {
+    position: relative;
+    left: auto;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.map-container #map.mapboxgl-map.fixed {
+    position: fixed;
+    top: 0px;
+}
+
+.map-container .tfre-map-address-field {
+    position: absolute;
+    z-index: 1;
+    left: 5px;
+    right: 5px;
+    top: 5px;
+}
+
+.map-container .tfre-map-address-field .tfre-map-address-field-text {
+    margin-right: 105px;
+}
+
+.map-container .tfre-map-address-field .tfre-map-address-field-text input {
+    width: 100%;
+    box-shadow: 0 2px 5px 2px rgba(0, 0, 0, .2);
+    border: 0;
+}
+
+.map-container button.button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    box-shadow: 0 2px 5px 2px rgba(0, 0, 0, .2) !important;
+    border: 0 !important;
+    height: 26px !important;
+}
+
+.hide-icon-blank .ui-icon-blank.ui-icon-blank.ui-icon-blank {
+    display: none;
+}
+
+.mapboxgl-ctrl-geocoder--icon-search {
+    left: 10px;
+    top: 8px;
+    width: 20px;
+    height: 20px;
+}
+
+.tfre-options-control input[type="text"].mapboxgl-ctrl-geocoder--input {
+    min-width: 250px;
+    padding: 0 20px;
+}
+
+/* dev by david ngoc phan */
+.plugins_page_tfre_options .redux-container .redux-main .redux-field-container {
+    position: relative;
+    padding-top: 5px !important;
+    margin-bottom: 15px;
+}
+
+.plugins_page_tfre_options .redux-container .redux-main .field-desc {
+    clear: both;
+    font-size: 13px;
+}
+
+.redux-container .ui-accordion .ui-accordion-content{
+    height: 100% !important;
+}
+
+/* admin Add New Real Estate*/
+/* Global for all tab */
+ul.tfre-options-section-controls li input[type=text], ul.tfre-options-section-controls li input[type=number],
+ul.tfre-options-section-controls li select {
+    width: 280px;
+    line-height: 35px;
+}
+
+ul.tfre-options-section-controls li input[type=radio]:checked::before {
+    top: 0px;
+    left: 0px;
+    position: relative;
+}
+
+ul.tfre-options-section-controls li.tfre-options-control-radio span {
+    margin-right: 15px;
+}
+
+
+ul.tfre-options-section-controls li span.tfre-options-control-title {
+    font-weight: 600;
+    margin-bottom: 3px;
+    display: inline-block;
+}
+
+ul.tfre-options-section-controls li {
+    margin-bottom: 15px;
+}
+
+.tfre-options-container-content textarea {
+    height: 150px;
+    width: 350px;
+}
+
+ul.tfre-options-section-controls li.tfre-options-control.tfre-options-control-heading {
+    display: none;
+}
+
+#property-information .ui-tabs .ui-tabs-nav {
+    padding: 0 0 0 0;
+}
+
+#property-information .ui-tabs .ui-tabs-nav li {
+    margin: 0px 0.2em 0 0;
+}
+
+#property-information .ui-tabs .ui-tabs-nav li.ui-tabs-active {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+/* Tab property-information*/
+#property-information .ui-widget.ui-widget-content {
+    border: 1px solid #ccc;
+}
+
+#property-information .ui-tabs .ui-tabs-panel {
+    padding: 15px 15px 15px 15px;
+}
+
+#tfre-options-section-basic-information ul.tfre-options-section-controls {
+    overflow: hidden;
+}
+
+#tfre-options-section-basic-information ul.tfre-options-section-controls li.tfre-options-control.tfre-options-control-heading {
+    width: 100%;
+    float: none;
+}
+
+#tfre-options-section-basic-information ul.tfre-options-section-controls li {
+    width: 33%;
+    float: left;
+}
+
+#tfre-options-section-basic-information ul.tfre-options-section-controls li#tfre-options-control-property_price_to_call,
+#tfre-options-section-basic-information ul.tfre-options-section-controls li#tfre-options-control-style_single {
+    width: 100%;
+    padding-bottom: 35px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+}
+
+#tfre-options-section-basic-information ul.tfre-options-section-controls li#tfre-options-control-property_additional_detail {
+    width: 100% !important;
+}
+
+/* Tab map */
+#tfre-options-section-location-map ul.tfre-options-section-controls .map-container input[type=text] {
+    width: 250px;
+    line-height: 35px;
+    padding: 0 20px 0px 30px;
+}
+
+#tfre-options-section-location-map ul.tfre-options-section-controls .map-container .mapboxgl-ctrl-top-right {
+    right: 15px;
+    top: 5px;
+}
+
+/* Floor */
+#tfre-options-section-floors-plan ul.tfre-options-section-controls {
+    overflow: hidden;
+}
+
+#tfre-options-section-floors-plan .body-dynamic-panel ul.tfre-options-section-controls li {
+    width: 33%;
+    float: left;
+}
+
+#tfre-options-section-floors-plan .body-dynamic-panel ul.tfre-options-section-controls li.tfre-options-control-textarea textarea {
+    max-width: 280px;
+}
+
+/* Fixed Sidebar Plugin Options */
+.redux-sidebar.fixed{
+    position: fixed !important;
+}
+
+/* Sortable */
+
+#single_property_panels_manager-list .gallery-item .dashicons-menu,
+#single_property_panels_manager-list .review-item .dashicons-menu {
+    cursor: not-allowed;
+}
+
+@media screen and (max-width: 1440px) {
+    #tfre-options-section-basic-information ul.tfre-options-section-controls li, #tfre-options-section-floors-plan .body-dynamic-panel ul.tfre-options-section-controls li{
+        width: 49%;
+    }
+
+    #tfre-options-section-floors-plan .body-dynamic-panel ul.tfre-options-section-controls li:has(.upload-dropzone){
+        width: 99%;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    #tfre-options-section-basic-information ul.tfre-options-section-controls li, #tfre-options-section-floors-plan .body-dynamic-panel ul.tfre-options-section-controls li{
+        width: 99%;
+    }
+
+    .tfre-options-section-controls:has(.col-control) {
+        flex-wrap: wrap;
+    }
+
+    li.col-control.tfre-options-control {
+        width: 49%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    li.col-control.tfre-options-control {
+        width: 100%;
+    }
+
+    .tfre-options-control-radio .tfre-options-control-field label {
+        height: 45px;
+        display: block;
+    }
+}

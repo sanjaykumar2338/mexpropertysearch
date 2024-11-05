@@ -1,0 +1,182 @@
+
+---Downloaded files---
+The import files for: Import Demo Data were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/myworkplace/mexpropertysearch
+Data file = /Applications/XAMPP/xamppfiles/htdocs/myworkplace/mexpropertysearch/wp-content/uploads/2024/11/demo-content-import-file_2024-11-05__07-07-57.xml
+Widget file = /Applications/XAMPP/xamppfiles/htdocs/myworkplace/mexpropertysearch/wp-content/uploads/2024/11/demo-widgets-import-file_2024-11-05__07-07-57.json
+Customizer file = /Applications/XAMPP/xamppfiles/htdocs/myworkplace/mexpropertysearch/wp-content/uploads/2024/11/demo-customizer-import-file_2024-11-05__07-07-57.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo_agency_02" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "agent_10" (Media)
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Search - Search - Imported
+Block - No Title - Imported
+Tag Cloud - Popular tags - Imported
+
+Footer Widget Area 1 : 
+
+Block - No Title - Imported
+
+Footer Widget Area 2 : 
+
+Block - No Title - Imported
+Custom HTML - No Title - Imported
+
+Footer Widget Area 3 : 
+
+Navigation Menu - Our Company - Imported
+
+Footer Widget Area 4 : 
+
+Block - No Title - Imported
+
+Properties Sidebar : 
+
+Contact Seller Form Widget - Contact seller - Imported
+Featured Properties Widget - Featured listings - Imported
+Property Taxonomy Widget - Real estate near you - Imported
+Featured Properties Widget - No Title - Imported
+
+Sidebar Archive Properties : 
+
+Property Search Form Widget - Advance Search - Imported
+Property Taxonomy Widget - Real estate near you - Imported
+
+Sidebar Archive Agent : 
+
+Agent Search Form Widget - Agent Search - Imported
+Featured Properties Widget - Featured listings - Imported
+Property Taxonomy Widget - Real estate near you - Imported
+Featured Properties Widget - No Title - Imported
+
+Sidebar Agency List : 
+
+Agency Search Form Widget - Agency Search - Imported
+Featured Properties Widget - Featured listings - Imported
+Property Taxonomy Widget - Real estate near you - Imported
+Featured Properties Widget - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+

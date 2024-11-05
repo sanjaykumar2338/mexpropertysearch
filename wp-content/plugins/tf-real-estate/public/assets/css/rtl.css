@@ -1,0 +1,210 @@
+/* Advanced Search
+-------------------------------------------------------------- */
+.rtl .has-input-icon .tf-search-form input[type="text"],
+.rtl .has-input-icon .tf-search-form .nice-select,
+.rtl  .has-input-icon .tf-search-form .select2-container--default .select2-selection--single {
+    padding-left: 15px !important;
+    padding-right: 46px !important;
+}
+.has-input-icon .tf-search-form .form-group::before {
+    left: unset;
+    right: 20px;
+}
+.features-list .checkbox label input[type="checkbox"] {
+    margin-right: unset;
+    margin-left: 7px;
+}
+.rtl .tf-search-wrap.style1 .search-properties-form .tf-search-status-tab .btn-status-filter:first-child,
+.rtl .tf-search-wrap.style2 .search-properties-form .tf-search-status-tab .btn-status-filter:first-child {
+    border-radius: 0px 10px 0px 0px;
+}
+.rtl .tf-search-wrap.style1 .search-properties-form .tf-search-status-tab .btn-status-filter:last-child,
+.rtl .tf-search-wrap.style2 .search-properties-form .tf-search-status-tab .btn-status-filter:last-child {
+    border-radius: 10px 0px 0px 0px;
+}
+.rtl .tf-search-wrap.style2 .search-properties-form .tf-search-form {
+    border-radius: 10px 0px 10px 10px;
+}
+
+/* Properties
+-------------------------------------------------------------- */
+.rtl .tf-properties-wrap .properties-post .list-controller li:not(:last-child),
+.rtl .tfre-property-card .list-controller li:not(:last-child) {
+    margin-right: unset !important;
+    margin-left: 6px;
+}
+.tf-properties-wrap .properties-post .list-text {
+    left: unset;
+    right: 12px;
+}
+.tf-properties-wrap.style3 .properties-post .price, .tf-properties-wrap.style5 .properties-post .price {
+    left: unset !important;
+    right: 10px;
+}
+.tf-properties-wrap .wrap-properties-post .item .properties-post .bottom .avatar span,
+.tfre-property-card .property-inner .card-bottom .avatar span {
+    margin-left: unset !important;
+    margin-right: 8px !important;
+}
+.rtl .single-property-element.property-info-header .property-action-inner a:not(:last-child) {
+    margin-right: unset;
+    margin-left: 8px;
+}
+.tfre-list-featured-properties.list .property-image,
+.rtl .single-property-element.property-info-overview .inner .icon {
+    margin-right: unset !important;
+    margin-left: 12px;
+}
+.tfre-list-featured-properties.list .property-address img,
+.rtl .tfre-list-featured-properties.carousel .property-address img {
+    margin-right: unset;
+    margin-left: 5px;
+}
+.tfre-property-card.style-list .property-inner .card-image,
+.rtl .tf-properties-wrap.style5 .properties-post .featured-property {
+    margin-right: unset !important;
+    margin-left: 25px;
+}
+.rtl .tfre-property-card .property-inner .description .property-information {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+.rtl .contact-property-form .contact-user-wrap .contact-user-avatar {
+    margin-right: unset !important;
+    margin-left: 16px;
+}
+.rtl .cards-container.half-map-left.row {
+    flex-direction: unset;
+}
+.rtl .cards-container.half-map-right.row {
+    flex-direction: row-reverse;
+}
+.rtl .single-property-element.property-info-header .property-action-inner {
+    justify-content: left;
+}
+.rtl .single-property-element.property-info-header .infor-header-right {
+    text-align: left;
+}
+.rtl .single-property-element.property-location .tfre-property-info .inner .property-info-title,
+.rtl .single-property-element.property-reviews .reviews-list .review-item .review-media,
+.rtl .single-property-element.property-reviews .add-new-review .rating-box label {
+    margin-right: unset !important;
+    margin-left: 20px;
+}
+.rtl .single-property-element.property-reviews .filter-review {
+    margin-left: unset;
+    margin-right: 31px;
+    justify-content: left;
+}
+.rtl .single-property-element.property-reviews .filter-review .option {
+    text-align: right;
+    padding: 10px 10px;
+}
+.rtl .single-property-element.property-gallery-wrap .single-property-image-thumb .owl-nav {
+    flex-direction: row-reverse;
+}
+.rtl .tf-properties-wrap.style4 .properties-post .content {
+    right: unset;
+}
+.rtl .single-property-post .content .main .heading .address {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+.single-property-post.style1 .content-wrapper .owl-nav button.owl-prev i::before {
+    content: "\e94b";
+}
+.single-property-post.style1 .content-wrapper .owl-nav button.owl-next i::before {
+    content: "\e94a";
+}
+.single-property-post .owl-carousel .owl-stage-outer {
+    direction: ltr !important;
+}
+.rtl .popup-property-container .property-content .entry-meta .icon-dreamhome-location,
+.rtl .popup-property-container .property-content .entry-meta .icon-dreamhome-date {
+    float: right;
+    margin-left: 5px;
+}
+
+/* Areas
+-------------------------------------------------------------- */
+.tf-area-wrap.style1 .wrap-area-post .item .area-post .featured-post .content,
+.tf-area-wrap.style3 .wrap-area-post .item .area-post .featured-post .content {
+    left: unset;
+    right: 20px;
+}
+.tf-area-wrap.style2 .wrap-area-post .item .area-post .featured-post .image-wrap {
+    margin-right: unset;
+    margin-left: 20px;
+}
+.widget_property_taxonomy_widget .taxonomy-info {
+    left: unset;
+    right: 10px;
+}
+.rtl .single-property-post .content .bottom .title {
+    text-align: right;
+}
+.rtl .tf-area-wrap.style4 .content .link-listing {
+    right: unset;
+    left: 15px;
+}
+
+
+/* Agent & Agencies
+-------------------------------------------------------------- */
+.tfre-controll-agencies,
+.tfre-controll-agencies .group-switch-layout {
+    justify-content: left !important;
+}
+.list-item-agent .infor-agent .agent-avatar,
+.single-agent-element .agent-author .agent-avatar,
+.tf-agent-wrap.style2 .content-wrap .image-wrap {
+    margin-right: unset !important;
+    margin-left: 30px;
+}
+.list-item-agent .agent-content-phone i, .list-item-agent .agent-content-email i,
+.tfre-agency-card-item .agency-content-address img,
+.tf-agent-wrap.style2 .content .contact .phone i,
+.tf-agent-wrap .content .contact i,
+.single-agent-element .agent-author .agent-content-phone i,
+.single-agent-element .agent-author .agent-content-email i,
+.single-agent-element .agent-author .agent-content-address i {
+    margin-right: unset !important;
+    margin-left: 5px;
+}
+.single-agent-element .agent-author .agent-social .item {
+    margin-right: unset !important;
+    margin-left: 18px;
+}
+.tfre-agency-card-item .agency-avatar, .tfre-agency-card-item.grid .agency-image {
+    margin-right: unset !important;
+    margin-left: 30px;
+}
+.tfre-agency-single-wrap .agency-wrap-info .agency-image {
+    margin-left: 25px;
+    margin-right: unset !important;
+}
+.rtl .tf-agent-wrap.style2 .content .contact .phone,
+.rtl .tf-agent-wrap.style3 .content .contact .phone,
+.rtl .tf-agent-wrap.style4 .content .contact .phone,
+.single-agent-element .agent-author .agent-content-phone,
+.single-agent-element .agent-author .agent-content-email,
+.single-agent-element .agent-author .agent-content-address {
+    display: flex;
+    align-items: center;
+}
+.rtl .tf-agent-wrap.style4 .content .contact .phone {
+    justify-content: center;
+}
+.tf-agent-wrap .content .social a:not(:last-child),
+.tf-agent-wrap.style4 .social a:not(:last-child) {
+    margin-right: unset !important;
+    margin-left: 15px !important;
+}
+
+@media only screen and (max-width: 1300px) {
+    .tf-properties-wrap.style1 .wrap-properties-post .item .properties-post .description {
+        justify-content: right;
+    }
+}
